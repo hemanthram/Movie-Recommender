@@ -3,48 +3,55 @@ import numpy as np
 import random
 import tensorflow as tf
 import numpy as np
+from pathlib import Path
+from string import ascii_lowercase
 import sys
 
 
 def find_com_words (name, words):
     count = 0
     for word in words:
-        if (word not in ['The','the','of','Of','at','At','a','Z','and','And','A','in','In','on','On']):
+        lower_word = word.lower()
+        if (lower_word not in ['the','of','at','a','Z','and','in','on']):
             if(name.find(word)!=-1) :
-                count = count +1
+                count = count + 1
     #print(count)
-    if(count >=2):
+    if(count >= 2):
         return True
     else :
         return False
 
-inpz = sys.argv[1]
-#print(list(inpz))
-n = list(inpz.split())
+# Get and split input movies(liked) from command line
+# Or look at the movie index and give input here
 
-for i in ['\'']:
- inpz = inpz.replace(i,'')
-n = inpz.split()
-for i in range(len(n)):
- n[i] = n[i].replace('\'','')
- n[i] = int(n[i])
-movies = np.array(n)
+# print(len(sys.argv))
+# sys.exit("jk")
 
-dat = pd.read_csv('genres .csv')
-tot = np.array(dat)
+if( len(sys.argv) == 1 ):
+    input_movies = input("Enter the movie indices: ")
+    input_movies = list(input_movies.split())
+else:
+    input_movies = sys.argv[1:]
 
-#movies = np.array([41,38,94,72,29,52,91,39,63,24,31,49])
-#x = np.array(dat)
-x = tot[movies,:]
+movies = np.array(input_movies,dtype=int)
+
+data = pd.read_csv('data/genres.csv')
+genre_oh = np.array(data) # oh -> one hot encoding of particular genres
+
+x = genre_oh[movies,:]
+print(x)
 m , n = x.shape
+
+# Assuming that the user likes the input movies
 y = np.ones((m,1))
 
-tf.reset_default_graph()
 print(m)
 layer = 10
 lr = 0.1
-t,n = tot.shape
+t,n = genre_oh.shape
 
+# Beginning of calculations with tf
+tf.reset_default_graph()
 X = tf.placeholder(tf.float32,(m,n))
 testx = tf.placeholder(tf.float32,(t,n))
 testy = tf.get_variable("ty",shape=(t,1))
@@ -68,31 +75,31 @@ with tf.Session() as sess:
         #print(i+1,cur_cost)
     #cur_cost = sess.run(cost, feed_dict={X:x, Y:y})
     #print(cur_cost)
-    ans = sess.run(test_ans, feed_dict={testx:tot})
+    ans = sess.run(test_ans, feed_dict={testx:genre_oh})
+
 ans = np.reshape(np.array(ans),(ans.shape[0]))
-
-m_dat = pd.read_csv('movie_metadata_edited.csv')
-m_names = m_dat['movie_title']
-m_genres = m_dat['genres']
-#print(m_names[movies],m_genres[movies])
-
 order = np.argsort(ans)
-#print(m_names[order[950:]],m_genres[order[950:]])
 
+movie_data = pd.read_csv('data/movie_metadata_edited.csv')
+movie_names = movie_data['movie_title']
+movie_genres = movie_data['genres']
+
+# Append sequels and prequels for use later if needed
 name_class = []
-for test in m_names[movies]:
+for test in movie_names[movies]:
     words = test.split()
     #print(words)
     i = 0
-    for name in m_names:
+    for name in movie_names:
         if(find_com_words(name,words)):
-            # print(name,i)
+            print(name,i)
             if(i not in movies):
                 name_class.append(i)
-        i = i+1
+        i = i + 1
 
 name_class = np.array(name_class)
 
+# Delete input movies from prediction
 to_delete = []
 for i in range(len(order)) :
     if(order[i] in movies):
@@ -101,6 +108,16 @@ to_delete = np.array(to_delete)
 order_f= np.delete(order,to_delete)
 order_f = np.flip(order_f)
 
+# for i in [0,1,2,3,4]:
+#     ind = np.where(order_f == i)
+#     print(ind)
+
+# Make a dir for output if not there alerady
+Path("output/").mkdir(parents=True, exist_ok=True)
 print(name_class)
-m_dat.iloc[name_class].to_json('names.json','records')
-m_dat.iloc[order_f[0:20]].to_json('genres.json','records')
+
+# Ouput our predictions as JSON
+# names.json -> movies with similar names(sequels)
+# predicted_movies -> Top 20 predicted movies
+movie_data.iloc[name_class].to_json('output/names.json','records')
+movie_data.iloc[order_f[0:20]].to_json('output/predicted_movies.json','records')
