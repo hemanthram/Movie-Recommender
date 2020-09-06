@@ -1,0 +1,999 @@
+gross,genres,movie_title,plot_keywords,movie_imdb_link,language,country,title_year,imdb_score,Action,Adventure,Fantasy,Sci-fi,Thriller,Comedy,Romance,Mystery,Horror,Animation
+760505847,Action|Adventure|Fantasy|Sci-Fi,Avatar,avatar|future|marine|native|paraplegic,tt0499549,English,USA,2009,7.9,1,1,1,1,0,0,0,0,0,0
+309404152,Action|Adventure|Fantasy,Pirates of the Caribbean: At World's End,goddess|marriage ceremony|marriage proposal|pirate|singapore,tt0449088,English,USA,2007,7.1,1,1,1,0,0,0,0,0,0,0
+200074175,Action|Adventure|Thriller,Spectre,bomb|espionage|sequel|spy|terrorist,tt2379713,English,UK,2015,6.8,1,1,0,0,1,0,0,0,0,0
+448130642,Action|Thriller,The Dark Knight Rises,deception|imprisonment|lawlessness|police officer|terrorist plot,tt1345836,English,USA,2012,8.5,1,0,0,0,1,0,0,0,0,0
+73058679,Action|Adventure|Sci-Fi,John Carter,alien|american civil war|male nipple|mars|princess,tt0401729,English,USA,2012,6.6,1,1,0,1,0,0,0,0,0,0
+336530303,Action|Adventure|Romance,Spider-Man 3,sandman|spider man|symbiote|venom|villain,tt0413300,English,USA,2007,6.2,1,1,0,0,0,0,1,0,0,0
+200807262,Adventure|Animation|Comedy|Family|Fantasy|Musical|Romance,Tangled,17th century|based on fairy tale|disney|flower|tower,tt0398286,English,USA,2010,7.8,0,1,1,0,0,1,1,0,0,1
+458991599,Action|Adventure|Sci-Fi,Avengers: Age of Ultron,artificial intelligence|based on comic book|captain america|marvel cinematic universe|superhero,tt2395427,English,USA,2015,7.5,1,1,0,1,0,0,0,0,0,0
+301956980,Adventure|Family|Fantasy|Mystery,Harry Potter and the Half-Blood Prince,blood|book|love|potion|professor,tt0417741,English,UK,2009,7.5,0,1,1,0,0,0,0,1,0,0
+330249062,Action|Adventure|Sci-Fi,Batman v Superman: Dawn of Justice,based on comic book|batman|sequel to a reboot|superhero|superman,tt2975590,English,USA,2016,6.9,1,1,0,1,0,0,0,0,0,0
+200069408,Action|Adventure|Sci-Fi,Superman Returns,crystal|epic|lex luthor|lois lane|return to earth,tt0348150,English,USA,2006,6.1,1,1,0,1,0,0,0,0,0,0
+168368427,Action|Adventure,Quantum of Solace,action hero|attempted rape|bond girl|official james bond series|revenge,tt0830515,English,UK,2008,6.7,1,1,0,0,0,0,0,0,0,0
+423032628,Action|Adventure|Fantasy,Pirates of the Caribbean: Dead Man's Chest,box office hit|giant squid|heart|liar's dice|monster,tt0383574,English,USA,2006,7.3,1,1,1,0,0,0,0,0,0,0
+89289910,Action|Adventure|Western,The Lone Ranger,horse|outlaw|texas|texas ranger|train,tt1210819,English,USA,2013,6.5,1,1,0,0,0,0,0,0,0,0
+291021565,Action|Adventure|Fantasy|Sci-Fi,Man of Steel,based on comic book|british actor playing american character|final battle|origin of hero|reboot,tt0770828,English,USA,2013,7.2,1,1,1,1,0,0,0,0,0,0
+141614023,Action|Adventure|Family|Fantasy,The Chronicles of Narnia: Prince Caspian,brother brother relationship|brother sister relationship|good versus evil|king|narnia,tt0499448,English,USA,2008,6.6,1,1,1,0,0,0,0,0,0,0
+623279547,Action|Adventure|Sci-Fi,The Avengers,alien invasion|assassin|battle|iron man|soldier,tt0848228,English,USA,2012,8.1,1,1,0,1,0,0,0,0,0,0
+241063875,Action|Adventure|Fantasy,Pirates of the Caribbean: On Stranger Tides,blackbeard|captain|pirate|revenge|soldier,tt1298650,English,USA,2011,6.7,1,1,1,0,0,0,0,0,0,0
+179020854,Action|Adventure|Comedy|Family|Fantasy|Sci-Fi,Men in Black 3,alien|criminal|m.i.b.|maximum security prison|prison,tt1409024,English,USA,2012,6.8,1,1,1,1,0,1,0,0,0,0
+255108370,Adventure|Fantasy,The Hobbit: The Battle of the Five Armies,army|elf|hobbit|middle earth|orc,tt2310332,English,New Zealand,2014,7.5,0,1,1,0,0,0,0,0,0,0
+262030663,Action|Adventure|Fantasy,The Amazing Spider-Man,lizard|outcast|spider|spider man|teenager,tt0948470,English,USA,2012,7,1,1,1,0,0,0,0,0,0,0
+105219735,Action|Adventure|Drama|History,Robin Hood,1190s|archer|england|king of england|robin hood,tt0955308,English,USA,2010,6.7,1,1,0,0,0,0,0,0,0,0
+258355354,Adventure|Fantasy,The Hobbit: The Desolation of Smaug,dwarf|elf|lake town|mountain|sword and sorcery,tt1170358,English,USA,2013,7.9,0,1,1,0,0,0,0,0,0,0
+70083519,Adventure|Family|Fantasy,The Golden Compass,children|epic|friend|girl|quest,tt0385752,English,USA,2007,6.1,0,1,1,0,0,0,0,0,0,0
+218051260,Action|Adventure|Drama|Romance,King Kong,animal name in title|ape abducts a woman|gorilla|island|king kong,tt0360717,English,New Zealand,2005,7.2,1,1,0,0,0,0,1,0,0,0
+658672302,Drama|Romance,Titanic,artist|love|ship|titanic|wet,tt0120338,English,USA,1997,7.7,0,0,0,0,0,0,1,0,0,0
+407197282,Action|Adventure|Sci-Fi,Captain America: Civil War,based on comic book|knife|marvel cinematic universe|returning character killed off|superhero,tt3498820,English,USA,2016,8.2,1,1,0,1,0,0,0,0,0,0
+65173160,Action|Adventure|Sci-Fi|Thriller,Battleship,box office flop|hawaii|naval|oahu hawaii|ship,tt1440129,English,USA,2012,5.9,1,1,0,1,1,0,0,0,0,0
+652177271,Action|Adventure|Sci-Fi|Thriller,Jurassic World,dinosaur|disaster film|experiment gone wrong|jurassic park|velociraptor,tt0369610,English,USA,2015,7,1,1,0,1,1,0,0,0,0,0
+304360277,Action|Adventure|Thriller,Skyfall,brawl|childhood home|computer cracker|intelligence agency|terrorist cell,tt1074638,English,UK,2012,7.8,1,1,0,0,1,0,0,0,0,0
+373377893,Action|Adventure|Fantasy|Romance,Spider-Man 2,death|doctor|scientist|super villain|tentacle,tt0316654,English,USA,2004,7.3,1,1,1,0,0,0,1,0,0,0
+408992272,Action|Adventure|Sci-Fi,Iron Man 3,armor|explosion|human bomb|missile attack|terrorist,tt1300854,English,USA,2013,7.2,1,1,0,1,0,0,0,0,0,0
+334185206,Adventure|Family|Fantasy,Alice in Wonderland,alice in wonderland|mistaking reality for dream|queen|shrinking|shrinking potion,tt1014759,English,USA,2010,6.5,0,1,1,0,0,0,0,0,0,0
+234360014,Action|Adventure|Fantasy|Sci-Fi|Thriller,X-Men: The Last Stand,battle|mutant|outrage|walking through a wall|x men,tt0376994,English,Canada,2006,6.8,1,1,1,1,1,0,0,0,0,0
+268488329,Adventure|Animation|Comedy|Family|Fantasy,Monsters University,cheating|fraternity|monster|singing in a car|university,tt1453405,English,USA,2013,7.3,0,1,1,0,0,1,0,0,0,1
+402076689,Action|Adventure|Sci-Fi,Transformers: Revenge of the Fallen,autobot|decepticon|machine|sun|symbol,tt1055369,English,USA,2009,6,1,1,0,1,0,0,0,0,0,0
+245428137,Action|Adventure|Sci-Fi,Transformers: Age of Extinction,blockbuster|bumblebee the character|semi truck and trailer|texas|truck,tt2109248,English,USA,2014,5.7,1,1,0,1,0,0,0,0,0,0
+234903076,Adventure|Family|Fantasy,Oz the Great and Powerful,circus|magic|magician|oz|witch,tt1623205,English,USA,2013,6.4,0,1,1,0,0,0,0,0,0,0
+202853933,Action|Adventure|Fantasy|Sci-Fi,The Amazing Spider-Man 2,costumed hero|death of girlfriend|masked vigilante|returning character killed off|teenager,tt1872181,English,USA,2014,6.7,1,1,1,1,0,0,0,0,0,0
+172051787,Action|Adventure|Sci-Fi,TRON: Legacy,arcade|bridge|disappearance|escape|warrior,tt1104001,English,USA,2010,6.8,1,1,0,1,0,0,0,0,0,0
+191450875,Adventure|Animation|Comedy|Family|Sport,Cars 2,best friend|car race|conspiracy|gadget car|spy,tt1216475,English,USA,2011,6.3,0,1,0,0,0,1,0,0,0,1
+116593191,Action|Adventure|Sci-Fi,Green Lantern,autopsy|lantern|planet|ring|test pilot,tt1133985,English,USA,2011,5.6,1,1,0,1,0,0,0,0,0,0
+414984497,Adventure|Animation|Comedy|Family|Fantasy,Toy Story 3,college|day care|escape|teddy bear|toy,tt0435761,English,USA,2010,8.3,0,1,1,0,0,1,0,0,0,1
+125320003,Action|Adventure|Sci-Fi,Terminator Salvation,death row|future|machine|rescue|skynet,tt0438488,English,USA,2009,6.6,1,1,0,1,0,0,0,0,0,0
+350034110,Action|Crime|Thriller,Furious 7,car falling off a cliff|hospital|revenge|star died before release|terrorist,tt2820852,English,USA,2015,7.2,1,0,0,0,1,0,0,0,0,0
+202351611,Action|Adventure|Horror|Sci-Fi|Thriller,World War Z,chaos|disease|infection|pandemic|zombie,tt0816711,English,USA,2013,7,1,1,0,1,1,0,0,0,1,0
+233914986,Action|Adventure|Fantasy|Sci-Fi|Thriller,X-Men: Days of Future Past,dystopia|super strength|supernatural power|time paradox|time travel,tt1877832,English,USA,2014,8,1,1,1,1,1,0,0,0,0,0
+228756232,Action|Adventure|Sci-Fi,Star Trek Into Darkness,admiral|captain|manhunt|mission|space,tt1408101,English,USA,2013,7.8,1,1,0,1,0,0,0,0,0,0
+65171860,Adventure|Fantasy,Jack the Giant Slayer,bean|giant|king|no opening credits|princess,tt1351685,English,USA,2013,6.3,0,1,1,0,0,0,0,0,0,0
+144812796,Drama|Romance,The Great Gatsby,ingratitude|mansion|party|title appears in writing|tragedy,tt1343092,English,Australia,2013,7.3,0,0,0,0,0,0,1,0,0,0
+90755643,Action|Adventure|Fantasy|Romance,Prince of Persia: The Sands of Time,alamut|dagger|king|persia|princess,tt0473075,English,USA,2010,6.6,1,1,1,0,0,0,1,0,0,0
+101785482,Action|Adventure|Sci-Fi,Pacific Rim,giant monster|kaiju|pilot|portal|robot,tt1663662,English,USA,2013,7,1,1,0,1,0,0,0,0,0,0
+352358779,Action|Adventure|Sci-Fi,Transformers: Dark of the Moon,autobot|decepticon|job interview|moon|spacecraft,tt1399103,English,USA,2011,6.3,1,1,0,1,0,0,0,0,0,0
+317011114,Action|Adventure|Fantasy,Indiana Jones and the Kingdom of the Crystal Skull,cult figure|femme fatale|indiana jones|unsubtitled foreign language|year 1957,tt0367882,English,USA,2008,6.2,1,1,1,0,0,0,0,0,0,0
+123070338,Adventure|Animation|Comedy|Family|Fantasy,The Good Dinosaur,apatosaurus|asteroid|dinosaur|fear|river,tt1979388,English,USA,2015,6.8,0,1,1,0,0,1,0,0,0,1
+237282182,Adventure|Animation|Comedy|Family|Fantasy,Brave,archery|coming of age|female warrior|princess|rebellious daughter,tt1217209,English,USA,2012,7.2,0,1,1,0,0,1,0,0,0,1
+130468626,Action|Adventure|Sci-Fi|Thriller,Star Trek Beyond,hatred|sequel|space opera|star trek|third part,tt2660888,English,USA,2016,7.5,1,1,0,1,1,0,0,0,0,0
+223806889,Adventure|Animation|Family|Sci-Fi,WALL·E,earth|obesity|plant|robot|soil,tt0910970,English,USA,2008,8.4,0,1,0,1,0,0,0,0,0,1
+140080850,Action|Comedy|Crime|Thriller,Rush Hour 3,ambassador|assassination|chinese|french|triad,tt0293564,English,USA,2007,6.2,1,0,0,0,1,1,0,0,0,0
+166112167,Action|Adventure|Sci-Fi,2012,ark|catastrophe|geologist|president|writer,tt1190080,English,USA,2009,5.8,1,1,0,1,0,0,0,0,0,0
+137850096,Animation|Drama|Family|Fantasy,A Christmas Carol,charles dickens|christmas|christmas eve|ghost|scrooge,tt1067106,English,USA,2009,6.8,0,0,1,0,0,0,0,0,0,1
+47375327,Action|Adventure|Sci-Fi,Jupiter Ascending,box office flop|critically bashed|planet earth|space opera|woman in bra and panties,tt1617661,English,USA,2015,5.4,1,1,0,1,0,0,0,0,0,0
+124051759,Action|Adventure|Drama|Romance,The Legend of Tarzan,africa|capture|jungle|male objectification|tarzan,tt0918940,English,USA,2016,6.6,1,1,0,0,0,0,1,0,0,0
+291709845,Adventure|Family|Fantasy,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",hide and seek|lion|magic|professor|snow,tt0363771,English,USA,2005,6.9,0,1,1,0,0,0,0,0,0,0
+154985087,Action|Adventure|Sci-Fi,X-Men: Apocalypse,mutant|superhero|superhero team|x men|year 1983,tt3385516,English,USA,2016,7.3,1,1,0,1,0,0,0,0,0,0
+533316061,Action|Crime|Drama|Thriller,The Dark Knight,based on comic book|dc comics|psychopath|star died before release|urban setting,tt0468569,English,USA,2008,9,1,0,0,0,1,0,0,0,0,0
+292979556,Adventure|Animation|Comedy|Family,Up,balloon|house|promise|retirement|skeleton,tt1049413,English,USA,2009,8.3,0,1,0,0,0,1,0,0,0,1
+198332128,Action|Adventure|Animation|Comedy|Family|Sci-Fi,Monsters vs. Aliens,alien|alien invasion|alien space craft|giant|giantess,tt0892782,English,USA,2009,6.5,1,1,0,1,0,1,0,0,0,1
+318298180,Action|Adventure|Sci-Fi,Iron Man,afghanistan|billionaire|inventor|playboy|u.s. air force,tt0371746,English,USA,2008,7.9,1,1,0,1,0,0,0,0,0,0
+73820094,Adventure|Drama|Family|Mystery,Hugo,automaton|mechanical|railway station|steampunk|train,tt0970179,English,USA,2011,7.5,0,1,0,0,0,0,0,1,0,0
+113745408,Action|Comedy|Sci-Fi|Western,Wild Wild West,buddy movie|general|inventor|steampunk|utah,tt0120891,English,USA,1999,4.8,1,0,0,1,0,1,0,0,0,0
+102176165,Action|Adventure|Fantasy|Horror|Thriller,The Mummy: Tomb of the Dragon Emperor,army|china|emperor|mummy|shangri la,tt0859163,English,USA,2008,5.2,1,1,1,0,1,0,0,0,1,0
+161087183,Action|Adventure|Comedy|Sci-Fi,Suicide Squad,based on comic book|critically bashed|father daughter relationship|reference to superman|super villain,tt1386697,English,USA,2016,6.9,1,1,0,1,0,1,0,0,0,0
+100289690,Comedy|Family|Fantasy,Evan Almighty,ark|change|congressman|depiction of god|flood,tt0413099,English,USA,2007,5.4,0,0,1,0,0,1,0,0,0,0
+100189501,Action|Adventure|Sci-Fi,Edge of Tomorrow,alien|combat|dying repeatedly|end of the world|time loop,tt1631867,English,USA,2014,7.9,1,1,0,1,0,0,0,0,0,0
+88246220,Action|Adventure|Sci-Fi|Thriller,Waterworld,future|sail|sea|smoker|water,tt0114898,English,USA,1995,6.1,1,1,0,1,1,0,0,0,0,0
+150167630,Action|Adventure|Sci-Fi|Thriller,G.I. Joe: The Rise of Cobra,cobra|gi joe|snake|train|warhead,tt1046173,English,USA,2009,5.8,1,1,0,1,1,0,0,0,0,0
+356454367,Adventure|Animation|Comedy|Drama|Family|Fantasy,Inside Out,anger|joy|memory|running away|sadness,tt2096673,English,USA,2015,8.3,0,1,1,0,0,1,0,0,0,1
+362645141,Adventure|Drama|Family|Fantasy,The Jungle Book,fire|jungle|remake|tiger|wolf,tt3040964,English,UK,2016,7.8,0,1,1,0,0,0,0,0,0,0
+312057433,Action|Adventure|Sci-Fi,Iron Man 2,hammer|military|monaco|revenge|tony stark,tt1228705,English,USA,2010,7,1,1,0,1,0,0,0,0,0,0
+155111815,Action|Adventure|Drama|Fantasy,Snow White and the Huntsman,evil queen|fairy tale|magic|queen|snow white,tt1735898,English,USA,2012,6.1,1,1,1,0,0,0,0,0,0,0
+241407328,Action|Adventure|Family|Fantasy|Romance,Maleficent,curse|dark fantasy|fairy|king|kingdom,tt1587310,English,USA,2014,7,1,1,1,0,0,0,1,0,0,0
+208543795,Action|Adventure|Drama|Sci-Fi,Dawn of the Planet of the Apes,ape|dam|leader|post apocalypse|sequel,tt2103281,English,USA,2014,7.6,1,1,0,1,0,0,0,0,0,0
+,Action|Adventure|Romance|Sci-Fi,The Lovers,1770s|british india|great barrier reef|india|ring,tt1321869,English,Belgium,2015,4.5,1,1,0,1,0,0,1,0,0,0
+38297305,Action|Adventure|Drama|Fantasy,47 Ronin,box office flop|ronin|samurai|shogun|tournament,tt1335975,English,USA,2013,6.3,1,1,1,0,0,0,0,0,0,0
+259746958,Action|Adventure|Sci-Fi,Captain America: The Winter Soldier,conspiracy|heroism|megalomaniac|super soldier|world domination,tt1843866,English,USA,2014,7.8,1,1,0,1,0,0,0,0,0,0
+238371987,Adventure|Animation|Comedy|Family|Fantasy,Shrek Forever After,alternate world|fairy tale parody|female warrior|ogre|true love,tt0892791,English,USA,2010,6.4,0,1,1,0,0,1,0,0,0,1
+93417865,Action|Adventure|Family|Mystery|Sci-Fi,Tomorrowland,boy genius|futuristic city|inventor|teenage girl|time travel,tt1964418,English,USA,2015,6.5,1,1,0,1,0,0,0,1,0,0
+222487711,Action|Adventure|Animation|Comedy|Drama|Family|Sci-Fi,Big Hero 6,high tech|martial arts|masked man|robot|superhero,tt2245084,English,USA,2014,7.9,1,1,0,1,0,1,0,0,0,1
+189412677,Adventure|Animation|Comedy|Family|Sci-Fi,Wreck-It Ralph,arcade|candy|glitch|king|medal,tt1772341,English,USA,2012,7.8,0,1,0,1,0,1,0,0,0,1
+665426,Adventure|Animation|Family|Fantasy,The Polar Express,boy|christmas|christmas eve|north pole|train,tt0338348,English,USA,2004,6.6,0,1,1,0,0,0,0,0,0,1
+102315545,Action|Adventure|Sci-Fi,Independence Day: Resurgence,alien|battle|defense|independence day|mothership,tt1628841,English,USA,2016,5.5,1,1,0,1,0,0,0,0,0,0
+217387997,Adventure|Animation|Family|Fantasy,How to Train Your Dragon,dragon|island|training|viking|village,tt0892769,English,USA,2010,8.2,0,1,1,0,0,0,0,0,0,1
+150350192,Action|Sci-Fi,Terminator 3: Rise of the Machines,drifter|exploding truck|future|machine|skynet,tt0181852,English,USA,2003,6.4,1,0,0,1,0,0,0,0,0,0
+333130696,Action|Adventure|Sci-Fi,Guardians of the Galaxy,bounty hunter|outer space|raccoon|talking animal|tree,tt2015381,English,USA,2014,8.1,1,1,0,1,0,0,0,0,0,0
+187991439,Adventure|Drama|Sci-Fi,Interstellar,black hole|father daughter relationship|saving the world|space travel|wormhole,tt0816692,English,USA,2014,8.6,0,1,0,1,0,0,0,0,0,0
+292568851,Action|Adventure|Sci-Fi|Thriller,Inception,ambiguous ending|corporate espionage|dream|subconscious|thief,tt1375666,English,USA,2010,8.8,1,1,0,1,1,0,0,0,0,0
+,Action|Adventure|Drama|Horror|Sci-Fi,Godzilla Resurgence,blood|godzilla|monster|sequel,tt4262980,Japanese,Japan,2016,8.2,1,1,0,1,0,0,0,0,1,0
+303001229,Adventure|Fantasy,The Hobbit: An Unexpected Journey,dragon|dwarf|hobbit|orc|wizard,tt0903624,English,USA,2012,7.9,0,1,1,0,0,0,0,0,0,0
+144512310,Action|Crime|Thriller,The Fast and the Furious,eighteen wheeler|illegal street racing|truck|trucker|undercover cop,tt0232500,English,USA,2001,6.7,1,0,0,0,1,0,0,0,0,0
+127490802,Drama|Fantasy|Romance,The Curious Case of Benjamin Button,deformed baby|diary|lingerie slip|older man younger woman relationship|premature aging,tt0421715,English,USA,2008,7.8,0,0,1,0,0,0,1,0,0,0
+146405371,Action|Adventure|Sci-Fi,X-Men: First Class,cia|cia agent|mutant|nuclear war|professor,tt1270798,English,USA,2011,7.8,1,1,0,1,0,0,0,0,0,0
+281666058,Adventure|Sci-Fi,The Hunger Games: Mockingjay - Part 2,death of sister|dystopia|execution|rebellion|revolution,tt1951266,English,USA,2015,6.6,0,1,0,1,0,0,0,0,0,0
+63143812,Action|Adventure|Family|Fantasy,The Sorcerer's Apprentice,chosen one|enchanted object|love|spell|training,tt0963966,English,USA,2010,6.1,1,1,1,0,0,0,0,0,0,0
+76846624,Adventure|Family|Fantasy,Alice Through the Looking Glass,clock|dark fantasy|mad hatter|queen|sequel,tt2567026,English,USA,2016,6.4,0,1,1,0,0,0,0,0,0,0
+320706665,Adventure|Animation|Comedy|Family|Fantasy,Shrek the Third,disney spoof|fairy tale|prince|princess|tough guy,tt0413267,English,USA,2007,6.1,0,1,1,0,0,1,0,0,0,1
+46978995,Action|Adventure|Fantasy,Warcraft,based on video game|fictional language|fictional war|orc|sword and sorcery,tt0803096,English,USA,2016,7.3,1,1,1,0,0,0,0,0,0,0
+89732035,Action|Adventure|Sci-Fi,Terminator Genisys,alternate timeline|cyborg|future|robot|time machine,tt1340138,English,USA,2015,6.6,1,1,0,1,0,0,0,0,0,0
+104383624,Adventure|Family|Fantasy,The Chronicles of Narnia: The Voyage of the Dawn Treader,dragon|king|mouse|quest|warrior,tt0980970,English,USA,2010,6.3,0,1,1,0,0,0,0,0,0,0
+198539855,Action|Drama|History|Romance|War,Pearl Harbor,air raid|black smoke|japanese military|japanese navy|sunday,tt0213149,English,USA,2001,6.1,1,0,0,0,0,0,1,0,0,0
+318759914,Action|Adventure|Sci-Fi,Transformers,alien contact|autobot|decepticon|robot vs. robot|teenage hero,tt0418279,English,USA,2007,7.1,1,1,0,1,0,0,0,0,0,0
+292000866,Adventure|Family|Fantasy|Mystery,Harry Potter and the Order of the Phoenix,battle|magic|school|teacher|wizard,tt0373889,English,UK,2007,7.5,0,1,1,0,0,0,0,1,0,0
+289994397,Adventure|Family|Fantasy|Mystery,Harry Potter and the Goblet of Fire,fire|goblet|magic|tournament|wizard,tt0330373,English,UK,2005,7.6,0,1,1,0,0,0,0,1,0,0
+227946274,Action|Drama,Hancock,bully comeuppance|destruction|prison|superhero|tough girl,tt0448157,English,USA,2008,6.4,1,0,0,0,0,0,0,0,0,0
+256386216,Drama|Horror|Sci-Fi,I Am Legend,new york city|pandemic|post apocalypse|survivalist|virus,tt0480249,English,USA,2007,7.2,0,0,0,1,0,0,0,0,1,0
+206456431,Adventure|Comedy|Family|Fantasy,Charlie and the Chocolate Factory,chocolate|diminution|miniaturization|physical flexability|ticket,tt0367594,English,USA,2005,6.7,0,1,1,0,0,1,0,0,0,0
+206435493,Animation|Comedy|Family|Fantasy,Ratatouille,chef|food|french|rat|restaurant,tt0382932,English,USA,2007,8,0,0,1,0,0,1,0,0,0,1
+205343774,Action|Adventure,Batman Begins,armored car|gangster|gotham|mixed martial arts|social decay,tt0372784,English,USA,2005,8.3,1,1,0,0,0,0,0,0,0,0
+179982968,Action|Adventure|Animation|Comedy|Family,Madagascar: Escape 2 Africa,africa|madagascar|new york city|sequel|zoo,tt0479952,English,USA,2008,6.7,1,1,0,0,0,1,0,0,0,1
+177243721,Adventure|Comedy|Family|Fantasy,Night at the Museum: Battle of the Smithsonian,hdtv|motorcycle|museum|security guard|tyrannosaurus rex,tt1078912,English,USA,2009,5.9,0,1,1,0,0,1,0,0,0,0
+179883016,Action|Adventure|Fantasy|Sci-Fi|Thriller,X-Men Origins: Wolverine,army|civil war|claw fight|commando|wolverine the character,tt0458525,English,USA,2009,6.7,1,1,1,1,1,0,0,0,0,0
+139259759,Action|Sci-Fi,The Matrix Revolutions,battle|epic|fight|future|machine,tt0242653,English,Australia,2003,6.7,1,0,0,1,0,0,0,0,0,0
+400736600,Adventure|Animation|Comedy|Family|Fantasy|Musical,Frozen,magic|sister love|sister sister relationship|snow|snowman,tt2294629,English,USA,2013,7.6,0,1,1,0,0,1,0,0,0,1
+281492479,Action|Sci-Fi,The Matrix Reloaded,car motorcycle chase|one against many|oracle|prophecy|stylized violence,tt0234215,English,USA,2003,7.2,1,0,0,1,0,0,0,0,0,0
+206360018,Action|Adventure|Fantasy,Thor: The Dark World,arrest|portal|thor|warrior|weapon,tt1981115,English,USA,2013,7.1,1,1,1,0,0,0,0,0,0,0
+153629485,Action|Adventure|Sci-Fi|Thriller,Mad Max: Fury Road,australia|desert|escape|on the run|post apocalypse,tt1392190,English,Australia,2015,8.1,1,1,0,1,1,0,0,0,0,0
+133375846,Mystery|Thriller,Angels & Demons,conclave|illuminati|murder|reference to bernini|reference to raphael,tt0808151,English,USA,2009,6.7,0,0,0,0,1,0,0,1,0,0
+181015141,Action|Adventure|Fantasy,Thor,battle|marvel cinematic universe|scientist|thor|throne,tt0800369,English,USA,2011,7,1,1,1,0,0,0,0,0,0,0
+114053579,Adventure|Animation|Comedy|Drama|Family,Bolt,cat|dog|hamster|new york city|superpower,tt0397892,English,USA,2008,6.9,0,1,0,0,0,1,0,0,0,1
+119420252,Action|Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi,G-Force,fbi director|guinea pig|household appliance|secret agent|talking mouse,tt0436339,English,USA,2009,5.1,1,1,1,1,0,1,0,0,0,1
+195000874,Action|Adventure|Thriller,Mission: Impossible - Rogue Nation,capture|computer hacker|mission|rogue agent|spy,tt2381249,English,China,2015,7.4,1,1,0,0,1,0,0,0,0,0
+124051759,Action|Adventure|Drama|Romance,The Legend of Tarzan,africa|capture|jungle|male objectification|tarzan,tt0918940,English,USA,2016,6.6,1,1,0,0,0,0,1,0,0,0
+126597121,Adventure|Animation|Comedy|Family,Bee Movie,bee|dream sequence|egg|scatological humor|squashed bug,tt0389790,English,USA,2007,6.2,0,1,0,0,0,1,0,0,0,1
+165230261,Action|Adventure|Animation|Comedy|Family,Kung Fu Panda 2,china|kung fu|panda|peacock|tigress,tt1302011,English,USA,2011,7.3,1,1,0,0,0,1,0,0,0,1
+131564731,Action|Adventure|Family|Fantasy,The Last Airbender,avatar|fire|kingdom|tribe|water,tt0938283,English,USA,2010,4.2,1,1,1,0,0,0,0,0,0,0
+133382309,Action|Adventure|Thriller,Mission: Impossible III,arms dealer|fictional government agency|mission|rescue|vatican,tt0317919,English,USA,2006,6.9,1,1,0,0,1,0,0,0,0,0
+73103784,Action|Drama|Thriller,White House Down,black u.s. president|president|secret service|tour|white house,tt2334879,English,USA,2013,6.4,1,0,0,0,1,0,0,0,0,0
+21379315,Action|Adventure|Animation|Comedy|Family|Sci-Fi,Mars Needs Moms,boy|martian|rescue|robot|sexism,tt1305591,English,USA,2011,5.4,1,1,0,1,0,1,0,0,0,1
+64459316,Adventure|Animation|Comedy|Family,Flushed Away,boat|frog|rat|sewer|toad,tt0424095,English,UK,2006,6.7,0,1,0,0,0,1,0,0,0,1
+111505642,Adventure|Animation|Comedy|Family|Sci-Fi,Mr. Peabody & Sherman,dog|father son relationship|inventor|talking dog|time travel,tt0864835,English,USA,2014,6.9,0,1,0,1,0,1,0,0,0,1
+133228348,Adventure,Troy,greek|mythology|prince|trojan|troy,tt0332452,English,USA,2004,7.2,0,1,0,0,0,0,0,0,0,0
+216366733,Adventure|Animation|Comedy|Family,Madagascar 3: Europe's Most Wanted,animal|circus|island name in title|lemur|penguin,tt1277953,English,USA,2012,6.9,0,1,0,0,0,1,0,0,0,1
+160201106,Action|Adventure|Thriller,Die Another Day,catfight|clinic|colonel|diamond|patricide,tt0246460,English,UK,2002,6.1,1,1,0,0,1,0,0,0,0,0
+118099659,Action|Comedy|Fantasy|Sci-Fi,Ghostbusters,ghost|ghostbuster|ghostbusters|male objectification|reboot,tt1289401,English,USA,2016,5.5,1,0,1,1,0,1,0,0,0,0
+201573391,Action|Adventure|Sci-Fi|Thriller,Armageddon,asteroid|astronaut|bomb|meteorite|outer space,tt0120591,English,USA,1998,6.6,1,1,0,1,1,0,0,0,0,0
+190418803,Action|Adventure|Comedy|Family|Fantasy|Mystery|Sci-Fi,Men in Black II,alien|lingerie|lingerie model|m.i.b.|pug,tt0120912,English,USA,2002,6.1,1,1,1,1,0,1,0,1,0,0
+82161969,Action|Adventure|Animation|Fantasy,Beowulf,creature|demon|king|reward|warrior,tt0442933,English,USA,2007,6.3,1,1,1,0,0,0,0,0,0,1
+143523463,Action|Adventure|Animation|Comedy|Family,Kung Fu Panda 3,china|kung fu|panda|pig|village,tt2267968,English,USA,2016,7.2,1,1,0,0,0,1,0,0,0,1
+209364921,Action|Adventure|Thriller,Mission: Impossible - Ghost Protocol,dubai|kremlin|race against time|russian|terrorist,tt1229238,English,USA,2011,7.4,1,1,0,0,1,0,0,0,0,0
+103400692,Adventure|Animation|Family|Fantasy,Rise of the Guardians,belief|box office hit|children|new york city|tooth,tt1446192,English,USA,2012,7.3,0,1,1,0,0,0,0,0,0,1
+111110575,Action|Drama|History|War,The Last Samurai,captain|emperor|honor|japan|samurai,tt0325710,English,USA,2003,7.7,1,0,0,0,0,0,0,0,0,0
+65007045,Action|Adventure|Drama,Exodus: Gods and Kings,egypt|exodus|moses|pharaoh|plague,tt1528100,English,UK,2014,6.1,1,1,0,0,0,0,0,0,0,0
+257704099,Action|Adventure|Sci-Fi,Star Trek,box office hit|future|lifted by the throat|star trek|vulcan,tt0796366,English,USA,2009,8,1,1,0,1,0,0,0,0,0,0
+403706375,Action|Adventure|Fantasy|Romance,Spider-Man,evil|goblin|spider|spider man|superhero,tt0145487,English,USA,2002,7.3,1,1,1,0,0,0,1,0,0,0
+176997107,Action|Adventure|Animation|Comedy|Family|Fantasy,How to Train Your Dragon 2,dragon|father son relationship|husband wife relationship|mother son relationship|viking,tt1646971,English,USA,2014,7.9,1,1,1,0,0,1,0,0,0,1
+107503316,Action|Drama|Mystery|Sci-Fi,Watchmen,conspiracy|cynicism|false promise of the american dream|male full frontal nudity|male nudity,tt0409459,English,USA,2009,7.7,1,0,0,1,0,0,0,1,0,0
+129734803,Action|Crime|Thriller,Lethal Weapon 4,kung fu|lapd|martial arts|private investigator|triad,tt0122151,English,USA,1998,6.6,1,0,0,0,1,0,0,0,0,0
+132122995,Action|Sci-Fi,Hulk,1980s|c 130 hercules|monster|panzer|san francisco california,tt0286716,English,USA,2003,5.7,1,0,0,1,0,0,0,0,0,0
+122512052,Action|Adventure|Sci-Fi|Thriller,G.I. Joe: Retaliation,general|gi joe|martial arts|ninja|president,tt1583421,English,USA,2013,5.8,1,1,0,1,1,0,0,0,0,0
+68642452,Action|Adventure|Comedy|Thriller,Sahara,beach|civil war|desert|dictator|ship,tt0318649,English,UK,2005,6,1,1,0,0,1,1,0,0,0,0
+32131830,Action|Adventure|Animation|Fantasy|Romance|Sci-Fi,Final Fantasy: The Spirits Within,general|military|scientist|soldier|year 2065,tt0173840,English,USA,2001,6.4,1,1,1,1,0,0,1,0,0,1
+176636816,Action|Adventure|Sci-Fi,Captain America: The First Avenger,arctic|captain america|scientist|tesseract|war bond,tt0458339,English,USA,2011,6.9,1,1,0,1,0,0,0,0,0,0
+126930660,Action|Adventure|Thriller,The World Is Not Enough,british|oil|scientist|terrorist|tycoon,tt0143145,English,UK,1999,6.4,1,1,0,0,1,0,0,0,0,0
+93926386,Action|Adventure|Drama|History|War,Master and Commander: The Far Side of the World,1800s|napoleonic wars|pursuit|royal navy|ship,tt0311113,English,USA,2003,7.4,1,1,0,0,0,0,0,0,0,0
+292298923,Adventure|Drama|Fantasy|Romance,The Twilight Saga: Breaking Dawn - Part 2,battle|friend|super strength|vampire|vision,tt1673434,English,USA,2012,5.5,0,1,1,0,0,0,1,0,0,0
+63992328,Animation|Comedy|Family|Musical,Happy Feet 2,3d|antarctica|krill|penguin|sequel,tt1402488,English,Australia,2011,5.9,0,0,0,0,0,1,0,0,0,1
+134518390,Action|Adventure|Sci-Fi,The Incredible Hulk,antidote|cure|hulk|marvel cinematic universe|opening action scene,tt0800080,English,USA,2008,6.8,1,1,0,1,0,0,0,0,0,0
+,Action|Crime|Drama|Mystery|Thriller,Miami Vice            ,cult tv|detective|drugs|police|undercover,tt0086759,English,USA,,7.5,1,0,0,0,1,0,0,1,0,0
+52792307,Adventure|Family|Fantasy,The BFG,cannibal|evil brother|giant|london england|queen,tt3691740,English,UK,2016,6.8,0,1,1,0,0,0,0,0,0,0
+183635922,Adventure|Drama|Thriller|Western,The Revenant,bear attack|cauterizing a wound|native american|revenge|survival,tt1663202,English,USA,2015,8.1,0,1,0,0,1,0,0,0,0,0
+83024900,Adventure|Animation|Comedy|Family|Sport,Turbo,accident|freak accident|race|snail|underdog,tt1860353,English,USA,2013,6.5,0,1,0,0,0,1,0,0,0,1
+123207194,Adventure|Animation|Comedy|Family|Western,Rango,chameleon|lizard|sheriff|water|western town,tt1192628,English,USA,2011,7.2,0,1,0,0,0,1,0,0,0,1
+83348920,Adventure|Animation|Comedy|Family,Penguins of Madagascar,little girl|park|spy|statue of liberty|television van,tt1911658,English,USA,2014,6.7,0,1,0,0,0,1,0,0,0,1
+227137090,Action|Mystery|Thriller,The Bourne Ultimatum,action hero|cia|dark past|flashback|memory,tt0440963,English,USA,2007,8.1,1,0,0,0,1,0,0,1,0,0
+215395021,Action|Adventure|Animation|Comedy|Family,Kung Fu Panda,kung fu|kung fu master|master|panda|snow leopard,tt0441773,English,USA,2008,7.6,1,1,0,0,0,1,0,0,0,1
+180191634,Action|Adventure|Comedy|Sci-Fi,Ant-Man,ant|chinatown san francisco|heist|sabotage|vault,tt0478970,English,USA,2015,7.4,1,1,0,1,0,1,0,0,0,0
+424645577,Adventure|Sci-Fi|Thriller,The Hunger Games: Catching Fire,president|snow|television|tour|uprising,tt1951264,English,USA,2013,7.6,0,1,0,1,1,0,0,0,0,0
+292298923,Adventure|Drama|Fantasy|Romance,The Twilight Saga: Breaking Dawn - Part 2,battle|friend|super strength|vampire|vision,tt1673434,English,USA,2012,5.5,0,1,1,0,0,0,1,0,0,0
+177343675,Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi,Home,alien friendship|alien invasion|australia|flying car|mother daughter relationship,tt2224026,English,USA,2015,6.7,0,1,1,1,0,1,0,0,0,1
+234277056,Adventure|Sci-Fi|Thriller,War of the Worlds,alien|fight|storm|survival|tripod,tt0407304,English,USA,2005,6.5,0,1,0,1,1,0,0,0,0,0
+138396624,Action|Comedy|Crime|Thriller,Bad Boys II,cuba|dea|drugs|money|undercover,tt0172156,English,USA,2003,6.6,1,0,0,0,1,1,0,0,0,0
+149234747,Action|Adventure|Animation|Comedy|Family|Fantasy,Puss in Boots,betrayal|egg|friend|goose|hero,tt0448694,English,USA,2011,6.7,1,1,1,0,0,1,0,0,0,1
+118311368,Action|Crime|Mystery|Thriller,Salt,cia|on the run|russian|russian spy|strong female lead,tt0944835,English,USA,2010,6.4,1,0,0,0,1,0,0,1,0,0
+101160529,Action|Adventure|Drama,Noah,ark|flood|noah's ark|water|wrath of god,tt1959490,English,USA,2014,5.8,1,1,0,0,0,0,0,0,0,0
+77564037,Action|Adventure|Family|Mystery,The Adventures of Tintin,captain|morocco|ship|tintin|treasure,tt0983193,English,USA,2011,7.4,1,1,0,0,0,0,0,1,0,0
+249358727,Adventure|Family|Fantasy|Mystery,Harry Potter and the Prisoner of Azkaban,magic|muggle|serial killer|traitor|wizard,tt0304141,English,UK,2004,7.8,0,1,1,0,0,0,0,1,0,0
+49551662,Adventure|Drama|Romance|War,Australia,australia|cattle|darwin|drover|japanese,tt0455824,English,Australia,2008,6.6,0,1,0,0,0,0,1,0,0,0
+137748063,Adventure|Animation|Family|Thriller,Dinosaur,egg|iguanodon|lemur|meteor|nesting grounds,tt0130623,English,USA,2000,6.5,0,1,0,0,1,0,0,0,0,1
+,Action|Fantasy,Harry Potter and the Deathly Hallows: Part II,,tt1680310,English,UK,2011,7.5,1,0,1,0,0,0,0,0,0,0
+113733726,Adventure|Comedy|Family|Fantasy,Night at the Museum: Secret of the Tomb,museum|museum of natural history manhattan new york city|night watchman|star died before release|tablet,tt2692250,English,USA,2014,6.2,0,1,1,0,0,1,0,0,0,0
+148337537,Action|Animation|Comedy|Family|Sci-Fi,Megamind,battle|city|planet|prison|superhero,tt1001526,English,USA,2010,7.3,1,0,0,1,0,1,0,0,0,1
+317557891,Adventure|Family|Fantasy,Harry Potter and the Sorcerer's Stone,based on novel|birthday|evil wizard|quidditch|wizard,tt0241527,English,UK,2001,7.5,0,1,1,0,0,0,0,0,0,0
+33592415,Action|Comedy|Fantasy,R.I.P.D.,drug dealer|gold|partner|police|undead,tt0790736,English,USA,2013,5.6,1,0,1,0,0,1,0,0,0,0
+,Action|Adventure|Drama|Horror|Sci-Fi,Godzilla Resurgence,blood|godzilla|monster|sequel,tt4262980,Japanese,Japan,2016,8.2,1,1,0,1,0,0,0,0,1,0
+305388685,Action|Adventure|Fantasy,Pirates of the Caribbean: The Curse of the Black Pearl,caribbean|curse|governor|pirate|undead,tt0325980,English,USA,2003,8.1,1,1,1,0,0,0,0,0,0,0
+,Fantasy,Harry Potter and the Deathly Hallows: Part I,,tt1571403,English,UK,2010,6.4,0,0,1,0,0,0,0,0,0,0
+337103873,Adventure|Sci-Fi|Thriller,The Hunger Games: Mockingjay - Part 1,based on young adult novel|manipulation|rebellion|symbol|uprising,tt1951265,English,USA,2014,6.7,0,1,0,1,1,0,0,0,0,0
+217536138,Mystery|Thriller,The Da Vinci Code,based on supposedly true story|holy grail|mary magdalene|opus dei|secret,tt0382625,English,USA,2006,6.6,0,0,0,0,1,0,0,1,0,0
+131536019,Adventure|Animation|Comedy|Family|Musical,Rio 2,amazon|bird|father in law|jungle|no opening credits,tt2357291,English,USA,2014,6.4,0,1,0,0,0,1,0,0,0,1
+214948780,Action|Adventure|Fantasy|Sci-Fi|Thriller,X-Men 2,mutant|prison|professor|school|x men,tt0290334,English,Canada,2003,7.5,1,1,1,1,1,0,0,0,0,0
+209805005,Action|Crime|Thriller,Fast Five,drug lord|drugs|federal agent|heist|police,tt1596343,English,USA,2011,7.3,1,0,0,0,1,0,0,0,0,0
+186830669,Action|Adventure|Crime|Mystery|Thriller,Sherlock Holmes: A Game of Shadows,factory|gypsy|investigation|sherlock holmes|train,tt1515091,English,USA,2011,7.5,1,1,0,0,1,0,0,1,0,0
+163192114,Action|Adventure|Fantasy,Clash of the Titans,famous line|hand to hand combat|kraken|rape|zeus,tt0800320,English,USA,2010,5.8,1,1,1,0,0,0,0,0,0,0
+119412921,Action|Sci-Fi,Total Recall,ambiguous ending|false memory|implanted memory|memory|space colony,tt0100802,English,USA,1990,7.5,1,0,0,1,0,0,0,0,0,0
+32694788,Action|Adventure|History,The 13th Warrior,arab|battle|combat|viking|warrior,tt0120657,English,USA,1999,6.6,1,1,0,0,0,0,0,0,0,0
+113165635,Action|Adventure|Thriller,The Bourne Legacy,assassin|cia|drone|pill|wolf,tt1194173,English,USA,2012,6.7,1,1,0,0,1,0,0,0,0,0
+260031035,Comedy|Family|Fantasy,How the Grinch Stole Christmas,box office hit|christmas|materialism|public humiliation|snowflake,tt0170016,English,USA,2000,6,0,0,1,0,0,1,0,0,0,0
+186739919,Action|Adventure|Sci-Fi|Thriller,The Day After Tomorrow,climate|end of the world|global warming|natural disaster|weather,tt0319262,English,USA,2004,6.4,1,1,0,1,1,0,0,0,0,0
+215397307,Action|Adventure|Thriller,Mission: Impossible II,cure|mission|terrorist|thief|virus,tt0120755,English,USA,2000,6.1,1,1,0,0,1,0,0,0,0,0
+182618434,Action|Adventure|Drama|Thriller,The Perfect Storm,death|fish|fishing|sea|storm,tt0177971,English,USA,2000,6.4,1,1,0,0,1,0,0,0,0,0
+131920333,Action|Adventure|Sci-Fi|Thriller,Fantastic 4: Rise of the Silver Surfer,fantastic four|space|strong female character|strong female lead|superheroine,tt0486576,English,USA,2007,5.6,1,1,0,1,1,0,0,0,0,0
+124976634,Adventure|Drama|Fantasy,Life of Pi,animal|faith|india|journey|tiger,tt0454876,English,USA,2012,8,0,1,1,0,0,0,0,0,0,0
+115802596,Action|Fantasy|Thriller,Ghost Rider,blackheart|devil|father|ghost|mephistopheles,tt0259324,English,USA,2007,5.2,1,0,1,0,1,0,0,0,0,0
+108521835,Action|Thriller,Jason Bourne,black ops|chase|cia|cia agent|repeated scene,tt4196776,English,UK,2016,7.1,1,0,0,0,1,0,0,0,0,0
+126464904,Adventure|Mystery|Sci-Fi,Prometheus,cave painting|medical scanner|planet|pregnant with an alien fetus|suspended animation,tt1446714,English,USA,2012,7,0,1,0,1,0,0,0,1,0,0
+64736114,Adventure|Animation|Comedy|Family|Fantasy,Stuart Little 2,anthropomorphic mouse|falcon|marshmallow|second part|soccer,tt0243585,English,USA,2002,5.4,0,1,1,0,0,1,0,0,0,1
+93050117,Action|Drama|Sci-Fi|Thriller,Elysium,christ figure|class differences|messiah|saviour|social commentary,tt1535108,English,USA,2013,6.6,1,0,0,1,1,0,0,0,0,0
+57637485,Action|Adventure|Sci-Fi|Thriller,The Chronicles of Riddick,bounty hunter|escape|necromonger|planet|warrior,tt0296572,English,USA,2004,6.7,1,1,0,1,1,0,0,0,0,0
+58607007,Action|Crime|Sci-Fi|Thriller,RoboCop,law enforcement|police|robocop|robot|technology,tt1234721,English,USA,2014,6.2,1,0,0,1,1,0,0,0,0,0
+43929341,Action|Family|Sport,Speed Racer,based on anime|based on cartoon|gadget car|racer|speed,tt0811080,English,USA,2008,6.1,1,0,0,0,0,0,0,0,0,0
+30212620,Comedy|Drama|Romance,How Do You Know,embarrassment|falling in love|love|love triangle|revelation,tt1341188,English,USA,2010,5.3,0,0,0,0,0,1,1,0,0,0
+76418654,Action|Comedy|Romance,Knight and Day,chase|fbi|garage|spy|surveillance,tt1013743,English,USA,2010,6.3,1,0,0,0,0,1,1,0,0,0
+89021735,Action|Adventure|Mystery|Sci-Fi,Oblivion,cabin in the woods|drone|flying through a thunderstorm|post apocalypse|sex in a pool,tt1483013,English,USA,2013,7,1,1,0,1,0,0,0,1,0,0
+380262555,Action|Adventure|Fantasy|Sci-Fi,Star Wars: Episode III - Revenge of the Sith,elongated cry of no|friends become enemies|kicked in the butt|robotic midwife|vision,tt0121766,English,USA,2005,7.6,1,1,1,1,0,0,0,0,0,0
+310675583,Action|Adventure|Fantasy|Sci-Fi,Star Wars: Episode II - Attack of the Clones,martial arts|murdered before giving protagonist information|part computer animation|prequel|prequel to cult film,tt0121765,English,USA,2002,6.7,1,1,1,1,0,0,0,0,0,0
+289907418,Adventure|Animation|Comedy|Family|Fantasy,"Monsters, Inc.",friend|little girl|monster|rival|scream,tt0198781,English,USA,2001,8.1,0,1,1,0,0,1,0,0,0,1
+132550960,Action|Adventure|Sci-Fi|Thriller,The Wolverine,healing power|marvel comics|mecha|regeneration|self healing,tt1430132,English,USA,2013,6.7,1,1,0,1,1,0,0,0,0,0
+474544677,Action|Adventure|Fantasy|Sci-Fi,Star Wars: Episode I - The Phantom Menace,alien|character says i have a bad feeling about this|hand to hand combat|seven word title|wilhelm scream,tt0120915,English,USA,1999,6.5,1,1,1,1,0,0,0,0,0,0
+187165546,Adventure|Animation|Comedy|Family|Fantasy,The Croods,cave|caveman|journey|strict father|survival,tt0481499,English,USA,2013,7.3,0,1,1,0,0,1,0,0,0,1
+,Adventure|Comedy|Family|Fantasy,Asterix at the Olympic Games,1st century b.c.|lightsaber|local blockbuster|magical potion|potion,tt0463872,French,France,2008,5.1,0,1,1,0,0,1,0,0,0,0
+40911830,Action|Drama|War,Windtalkers,code|duty|steel helmet|u.s. marine|u.s. soldier,tt0245562,English,USA,2002,6,1,0,0,0,0,0,0,0,0,0
+47952020,Action|Adventure|Drama|Fantasy,The Huntsman: Winter's War,based on fairy tale|dark fantasy|fairy tale|second part|sequel,tt2381991,English,USA,2016,6.1,1,1,1,0,0,0,0,0,0,0
+190871240,Action|Adventure|Comedy|Sci-Fi,Teenage Mutant Ninja Turtles,18 wheeler|mutant|ninja|sewer|turtle,tt1291150,English,USA,2014,5.9,1,1,0,1,0,1,0,0,0,0
+274084951,Adventure|Drama|Sci-Fi|Thriller,Gravity,box office hit|long take|sole survivor|space|space station,tt1454468,English,UK,2013,7.8,0,1,0,1,1,0,0,0,0,0
+67155742,Action|Adventure|Thriller,Dante's Peak,ash|escape|lava|mayor|volcano,tt0118928,English,USA,1997,5.8,1,1,0,0,1,0,0,0,0,0
+81638674,Action|Adventure|Comedy|Sci-Fi,Teenage Mutant Ninja Turtles: Out of the Shadows,based on comic book|brother brother relationship|rat|sequel|turtle,tt3949660,English,USA,2016,6.3,1,1,0,1,0,1,0,0,0,0
+56114221,Action|Adventure|Sci-Fi,Fantastic Four,box office flop|critically bashed|portal|teleportation|troubled production,tt1502712,English,USA,2015,4.3,1,1,0,1,0,0,0,0,0,0
+250863268,Action|Adventure|Comedy|Family|Fantasy,Night at the Museum,chaos|museum|museum of natural history|night watchman|watchman,tt0477347,English,USA,2006,6.4,1,1,1,0,0,1,0,0,0,0
+155181732,Action|Adventure|Drama|Thriller,San Andreas,disaster movie|earthquake|journey|natural disaster|san andreas fault,tt2126355,English,USA,2015,6.1,1,1,0,0,1,0,0,0,0,0
+125332007,Action|Adventure|Thriller,Tomorrow Never Dies,ex boyfriend ex girlfriend relationship|media tycoon|megalomaniac|official james bond series|world war three,tt0120347,English,UK,1997,6.5,1,1,0,0,1,0,0,0,0,0
+113330342,Action|Drama|History|War,The Patriot,american revolution|british|french|hero|standoff,tt0187393,English,USA,2000,7.1,1,0,0,0,0,0,0,0,0,0
+125531634,Crime|Thriller,Ocean's Twelve,father daughter relationship|heist|pretending to be pregnant|sequel|thief,tt0349903,English,USA,2004,6.4,0,0,0,0,1,0,0,0,0,0
+186336103,Action|Comedy|Crime|Romance|Thriller,Mr. & Mrs. Smith,assassin|marriage|secret agent|suburb|target,tt0356910,English,USA,2005,6.5,1,0,0,0,1,1,1,0,0,0
+129995817,Adventure|Sci-Fi|Thriller,Insurgent,action heroine|falling from height|mind control|trainhopping|truth serum,tt2908446,English,USA,2015,6.3,0,1,0,1,1,0,0,0,0,0
+102608827,Biography|Drama,The Aviator,1920s|aviation|fight|spruce goose|test flight,tt0338751,English,USA,2004,7.5,0,0,0,0,0,0,0,0,0,0
+42776259,Adventure|Comedy|Family|Fantasy,Gulliver's Travels,bermuda triangle|box office hit|shipwrecked|travel|travel writer,tt1320261,English,USA,2010,4.9,0,1,1,0,0,1,0,0,0,0
+98780042,Action|Comedy|Crime|Sci-Fi|Thriller,The Green Hornet,heir|kung fu|party|playboy|superhero,tt0990407,English,USA,2011,5.8,1,0,0,1,1,1,0,0,0,0
+,Action|Adventure|Crime,The A-Team            ,1980s|cult tv|famous opening theme|good versus evil|hero for hire,tt0084967,English,USA,,7.6,1,1,0,0,0,0,0,0,0,0
+106369117,Action|Drama|Fantasy|War,300: Rise of an Empire,army|commander|female rear nudity|greek|navy,tt1253863,English,USA,2014,6.2,1,0,1,0,0,0,0,0,0,0
+142614158,Adventure|Animation|Comedy|Family|Fantasy,The Smurfs,blue|new york|new york city|no opening credits|smurf,tt0472181,English,USA,2011,5.5,0,1,1,0,0,1,0,0,0,1
+50026353,Animation|Comedy|Family|Music|Western,Home on the Range,cattle|cow|dairy farm|farm|rustler,tt0299172,English,USA,2004,5.4,0,0,0,0,0,1,0,0,0,1
+66002193,Action|Adventure|Mystery|Sci-Fi|Thriller,Allegiant,based on young adult novel|dystopia|genetic experimentation|strong female character|strong female lead,tt3410834,English,USA,2016,5.8,1,1,0,1,1,0,0,1,0,0
+85463309,Action|Drama|Sci-Fi|Sport,Real Steel,arena|boxing|boxing movie|robot|robot battle,tt0433035,English,USA,2011,7.1,1,0,0,1,0,0,0,0,0,0
+71017784,Adventure|Animation|Comedy|Family|Fantasy,The Smurfs 2,based on cartoon|box office hit|no opening credits|sequel|smurf,tt2017020,English,USA,2013,5.4,0,1,1,0,0,1,0,0,0,1
+61656849,Action|Sci-Fi,Ender's Game,alien|future|manipulation|simulation|training,tt1731141,English,USA,2013,6.7,1,0,0,1,0,0,0,0,0,0
+134520804,Action|Adventure|Thriller,Live Free or Die Hard,fbi|hacker|independence day|police|terrorist,tt0337978,English,USA,2007,7.2,1,1,0,0,1,0,0,0,0,0
+313837577,Action|Adventure|Drama|Fantasy,The Lord of the Rings: The Fellowship of the Ring,elf|hobbit|middle earth|quest|ring,tt0120737,English,New Zealand,2001,8.8,1,1,1,0,0,0,0,0,0,0
+24004159,Action|Adventure|Comedy,Around the World in 80 Days,19th century|around the world|inventor|martial arts|train,tt0327437,English,USA,2004,5.8,1,1,0,0,0,1,0,0,0,0
+58183966,Biography|Drama|Sport,Ali,african american protagonist|african americans|boxing gym|gym|rumble in the jungle,tt0248667,English,USA,2001,6.8,0,0,0,0,0,0,0,0,0,0
+144795350,Action|Mystery|Sci-Fi|Thriller,"I, Robot",humanoid robot|man versus machine|prosthetic limb|robot as pathos|robot vs. robot,tt0343818,English,USA,2004,7.1,1,0,0,1,1,0,0,1,0,0
+47396698,Action|Adventure|Drama|History|War,Kingdom of Heaven,12th century|crusader|jerusalem|knight|medieval times,tt0320661,English,USA,2005,7.2,1,1,0,0,0,0,0,0,0,0
+140015224,Adventure|Comedy|Family|Fantasy,Stuart Little,box office hit|cat|first part|mouse|orphanage,tt0164912,English,Germany,1999,5.9,0,1,1,0,0,1,0,0,0,0
+104374107,Animation|Family|Fantasy|Musical|Romance,The Princess and the Frog,amphibian|dream|frog|frog prince|waitress,tt0780521,English,USA,2009,7.1,0,0,1,0,0,0,1,0,0,1
+228430993,Adventure|Drama|Sci-Fi,The Martian,astronaut|international cooperation|left for dead|nasa|space habitat,tt3659388,English,USA,2015,8.1,0,1,0,1,0,0,0,0,0,0
+35799026,Action|Adventure|Romance|Sci-Fi|Thriller,The Island,clone|environment|escape|island|lottery,tt0399201,English,USA,2005,6.9,1,1,0,1,1,0,1,0,0,0
+101643008,Action|Crime|Thriller,Gone in Sixty Seconds,auto theft|brother|car|theft|thief,tt0187078,English,USA,2000,6.5,1,0,0,0,1,0,0,0,0,0
+187670866,Action|Drama|Romance,Gladiator,battlefield|blood|combat|gladiator|roman empire,tt0172495,English,USA,2000,8.5,1,0,0,0,0,0,1,0,0,0
+132014112,Action|Mystery|Sci-Fi|Thriller,Minority Report,future|murder|neo noir|washington d.c.|year 2054,tt0181689,English,USA,2002,7.7,1,0,0,1,1,0,0,1,0,0
+261970615,Adventure|Family|Fantasy|Mystery,Harry Potter and the Chamber of Secrets,bildungsroman|flying broom|invisibility cloak|monster|wizardry,tt0295297,English,UK,2002,7.4,0,1,1,0,0,0,0,1,0,0
+167007184,Action|Adventure|Thriller,Casino Royale,casino|espionage|free running|james bond|terrorist,tt0381061,English,UK,2006,8,1,1,0,0,1,0,0,0,0,0
+180011740,Action|Adventure|Sci-Fi|Thriller,Planet of the Apes,astronaut|cage|planet|wilhelm scream|year 2029,tt0133152,English,USA,2001,5.7,1,1,0,1,1,0,0,0,0,0
+204843350,Action|Sci-Fi,Terminator 2: Judgment Day,future|liquid metal|multiple cameos|sexy woman|time travel,tt0103064,English,USA,1991,8.5,1,0,0,1,0,0,0,0,0,0
+97030725,Biography|Crime|Drama|History|Romance,Public Enemies,1930s|bank|celebrity criminal|fbi|public enemy number one,tt1152836,English,USA,2009,7,0,0,0,0,0,0,1,0,0,0
+130127620,Biography|Crime|Drama,American Gangster,death|heroin|popcorn|smuggling|vietnam,tt0765429,English,USA,2007,7.8,0,0,0,0,0,0,0,0,0,0
+146282411,Action|Comedy|Thriller,True Lies,espionage|secret agent|secret mission|spy|spy film,tt0111503,English,USA,1994,7.2,1,0,0,0,1,1,0,0,0,0
+65452312,Action|Crime|Thriller,The Taking of Pelham 1 2 3,hijack|hostage|ransom|subway|train,tt1111422,English,USA,2009,6.4,1,0,0,0,1,0,0,0,0,0
+119219978,Action|Comedy|Crime,The Other Guys,capitalist|detective|investigation|new york city|police,tt1386588,English,USA,2010,6.7,1,0,0,0,0,1,0,0,0,0
+101228120,Action|Drama|Mystery|Thriller,Eraser,assassination attempt|corporate crime|rogue agent|witness|witness protection program,tt0116213,English,USA,1996,6.1,1,0,0,0,1,0,0,1,0,0
+162804648,Drama|Western,Django Unchained,dynamite|historically inaccurate|ku klux klan|n word|slavery,tt1853728,English,USA,2012,8.5,0,0,0,0,0,0,0,0,0,0
+100117603,Animation|Drama|Family|Musical|Romance,The Hunchback of Notre Dame,15th century|cathedral|gypsy|paris|victor hugo,tt0116583,English,USA,1996,6.9,0,0,0,0,0,0,1,0,0,1
+89296573,Adventure|Animation|Comedy|Family|Fantasy,The Emperor's New Groove,antidote|disney|emperor|first part|llama,tt0120917,English,USA,2000,7.3,0,1,1,0,0,1,0,0,0,1
+85017401,Action|Adventure|Thriller,The Expendables 2,church|hostage|mine|plutonium|revenge,tt1764651,English,USA,2012,6.7,1,1,0,0,1,0,0,0,0,0
+173005002,Action|Adventure|Comedy|Family|Mystery,National Treasure,declaration of independence|secret society|treasure|treasure hunt|treasure hunter,tt0368891,English,USA,2004,6.9,1,1,0,0,0,1,0,1,0,0
+75030163,Action|Adventure|Family|Fantasy,Eragon,dragon|dragon rider|fictional war|sword and fantasy|teenage hero,tt0449010,English,USA,2006,5.1,1,1,1,0,0,0,0,0,0,0
+77222184,Adventure|Drama|Family|Fantasy,Where the Wild Things Are,based on children's book|creature|igloo|imagination|king,tt0386117,English,Germany,2009,6.8,0,1,1,0,0,0,0,0,0,0
+107515297,Adventure|Animation|Family|Fantasy,Epic,father daughter relationship|forest|miniature person|shrinking|sword and fantasy,tt0848537,English,USA,2013,6.7,0,1,1,0,0,0,0,0,0,1
+67631157,Action|Romance|Thriller,The Tourist,police surveillance|surveillance van|tailing a suspect|tourist|venice italy,tt1243957,English,USA,2010,6,1,0,0,0,1,0,1,0,0,0
+66862068,Action|Fantasy|Horror|Mystery,End of Days,atheist|ex cop|female masturbation|female nudity|lucifer,tt0146675,English,USA,1999,5.7,1,0,1,0,0,0,0,1,1,0
+57366262,Adventure|Drama|Thriller,Blood Diamond,diamond|elephant|fisherman|rebel|sierra leone,tt0450259,English,Germany,2006,8,0,1,0,0,1,0,0,0,0,0
+116866727,Biography|Comedy|Crime|Drama,The Wolf of Wall Street,based on true story|fellatio|female rear nudity|sex in an airplane|stockbroker,tt0993846,English,USA,2013,8.2,0,0,0,0,0,1,0,0,0,0
+184031112,Action|Adventure|Fantasy,Batman Forever,love|necktie|partner|rock music|tuxedo,tt0112462,English,USA,1995,5.4,1,1,1,0,0,0,0,0,0,0
+54700065,Action|Sci-Fi|War,Starship Troopers,alien|federation|future|military|planet,tt0120201,English,USA,1997,7.2,1,0,0,1,0,0,0,0,0,0
+27098580,Drama|Sci-Fi,Cloud Atlas,composer|future|letter|nonlinear timeline|nursing home,tt1371111,English,Germany,2012,7.5,0,0,0,1,0,0,0,0,0,0
+55673333,Action|Adventure|Animation|Family|Fantasy,Legend of the Guardians: The Owls of Ga'Hoole,barn owl|escape|owl|ruler|soldier,tt1219342,English,USA,2010,7,1,1,1,0,0,0,0,0,0,1
+72660029,Action|Adventure,Hercules,army|greek mythology|hercules|king|mercenary,tt1267297,English,USA,2014,6,1,1,0,0,0,0,0,0,0,0
+38120554,Adventure|Animation|Family|Sci-Fi,Treasure Planet,alien|cyborg|pirate|planet|treasure,tt0133240,English,USA,2002,7.1,0,1,0,1,0,0,0,0,0,1
+49392095,Adventure|Comedy|Sci-Fi,Land of the Lost,human versus dinosaur|lizard|primate|time travel|tyrannosaurus rex,tt0457400,English,USA,2009,5.4,0,1,0,1,0,1,0,0,0,0
+39292022,Action|Adventure|Thriller,The Expendables 3,battle|fight|mission|pg 13 sequel to r rated franchise|rescue,tt2333784,English,USA,2014,6.1,1,1,0,0,1,0,0,0,0,0
+28772222,Action|Crime|Sport|Thriller,Point Break,athlete|extreme sports|fbi|fbi agent|heist,tt2058673,English,USA,2015,5.3,1,0,0,0,1,0,0,0,0,0
+24985612,Action|Adventure|Biography|Drama|History|Thriller,In the Heart of the Sea,emaciation|ship|starvation|vomiting|whale,tt1390411,English,USA,2015,7,1,1,0,0,1,0,0,0,0,0
+35024475,Action|Drama|Thriller|War,Green Zone,cia|iraq|iraqi|political military conspiracy|weapon of mass destruction,tt0947810,English,France,2010,6.9,1,0,0,0,1,0,0,0,0,0
+130174897,Adventure|Animation|Comedy|Family,The Peanuts Movie,dog|girl|imagination|peanuts|red hair,tt2452042,English,USA,2015,7.2,0,1,0,0,0,1,0,0,0,1
+10200000,Drama|Mystery|Thriller,The Spanish Prisoner,brother sister relationship|extradition|fbi|japanese tourist|secret,tt0120176,English,USA,1997,7.3,0,0,0,0,1,0,0,1,0,0
+202007640,Action|Adventure|Fantasy|Thriller,The Mummy Returns,ancient egypt|bracelet|king|scorpion|son,tt0209163,English,USA,2001,6.3,1,1,1,0,1,0,0,0,0,0
+77679638,Crime|Drama,Gangs of New York,butcher|civil war|gangster|new york city|revenge,tt0217505,English,USA,2002,7.5,0,0,0,0,0,0,0,0,0,0
+58867694,Animation|Comedy|Family|Sport,Surf's Up,chicken|competition|island|penguin|surfing,tt0423294,English,USA,2007,6.8,0,0,0,0,0,1,0,0,0,1
+108638745,Drama|History|War,Black Hawk Down,army|helicopter|somali|somalia|warlord,tt0265086,English,USA,2001,7.7,0,0,0,0,0,0,0,0,0,0
+86897182,Comedy,The Campaign,campaigning|congressman|north carolina|title at the end|u.s. congressman,tt1790886,English,USA,2012,6.2,0,0,0,0,0,1,0,0,0,0
+63540020,Action|Adventure|Sci-Fi,The Fifth Element,1910s|alien|artificially created woman|love|taxi driver,tt0119116,English,France,1997,7.7,1,1,0,1,0,0,0,0,0,0
+50802661,Adventure|Animation|Comedy|Family|Romance,The Road to El Dorado,adventurer|el dorado|gold|high priest|implied sex,tt0138749,English,USA,2000,6.9,0,1,0,0,0,1,1,0,0,1
+161317423,Adventure|Animation|Comedy|Family,Ice Age: Continental Drift,acorn|herd|iceberg|ocean|pirate,tt1667889,English,USA,2012,6.6,0,1,0,0,0,1,0,0,0,1
+201148159,Drama|Family|Fantasy|Romance,Cinderella,dress|duke|fairy godmother|fairy tale|pumpkin,tt1661199,English,USA,2015,7,0,0,1,0,0,0,1,0,0,0
+380838870,Adventure|Animation|Comedy|Family,Finding Nemo,great barrier reef|protective father|separation from family|shark|short term memory loss,tt0266543,English,USA,2003,8.2,0,1,0,0,0,1,0,0,0,1
+377019252,Action|Adventure|Drama|Fantasy,The Lord of the Rings: The Return of the King,battle|epic|king|orc|ring,tt0167260,English,USA,2003,8.9,1,1,1,0,0,0,0,0,0,0
+340478898,Action|Adventure|Drama|Fantasy,The Lord of the Rings: The Two Towers,epic|evil wizard|middle earth|ring|wizard,tt0167261,English,USA,2002,8.7,1,1,1,0,0,0,0,0,0,0
+17176900,Action|Adventure|Fantasy,Seventh Son,apprentice|demon|exorcism|master apprentice relationship|witch,tt1121096,English,USA,2014,5.5,1,1,1,0,0,0,0,0,0,0
+131144183,Action|Adventure|Fantasy|Thriller,Lara Croft: Tomb Raider,illuminati|planetary alignment|time|tomb|tomb raider,tt0146316,English,USA,2001,5.7,1,1,1,0,1,0,0,0,0,0
+23014504,Drama|Mystery|Romance|Sci-Fi|Thriller,Transcendence,artificial intelligence|consciousness|power outage|scientist|technology,tt2209764,English,UK,2014,6.3,0,0,0,1,1,0,1,1,0,0
+181166115,Action|Adventure|Sci-Fi|Thriller,Jurassic Park III,dinosaur|island|jurassic park|paleontologist|search,tt0163025,English,USA,2001,5.9,1,1,0,1,1,0,0,0,0,0
+176740650,Action|Drama|Sci-Fi|Thriller,Rise of the Planet of the Apes,alzheimer's disease|ape|chimpanzee|fire|when animals attack,tt1318514,English,USA,2011,7.6,1,0,0,1,1,0,0,0,0,0
+71148699,Adventure|Family|Fantasy,The Spiderwick Chronicles,actor playing multiple roles|brownie the creature|closing credits sequence|family relationships|magical creature,tt0416236,English,USA,2008,6.6,0,1,1,0,0,0,0,0,0,0
+67344392,Action|Thriller,A Good Day to Die Hard,bomb|cia|courthouse|escape|russian,tt1606378,English,USA,2013,5.3,1,0,0,0,1,0,0,0,0,0
+22406362,Drama|History|War|Western,The Alamo,army|dictator|general|texan|texas,tt0318974,English,USA,2004,6,0,0,0,0,0,0,0,0,0,0
+261437578,Action|Adventure|Animation|Family,The Incredibles,hero|island|lawsuit|secret|superhero,tt0317705,English,USA,2004,8,1,1,0,0,0,0,0,0,0,1
+11000000,Action|Adventure|Comedy,Cutthroat Island,latin|pirate|pirate ship|treasure|treasure map,tt0112760,English,USA,1995,5.6,1,1,0,0,0,1,0,0,0,0
+88761720,Adventure|Family|Fantasy,Percy Jackson & the Olympians: The Lightning Thief,greek|lightning|lightning bolt|poseidon|teenager,tt0814255,English,UK,2010,5.9,0,1,1,0,0,0,0,0,0,0
+250147615,Adventure|Comedy|Family|Mystery|Sci-Fi,Men in Black,alien|box office hit|flying saucer|laser gun|wisecrack humor,tt0119654,English,USA,1997,7.3,0,1,0,1,0,1,0,1,0,0
+245823397,Adventure|Animation|Comedy|Family|Fantasy,Toy Story 2,collector|dog|friend|rescue|toy,tt0120363,English,USA,1999,7.9,0,1,1,0,0,1,0,0,0,1
+81557479,Action|Thriller,Unstoppable,freight train|race against time|runaway train|train|train engineer,tt0477080,English,USA,2010,6.8,1,0,0,0,1,0,0,0,0,0
+226138454,Action|Comedy|Crime|Thriller,Rush Hour 2,boat|gang|hong kong|triad|vacation,tt0266915,English,USA,2001,6.6,1,0,0,0,1,1,0,0,0,0
+155370362,Drama|Fantasy|Horror|Mystery|Thriller,What Lies Beneath,ghost|haunted house|research|secret|vermont,tt0161081,English,USA,2000,6.6,0,0,1,0,1,0,0,1,1,0
+124870275,Animation|Comedy|Family|Sci-Fi,Cloudy with a Chance of Meatballs,food|giant food|mayor|sardine|weather,tt0844471,English,USA,2009,7,0,0,0,1,0,1,0,0,0,1
+196573705,Action|Adventure|Animation|Comedy|Family,Ice Age: Dawn of the Dinosaurs,egg|lost world|rescue|squirrel|weasel,tt1080016,English,USA,2009,7,1,1,0,0,0,1,0,0,0,1
+58229120,Adventure|Comedy|Drama|Fantasy|Romance,The Secret Life of Walter Mitty,daydream|life magazine|magazine|photographer|snow leopard,tt0359950,English,USA,2013,7.3,0,1,1,0,0,1,1,0,0,0
+125305545,Action|Adventure|Comedy|Crime|Thriller,Charlie's Angels,booty shake|box office hit|duct tape over mouth|first part|martial arts,tt0160127,English,USA,2000,5.5,1,1,0,0,1,1,0,0,0,0
+132373442,Crime|Drama|Thriller,The Departed,boston|mole|police|undercover|undercover cop,tt0407887,English,USA,2006,8.5,0,0,0,0,1,0,0,0,0,0
+120618403,Adventure|Animation|Family|Fantasy|Musical|War,Mulan,based on poem|based on true story|china|one word title|the huns,tt0120762,English,USA,1998,7.5,0,1,1,0,0,0,0,0,0,1
+110416702,Action|Comedy,Tropic Thunder,film director|parody|spoof|vietnam|written and directed by cast member,tt0942385,English,USA,2008,7,1,0,0,0,0,1,0,0,0,0
+102515793,Crime|Drama|Mystery|Thriller,The Girl with the Dragon Tattoo,computer hacker|hacker|investigation|journalist|punk,tt1568346,English,USA,2011,7.8,0,0,0,0,1,0,0,1,0,0
+100012500,Action|Adventure|Thriller,Die Hard with a Vengeance,bomb|detective|new york city|police|terrorist,tt0112864,English,USA,1995,7.6,1,1,0,0,1,0,0,0,0,0
+209019489,Action|Adventure|Crime|Mystery|Thriller,Sherlock Holmes,black magic|bridge construction|professor moriarty|scotland yard inspector|sherlock holmes,tt0988045,English,USA,2009,7.6,1,1,0,0,1,0,0,1,0,0
+,Adventure|Drama|History,Ben-Hur,,tt2638144,English,USA,2016,6.1,0,1,0,0,0,0,0,0,0,0
+84037039,Action|Adventure|Animation|Family|Fantasy|Sci-Fi,Atlantis: The Lost Empire,atlantis|crew|expedition|journal|museum,tt0230011,English,USA,2001,6.8,1,1,1,1,0,0,0,0,0,1
+85884815,Adventure|Animation|Comedy|Family|Fantasy|Music,Alvin and the Chipmunks: The Road Chip,chipmunk|highway travel|on the road|plane|road movie,tt2974918,English,USA,2015,5,0,1,1,0,0,1,0,0,0,1
+83077470,Drama|History|Thriller|War,Valkyrie,american actor playing foreigner|assassination|conspiracy|military|nazis,tt0985699,English,USA,2008,7.1,0,0,0,0,1,0,0,0,0,0
+100018837,Action|Comedy,You Don't Mess with the Zohan,hair stylist|jew|landlord|muslim|palestinian,tt0960144,English,USA,2008,5.5,1,0,0,0,0,1,0,0,0,0
+78747585,Action|Animation|Comedy|Sci-Fi,Pixels,alien|arcade game|chase|driving in reverse|video gamer,tt2120120,English,USA,2015,5.6,1,0,0,1,0,1,0,0,0,1
+78616689,Adventure|Drama|Sci-Fi,A.I. Artificial Intelligence,affection|boy|fairy|future|robot,tt0212720,English,USA,2001,7.1,0,1,0,1,0,0,0,0,0,0
+100853835,Drama|Mystery|Sci-Fi|Thriller,Contact,message from outer space|religion|religion versus science|scientist|universe,tt0118884,English,USA,1997,7.4,0,0,0,1,1,0,0,1,0,0
+73209340,Action|Horror|Sci-Fi|Thriller,Hollow Man,experiment|research|scientist|suburb|surrealism,tt0164052,English,USA,2000,5.7,1,0,0,1,1,0,0,0,1,0
+72515360,Crime|Mystery|Thriller,The Interpreter,african|assassination|dialect|interpreter|threat,tt0373926,Aboriginal,UK,2005,6.4,0,0,0,0,1,0,0,1,0,0
+68558662,Adventure|Family|Fantasy,Percy Jackson: Sea of Monsters,golden fleece|half brother|magical tree|sea|tree,tt1854564,English,USA,2013,5.9,0,1,1,0,0,0,0,0,0,0
+65653758,Action|Adventure|Fantasy,Lara Croft Tomb Raider: The Cradle of Life,duology|female hero|female lead|orb|pandora's box,tt0325703,English,USA,2003,5.5,1,1,1,0,0,0,0,0,0,0
+64685359,Action|Adventure|Comedy|Crime|Mystery|Thriller,Now You See Me 2,card trick|london england|magician|rain machine|rooftop,tt3110958,English,USA,2016,6.9,1,1,0,0,1,1,0,1,0,0
+61355436,Action|Adventure|Romance|Sci-Fi|Thriller,The Saint,cold fusion|disguise|energy|fusion|the saint,tt0120053,English,USA,1997,6.2,1,1,0,1,1,0,1,0,0,0
+26871,Action|Crime|Thriller,Spy Game,china|cia|cold war|friendship|retirement,tt0266987,English,Germany,2001,7,1,0,0,0,1,0,0,0,0,0
+60874615,Adventure|Sci-Fi|Thriller,Mission to Mars,astronaut|mars|mars the planet|outer space|zero gravity,tt0183523,English,USA,2000,5.6,0,1,0,1,1,0,0,0,0,0
+143618384,Adventure|Animation|Comedy|Family|Musical,Rio,bird|brazilian|cockatoo|macaw|minnesota,tt1436562,English,USA,2011,7,0,1,0,0,0,1,0,0,0,1
+58220776,Comedy|Drama|Sci-Fi,Bicentennial Man,23rd century|android|artificial intelligence|dual role|robot,tt0182789,English,USA,1999,6.8,0,0,0,1,0,1,0,0,0,0
+47474112,Action|Drama|Sci-Fi|Thriller,Volcano,earthquake|fire|lava|rescue|volcano,tt0120461,English,USA,1997,5.4,1,0,0,1,1,0,0,0,0,0
+42877165,Action|Crime|Drama|Thriller,The Devil's Own,friendship|murder|northern ireland|police officer|terrorist,tt0118972,English,USA,1997,6.1,1,0,0,0,1,0,0,0,0,0
+35168677,Drama|History|Thriller|War,K-19: The Widowmaker,courage|radiation sickness|radioactive contamination|sea|test launch,tt0267626,English,UK,2002,6.7,0,0,0,0,1,0,0,0,0,0
+56114221,Action|Adventure|Sci-Fi,Fantastic Four,box office flop|critically bashed|portal|teleportation|troubled production,tt1502712,English,USA,2015,4.3,1,1,0,1,0,0,0,0,0,0
+37567440,Adventure|Fantasy,Conan the Barbarian,actual animal killed|cult|evil sorcerer|gladiator|warlord,tt0082198,English,USA,1982,6.9,0,1,1,0,0,0,0,0,0,0
+61644321,Biography|Drama|Sport,Cinderella Man,boxer|boxing|dream|great depression|love,tt0352248,English,USA,2005,8,0,0,0,0,0,0,0,0,0,0
+120147445,Drama|History|Sport,Seabiscuit,horse|horse racing|jockey|limp|seabiscuit,tt0329575,English,USA,2003,7.3,0,0,0,0,0,0,0,0,0,0
+241688385,Action|Adventure|Drama|Thriller,Twister,device|disaster|divorce|storm|tornado,tt0117998,English,USA,1996,6.3,1,1,0,0,1,0,0,0,0,0
+144512310,Action|Crime|Thriller,The Fast and the Furious,eighteen wheeler|illegal street racing|truck|trucker|undercover cop,tt0232500,English,USA,2001,6.7,1,0,0,0,1,0,0,0,0,0
+233630478,Adventure|Drama|Romance,Cast Away,christmas|island|love|survival|talking to inanimate object,tt0162222,English,USA,2000,7.7,0,1,0,0,0,0,1,0,0,0
+197992827,Animation|Comedy|Family|Music|Romance,Happy Feet,dance|emperor penguin|friend|penguin|song,tt0366548,English,USA,2006,6.5,0,0,0,0,0,1,1,0,0,1
+176049130,Action|Mystery|Thriller,The Bourne Supremacy,assassin|car chase|cia|hidden truth|one against many,tt0372183,English,USA,2004,7.8,1,0,0,0,1,0,0,1,0,0
+172620724,Action|Adventure|Drama|Thriller,Air Force One,ex soldier|hijacker|hostage|president|terrorist,tt0118571,English,USA,1997,6.4,1,1,0,0,1,0,0,0,0,0
+183405771,Crime|Thriller,Ocean's Eleven,card dealer|casino|criminal mastermind|recruiting|ulcer,tt0240772,English,USA,2001,7.8,0,0,0,0,1,0,0,0,0,0
+20315324,Action|Adventure|Romance,The Three Musketeers,box office flop|cardinal richelieu|critically bashed|duel|musketeer,tt1509767,English,Germany,2011,5.8,1,1,0,0,0,0,1,0,0,0
+148313048,Animation|Comedy|Family|Fantasy,Hotel Transylvania,dracula|hotel|invisible man|monster|transylvania,tt0837562,English,USA,2012,7.1,0,0,1,0,0,1,0,0,0,1
+127706877,Animation|Comedy|Family|Fantasy|Musical|Romance,Enchanted,fairy tale|lawyer|love|new york|prince,tt0461770,English,USA,2007,7.1,0,0,1,0,0,1,1,0,0,1
+,Crime|Drama|Horror|Mystery|Thriller,Hannibal            ,blood|cannibalism|fbi|manipulation|psychiatrist,tt2243973,English,USA,,8.6,0,0,0,0,1,0,0,1,1,0
+126149655,Action|Crime|Mystery|Thriller,Safe House,cia|cia agent|consulate|on the run|safe house,tt1599348,English,USA,2012,6.8,1,0,0,0,1,0,0,1,0,0
+66941559,Adventure|Comedy|Family,102 Dalmatians,dog|parole|parole officer|prison|puppy,tt0211181,English,USA,2000,4.8,0,1,0,0,0,1,0,0,0,0
+78009155,Action|Comedy|Crime,Tower Heist,apartment|fbi|fraud|heist|manager,tt0471042,English,USA,2011,6.2,1,0,0,0,0,1,0,0,0,0
+63224849,Comedy|Romance,The Holiday,book|composer|house|love|self esteem,tt0457939,English,USA,2006,6.9,0,0,0,0,0,1,1,0,0,0
+111544445,Action|Crime|Drama|Mystery|Thriller,Enemy of the State,congressman|lawyer|nsa|on the run|surveillance,tt0120660,English,USA,1998,7.3,1,0,0,0,1,0,0,1,0,0
+112703470,Comedy|Drama|Romance,It's Complicated,affair|divorce|graduation|vomiting|watching television,tt1230414,English,USA,2009,6.6,0,0,0,0,0,1,1,0,0,0
+117144465,Crime|Thriller,Ocean's Thirteen,casino|heist|manmade earthquake|revenge|tunnel boring machine,tt0496806,English,USA,2007,6.9,0,0,0,0,1,0,0,0,0,0
+84303558,Adventure|Animation|Comedy|Family,Open Season,bear|deer|forest|grizzly bear|hunter,tt0400717,English,USA,2006,6.2,0,1,0,0,0,1,0,0,0,1
+150832203,Adventure|Mystery|Sci-Fi,Divergent,army|brother sister relationship|dystopia|father son relationship|narrated by character,tt1840309,English,USA,2014,6.7,0,1,0,1,0,0,0,1,0,0
+51396781,Drama|History|War,Enemy at the Gates,battle|german|russian|sniper|stalingrad,tt0215750,English,USA,2001,7.6,0,0,0,0,0,0,0,0,0,0
+47592825,Action|Adventure|Comedy|Thriller,The Rundown,amazon|bounty hunter|fight|hunter|jungle,tt0327850,English,USA,2003,6.7,1,1,0,0,1,1,0,0,0,0
+50016394,Action|Adventure|Comedy|Fantasy,Last Action Hero,action hero|hero|magic|ticket|video store,tt0107362,English,USA,1993,6.2,1,1,1,0,0,1,0,0,0,0
+57010853,Drama|Romance,Memoirs of a Geisha,coming of age|geisha|japan|jealousy|love,tt0397535,English,USA,2005,7.3,0,0,0,0,0,0,1,0,0,0
+62494975,Action|Crime|Thriller,The Fast and the Furious: Tokyo Drift,car|challenge|drift racing|drifting|tokyo japan,tt0463985,English,USA,2006,6,1,0,0,0,1,0,0,0,0,0
+46440491,Adventure|Animation|Comedy|Family|Fantasy,Arthur Christmas,christmas|christmas eve|elf|high tech|resentment,tt1430607,English,UK,2011,7.1,0,1,1,0,0,1,0,0,0,1
+44606335,Drama|Fantasy|Romance,Meet Joe Black,birthday|death|death personified|fear of death|wealth,tt0119643,English,USA,1998,7.1,0,0,1,0,0,0,1,0,0,0
+40048332,Action|Drama|Thriller,Collateral Damage,bare chested boy|car explosion|colombia|explosion|terrorism,tt0233469,English,USA,2002,5.5,1,0,0,0,1,0,0,0,0,0
+,Comedy|Drama|Music|Musical,All That Jazz,dancer|editing|stand up comedian|surgery|vomiting,tt0078754,English,USA,1979,7.8,0,0,0,0,0,1,0,0,0,0
+64933670,Adventure|Comedy|Drama|Family|Fantasy,Mirror Mirror,kingdom|prince|princess|queen|snow,tt1667353,English,USA,2012,5.6,0,1,1,0,0,1,0,0,0,0
+31494270,Action|Comedy|Fantasy|Romance,Scott Pilgrim vs. the World,band|dating|high school|hipster|rock band,tt0446029,English,USA,2010,7.5,1,0,1,0,0,1,1,0,0,0
+31111260,Action|Adventure|Sci-Fi|Thriller,The Core,core|earth|natural disaster|pacemaker|scientist,tt0298814,English,USA,2003,5.4,1,1,0,1,1,0,0,0,0,0
+123307945,Comedy|Romance|Sci-Fi,Nutty Professor II: The Klumps,alter ego|marriage|professor|scientist|serum,tt0144528,English,USA,2000,4.3,0,0,0,1,0,1,1,0,0,0
+153288182,Adventure|Comedy|Mystery,Scooby-Doo,amusement park|island|motorcycle|scooby doo|tough girl,tt0267913,English,USA,2002,4.9,0,1,0,0,0,1,0,1,0,0
+13401683,Action|Sci-Fi,Dredd,brutality|dark humor|female antagonist|female warrior|post apocalypse,tt1343727,English,UK,2012,7.1,1,0,0,1,0,0,0,0,0,0
+137340146,Comedy|Drama|Fantasy|Romance,Click,architect|frozen time|obese man|remote control|stopped time,tt0389860,English,USA,2006,6.4,0,0,1,0,0,1,1,0,0,0
+,Comedy|Fantasy|Horror,Creepshow,anthology|child abuse|critically acclaimed|death|grindhouse,tt0083767,English,USA,1982,6.9,0,0,1,0,0,1,0,0,1,0
+80170146,Action|Adventure|Sci-Fi|Thriller,Jumper,bank|based on novel|ice|teleportation|vault,tt0489099,English,USA,2008,6.1,1,1,0,1,1,0,0,0,0,0
+75754670,Action|Adventure|Fantasy|Horror|Sci-Fi,Hellboy II: The Golden Army,creature|elf|prince|rebellion|superhero,tt0411477,English,USA,2008,7,1,1,1,1,0,0,0,0,1,0
+33048353,Crime|Drama|History|Mystery|Thriller,Zodiac,cartoonist|reporter|serial killer|zodiac|zodiac killer,tt0443706,English,USA,2007,7.7,0,0,0,0,1,0,0,1,0,0
+34543701,Action|Mystery|Sci-Fi|Thriller,The 6th Day,clone|cloning|future|laser gun|murder,tt0216216,English,USA,2000,5.9,1,0,0,1,1,0,0,1,0,0
+242589580,Comedy|Drama,Bruce Almighty,answer to prayer|breast expansion|pleading with god|supernatural power|walking on water,tt0315327,English,USA,2003,6.7,0,0,0,0,0,1,0,0,0,0
+102981571,Action|Adventure|Thriller,The Expendables,action hero|assassination attempt|explosion|machine gun|rescue mission,tt1320253,English,USA,2010,6.5,1,1,0,0,1,0,0,0,0,0
+180965237,Action|Adventure|Thriller,Mission: Impossible,disguise|mission|spy|stealing|traitor,tt0117060,English,USA,1996,7.1,1,1,0,0,1,0,0,0,0,0
+407999255,Adventure|Drama|Sci-Fi|Thriller,The Hunger Games,fight to the death|game|massacre|self survival|suicide attempt,tt1392170,English,USA,2012,7.3,0,1,0,1,1,0,0,0,0,0
+254455986,Comedy,The Hangover Part II,hotel|male frontal nudity|pubic hair|thailand|wedding,tt1411697,English,USA,2011,6.5,0,0,0,0,0,1,0,0,0,0
+162831698,Action,Batman Returns,box office hit|dc comics|gotham|mayor|penguin,tt0103776,English,USA,1992,7,1,0,0,0,0,0,0,0,0,0
+155019340,Adventure|Animation|Comedy|Family,Over the Hedge,bear|food|forest|raccoon|turtle,tt0327084,English,USA,2006,6.8,0,1,0,0,0,1,0,0,0,1
+145771527,Adventure|Animation|Comedy|Drama|Family|Fantasy|Sci-Fi,Lilo & Stitch,alien|escape|fugitive|hawaii|social worker,tt0275847,English,USA,2002,7.2,0,1,1,1,0,1,0,0,0,1
+82506325,Comedy|Family|Fantasy,Charlotte's Web,barn|pig|piglet|spider|uncle,tt0413895,English,USA,2006,6.4,0,0,1,0,0,1,0,0,0,0
+140459099,Action|Drama|Romance|Sci-Fi|Thriller,Deep Impact,astronomer|comet|mission|president|secretary,tt0120647,English,USA,1998,6.1,1,0,0,1,1,0,1,0,0,0
+53215979,Action|Comedy|Crime|Thriller,RED 2,cia|cia agent|rescue|russian|team,tt1821694,English,USA,2013,6.7,1,0,0,0,1,1,0,0,0,0
+158115031,Comedy|Crime|Sport,The Longest Yard,coach|convict|football|prison|warden,tt0398165,English,USA,2005,6.4,0,0,0,0,0,1,0,0,0,0
+133103929,Adventure|Animation|Comedy|Family|Fantasy|Music,Alvin and the Chipmunks: Chipwrecked,chipmunk|cruise ship|football ball|overboard|tennis ball,tt1615918,English,USA,2011,4.4,0,1,1,0,0,1,0,0,0,1
+133668525,Comedy,Grown Ups 2,belching|number in title|party|reference to nicki minaj|sneezing,tt2191701,English,USA,2013,5.4,0,0,0,0,0,1,0,0,0,0
+130313314,Action|Adventure|Comedy,Get Smart,airplane|misunderstanding|obese woman|overweight woman|spy,tt0425061,English,USA,2008,6.5,1,1,0,0,0,1,0,0,0,0
+124590960,Comedy|Drama|Romance,Something's Gotta Give,beach|dating|doctor|heart attack|weekend,tt0337741,English,USA,2003,6.7,0,0,0,0,0,1,1,0,0,0
+127968405,Mystery|Thriller,Shutter Island,female prisoner|plot twist|self delusion|surprise ending|year 1954,tt1130884,English,USA,2010,8.1,0,0,0,0,1,0,0,1,0,0
+120136047,Comedy|Drama|Romance,Four Christmases,airport|christmas|news broadcast|tv broadcast|tv news,tt0369436,English,Germany,2008,5.6,0,0,0,0,0,1,1,0,0,0
+128200012,Adventure|Animation|Comedy|Family|Sci-Fi,Robots,actor voicing multiple characters|box office hit|coffee|plate|robot,tt0358082,English,USA,2005,6.3,0,1,0,1,0,1,0,0,0,1
+112225777,Action|Crime|Sci-Fi|Thriller,Face/Off,death of child|face|face transplant|prison|terrorist,tt0119094,English,USA,1997,7.3,1,0,0,1,1,0,0,0,0,0
+109993847,Comedy|Family|Fantasy|Romance,Bedtime Stories,2000s|bedtime story|elephant|handyman|tween girl,tt0960731,English,USA,2008,6.1,0,0,1,0,0,1,1,0,0,0
+104054514,Crime|Drama|Thriller,Road to Perdition,1930s|blood|gun|on the run|revenge,tt0257044,English,USA,2002,7.7,0,0,0,0,1,0,0,0,0,0
+103028109,Comedy|Romance,Just Go with It,chick flick|hawaii|love|plastic surgeon|woman wearing a string bikini,tt1564367,English,USA,2011,6.4,0,0,0,0,0,1,1,0,0,0
+,Action|Adventure|Crime|Drama|Sci-Fi|Thriller,Daredevil            ,corruption|lawyer|partnership|superhero|vigilante,tt3322312,English,USA,,8.8,1,1,0,1,1,0,0,0,0,0
+101087161,Action|Crime|Thriller,Con Air,army rangers|convict|criminal|escape|prison,tt0118880,English,USA,1997,6.8,1,0,0,0,1,0,0,0,0,0
+101111837,Action|Mystery|Thriller,Eagle Eye,audio surveillance|death|pentagon|technology|twin brother,tt1059786,English,USA,2008,6.6,1,0,0,0,1,0,0,1,0,0
+95632614,Adventure|Drama|History|Romance|War,Cold Mountain,civil war|mountain|soldier|well|wounded soldier,tt0159365,English,USA,2003,7.2,0,1,0,0,0,0,1,0,0,0
+94822707,Action|Adventure|Drama|Thriller,The Book of Eli,blind|book|long take|post apocalypse|water,tt1037705,English,USA,2010,6.9,1,1,0,0,1,0,0,0,0,0
+92969824,Comedy|Family|Sci-Fi,Flubber,college|flubber|flying rubber|professor|wedding,tt0119137,English,USA,1997,5.2,0,0,0,1,0,1,0,0,0,0
+90443603,Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi|Sport,Space Jam,alien|basketball|basketball game|cult film|monstars,tt0117705,English,USA,1996,6.3,0,1,1,1,0,1,0,0,0,1
+82226474,Adventure|Comedy|Crime|Family|Mystery,The Pink Panther,diamond|france|investigation|pink panther|soccer,tt0383216,English,USA,2006,5.6,0,1,0,0,0,1,0,1,0,0
+79363785,Drama|Sci-Fi|Thriller,The Day the Earth Stood Still,alien|earth|giant robot|military|scientist,tt0970416,English,USA,2008,5.5,0,0,0,1,1,0,0,0,0,0
+76081498,Action|Crime|Mystery|Romance|Thriller,Conspiracy Theory,conspiracy|fbi|mk ultra|newsletter|taxi,tt0118883,English,USA,1997,6.7,1,0,0,0,1,0,1,1,0,0
+85707116,Action|Drama|War,Fury,battle|battlefield|brutality|combat|tank,tt2713180,English,USA,2014,7.6,1,0,0,0,0,0,0,0,0,0
+74329966,Action|Adventure|Comedy|Romance,Six Days Seven Nights,airplane|island|pilot|storm|thunderstorm,tt0120828,English,USA,1998,5.7,1,1,0,0,0,1,1,0,0,0
+100169068,Adventure|Animation|Comedy|Family,Yogi Bear,bear|mayor|park|sabotage|yogi bear,tt1302067,English,USA,2010,4.6,0,1,0,0,0,1,0,0,0,1
+73215310,Adventure|Animation|Family|Western,Spirit: Stallion of the Cimarron,cavalry|escape|herd|stallion|wild stallion,tt0166813,English,USA,2002,7,0,1,0,0,0,0,0,0,0,1
+80360866,Comedy|Family|Romance,Zookeeper,champagne bottle|coca cola|jewelry box|red bull|zoo,tt1222817,English,USA,2011,5.2,0,0,0,0,0,1,1,0,0,0
+69102910,Action|Adventure|Family|Sci-Fi|Thriller,Lost in Space,based on tv series|remake|robot|scientist|spaceship,tt0120738,English,USA,1998,5.1,1,1,0,1,1,0,0,0,0,0
+65948711,Drama|Mystery|Sci-Fi|Thriller,The Manchurian Candidate,brainwashed assassin|conspiracy|critically acclaimed|mother son relationship|soldier,tt0368008,English,USA,2004,6.6,0,0,0,1,1,0,0,1,0,0
+821997,Drama|Romance,Déjà Vu,american|love|pin|ruby|stranger,tt0119033,English,USA,1997,7,0,0,0,0,0,0,1,0,0,0
+169692572,Animation|Comedy|Family|Fantasy,Hotel Transylvania 2,california|dracula|hotel|transylvania|vampire,tt2510894,English,USA,2015,6.7,0,0,1,0,0,1,0,0,0,1
+,Comedy|Family|Fantasy,Bewitched            ,connecticut|magic|marriage|witch|witchcraft,tt0057733,English,USA,,7.6,0,0,1,0,0,1,0,0,0,0
+60507228,Animation|Family|Fantasy|Music,Fantasia 2000,abstract|ark|disney|fairy tale|piano,tt0120910,English,USA,1999,7.3,0,0,1,0,0,0,0,0,0,1
+56684819,Action|Adventure|Sci-Fi,The Time Machine,hunter|scientist|time machine|time travel|time travel romance,tt0268695,English,USA,2002,5.9,1,1,0,1,0,0,0,0,0,0
+50628009,Action|Adventure|Family|Fantasy|Thriller,Mighty Joe Young,animal|california|gorilla|hunter|poacher,tt0120751,English,USA,1998,5.6,1,1,1,0,1,0,0,0,0,0
+69772969,Action|Crime|Thriller,Swordfish,computer|secret agent|terrorism|told in flashback|wearing a sound wire,tt0244244,English,USA,2001,6.5,1,0,0,0,1,0,0,0,0,0
+45356386,Action|Adventure|Western,The Legend of Zorro,california|fight|hero|mask|zorro,tt0386140,Spanish,USA,2005,5.9,1,1,0,0,0,0,0,0,0,0
+55350897,Drama|Fantasy|Romance,What Dreams May Come,heaven|hell|soul|soul mate|suicide,tt0120889,English,USA,1998,7,0,0,1,0,0,0,1,0,0,0
+39442871,Comedy|Fantasy,Little Nicky,angel|devil|flask|hell|the devil,tt0185431,English,USA,2000,5.3,0,0,1,0,0,1,0,0,0,0
+37899638,Action|Adventure|Comedy|Fantasy|Thriller,The Brothers Grimm,creature|curse|exorcism|girl|village,tt0355295,English,USA,2005,5.9,1,1,1,0,1,1,0,0,0,0
+37754208,Action|Comedy|Sci-Fi,Mars Attacks!,alien|general|martian|president|weapon,tt0116996,English,USA,1996,6.3,1,0,0,1,0,1,0,0,0,0
+,Drama|Horror|Mystery|Sci-Fi,Evolution,boy|giving birth|nurse|sea|ultrasonography,tt4291590,French,France,2015,6.4,0,0,0,1,0,0,0,1,1,0
+27779888,Action|Adventure|Drama|Thriller,The Edge,bear|billionaire|crash|survival tactics|wilderness,tt0119051,English,USA,1997,6.9,1,1,0,0,1,0,0,0,0,0
+38542418,Action|Sci-Fi|Thriller,Surrogates,android|fbi agent|future|murder|robot,tt0986263,English,USA,2009,6.3,1,0,0,1,1,0,0,0,0,0
+34566746,Drama|History|Thriller,Thirteen Days,blockade|crisis|cuba|missile|president,tt0146309,English,USA,2000,7.3,0,0,0,0,1,0,0,0,0,0
+32885565,Action|Adventure|Drama|Thriller,Daylight,collapsing tunnel|explosion|new jersey|tunnel|weimaraner,tt0116040,English,USA,1996,5.8,1,1,0,0,1,0,0,0,0,0
+36073232,Adventure|Animation|Family,Walking with Dinosaurs 3D,brother|dinosaur|head butt|hero|orphan,tt1762399,English,USA,2013,5.2,0,1,0,0,0,0,0,0,0,1
+20950820,Adventure|Animation|Comedy|Family|Fantasy|Sci-Fi,Looney Tunes: Back in Action,diamond|duck|monkey|spy|stuntman,tt0318155,English,Germany,2003,5.7,0,1,1,1,0,1,0,0,0,1
+19673424,Drama|Musical|Romance,Nine,based on stage musical based on film|child abuse|film director|italian|mistress,tt0875034,English,USA,2009,5.8,0,0,0,0,0,0,1,0,0,0
+19480739,Action|Adventure|Sci-Fi,Timeline,castle|france|professor|student|time machine,tt0300556,English,USA,2003,5.6,1,1,0,1,0,0,0,0,0,0
+17593391,Action|Adventure|Drama|Sci-Fi,The Postman,drifter|escape|hope|postman|usa,tt0119925,English,USA,1997,6,1,1,0,1,0,0,0,0,0,0
+18318000,Adventure|Comedy|Drama|Family|Fantasy,Babe: Pig in the City,animal|farm|farmer|hotel|pig,tt0120595,English,Australia,1998,5.8,0,1,1,0,0,1,0,0,0,0
+27356090,Action|Adventure|Fantasy,The Last Witch Hunter,box office flop|burned to death|magic|witch|witch hunter,tt1618442,English,USA,2015,6,1,1,1,0,0,0,0,0,0,0
+17473245,Action|Sci-Fi|Thriller,Red Planet,astronaut|mars|robot|robot as menace|survival,tt0199753,English,USA,2000,5.7,1,0,0,1,1,0,0,0,0,0
+15131330,Adventure|Animation|Family|Fantasy,Arthur and the Invisibles,boy|debt|garden|princess|treasure,tt0344854,English,France,2006,6,0,1,1,0,0,0,0,0,0,1
+19406406,Documentary|Drama,Oceans,damselfish|ocean habitat|ocean life|razorfish|spider crab,tt0765128,French,France,2009,7.8,0,0,0,0,0,0,0,0,0,0
+23219748,Action|Adventure|Drama|History|Romance,Pompeii,arena|lava bomb|mount vesuvius|pompeii|slave,tt1921064,English,Canada,2014,5.6,1,1,0,0,0,0,1,0,0,0
+170708996,Biography|Drama,A Beautiful Mind,conspiracy|cryptography|mathematician|mental illness|nobel prize,tt0268978,English,USA,2001,8.2,0,0,0,0,0,0,0,0,0,0
+422783777,Adventure|Animation|Drama|Family|Musical,The Lion King,king|prince|scar|uncle|unnecessary guilt,tt0110357,English,USA,1994,8.5,0,1,0,0,0,0,0,0,0,1
+103812241,Action|Adventure|Comedy|Family|Fantasy|Sci-Fi,Journey 2: The Mysterious Island,gold|hurricane|island|mountain|mysterious island,tt1397514,English,USA,2012,5.8,1,1,1,1,0,1,0,0,0,0
+119793567,Animation|Comedy|Family|Fantasy|Sci-Fi,Cloudy with a Chance of Meatballs 2,food|inventor|island|orangutan|scientist,tt1985966,English,USA,2013,6.5,0,0,1,1,0,1,0,0,0,1
+92930005,Crime|Drama|Thriller,Red Dragon,criminal profile|fbi agent|madman|tabloid reporter|tragic villain,tt0289765,English,Germany,2002,7.2,0,0,0,0,1,0,0,0,0,0
+67286731,Action|Adventure|Western,Hidalgo,arab|cowboy|horse|race|sheik,tt0317648,English,USA,2004,6.7,1,1,0,0,0,0,0,0,0,0
+127083765,Action|Crime|Thriller,2 Fast 2 Furious,bust|racing|shotgun|street racing|undercover agent,tt0322259,English,USA,2003,5.9,1,0,0,0,1,0,0,0,0,0
+1339152,Adventure|Animation|Drama|Family|Fantasy,The Little Prince,aviator|based on book|girl|little girl|the little prince,tt1754656,English,France,2015,7.8,0,1,1,0,0,0,0,0,0,1
+15071514,Sci-Fi|Thriller,The Invasion,alien|epidemic|psychiatrist|space shuttle|virus,tt0427392,English,USA,2007,5.9,0,0,0,1,1,0,0,0,0,0
+323505540,Animation|Comedy|Family,The Secret Life of Pets,animal control|lost animal|mongrel|pet|terrier,tt2709768,English,Japan,2016,6.8,0,0,0,0,0,1,0,0,0,1
+66462600,Action|Adventure|Fantasy|Sci-Fi,The League of Extraordinary Gentlemen,box office flop|captain nemo|dorian gray|invisible man|steampunk,tt0311429,English,USA,2003,5.8,1,1,1,1,0,0,0,0,0,0
+368049635,Animation|Comedy|Family|Sci-Fi,Despicable Me 2,dating|minion|overprotective father|undercover spy|woman agent,tt1690953,English,USA,2013,7.5,0,0,0,1,0,1,0,0,0,1
+306124059,Action|Adventure|Sci-Fi,Independence Day,alien|area 51|military|spacecraft|spaceship,tt0116629,English,USA,1996,6.9,1,1,0,1,0,0,0,0,0,0
+229074524,Action|Adventure|Sci-Fi,The Lost World: Jurassic Park,capture|dinosaur|island|jurassic|jurassic park,tt0119567,English,USA,1997,6.5,1,1,0,1,0,0,0,0,0,0
+193136719,Adventure|Animation|Comedy|Family,Madagascar,escape|jungle|lemur|madagascar|zoo,tt0351283,English,USA,2005,6.9,0,1,0,0,0,1,0,0,0,1
+35286428,Drama|Sci-Fi|Thriller,Children of Men,chaos|england|long take|survival|violence,tt0206634,English,USA,2006,7.9,0,0,0,1,1,0,0,0,0,0
+157299717,Action|Adventure|Sci-Fi,X-Men,first part|mutant|professor|superhero|superhero team,tt0120903,English,USA,2000,7.4,1,1,0,1,0,0,0,0,0,0
+134568845,Action|Crime|Fantasy|Thriller,Wanted,assassin|bobble head doll|femme fatale|rejuvenation|strong female lead,tt0493464,English,USA,2008,6.7,1,0,1,0,1,0,0,0,0,0
+134006721,Action|Adventure|Thriller,The Rock,alcatraz|fbi|general|hostage|rocket,tt0117500,English,USA,1996,7.4,1,1,0,0,1,0,0,0,0,0
+195329763,Action|Adventure|Animation|Comedy|Family|Fantasy,Ice Age: The Meltdown,flood|mammoth|no opening credits|squirrel|valley,tt0438097,English,USA,2006,6.9,1,1,1,0,0,1,0,0,0,1
+120776832,Comedy|Romance,50 First Dates,dream|hawaii|hawaiian shirt|short term memory loss|veterinarian,tt0343660,English,USA,2004,6.8,0,0,0,0,0,1,1,0,0,0
+118823091,Comedy|Drama|Family|Music|Musical|Romance,Hairspray,audition|best friend|dance|friend|tv dance show,tt0427327,English,USA,2007,6.7,0,0,0,0,0,1,1,0,0,0
+41814863,Horror|Mystery|Thriller,Exorcist: The Beginning,archeologist|church|excavation|faith|relic,tt0204313,English,USA,2004,5.1,0,0,0,0,1,0,0,1,1,0
+97360069,Action|Adventure|Comedy|Family|Sci-Fi,Inspector Gadget,actor playing multiple roles|claw|gadget|inspector|police,tt0141369,English,USA,1999,4.1,1,1,0,1,0,1,0,0,0,0
+117698894,Crime|Mystery|Thriller,Now You See Me,bank|fbi|heist|interpol|magician,tt1670345,English,USA,2013,7.3,0,0,0,0,1,0,0,1,0,0
+162001186,Comedy,Grown Ups,basketball|coach|daughter|high school|high school basketball,tt1375670,English,USA,2010,6,0,0,0,0,0,1,0,0,0,0
+77032279,Comedy|Drama,The Terminal,airport|construction site|fish out of water|flight attendant|man without a country,tt0362227,English,USA,2004,7.3,0,0,0,0,0,1,0,0,0,0
+,Drama|Fantasy|Horror|Thriller,Constantine            ,based on comic|based on comic book|dc arrowverse|dc comics|supernatural,tt3489184,English,USA,,7.5,0,0,1,0,1,0,0,0,1,0
+73023275,Comedy|Family,Hotel for Dogs,abandoned hotel|dog|foster home|overalls|playing with a dog,tt0785006,English,USA,2009,5.4,0,0,0,0,0,1,0,0,0,0
+68473360,Action|Adventure|Drama|Thriller,Vertical Limit,death|die hard scenario|k2|rescue|urination,tt0190865,English,USA,2000,5.9,1,1,0,0,1,0,0,0,0,0
+66636385,Biography|Comedy|Drama|History,Charlie Wilson's War,afghanistan|arms dealer|based on true story|cia|texas,tt0472062,English,USA,2007,7.1,0,0,0,0,0,1,0,0,0,0
+160762022,Adventure|Animation|Comedy|Family,Shark Tale,anchor|fish|mobster|shark|vegetarian,tt0307453,English,USA,2004,6,0,1,0,0,0,1,0,0,0,1
+103338338,Drama|Music|Musical,Dreamgirls,1960s|fire|pop chart|singer|trio,tt0443489,English,USA,2006,6.5,0,0,0,0,0,0,0,0,0,0
+,Crime|Drama|Mystery,Life            ,cop|murder|partner|police|protective male,tt0874936,English,USA,,8.3,0,0,0,0,0,0,0,1,0,0
+55808744,Comedy|Crime|Music,Be Cool,concert|mobster|russian|sequel|widow,tt0377471,English,USA,2005,5.7,0,0,0,0,0,1,0,0,0,0
+47379090,Drama|History|Thriller,Munich,arab|black september|israel|jew|munich olympics,tt0408306,English,France,2005,7.6,0,0,0,0,1,0,0,0,0,0
+43426961,Action|Drama|Thriller|War,Tears of the Sun,dictator|doctor|jungle|rebel|refugee,tt0314353,English,USA,2003,6.6,1,0,0,0,1,0,0,0,0,0
+47000485,Action|Comedy|Romance|Thriller,Killers,hired killer|marriage|neighbor|on the run|store clerk,tt1103153,English,USA,2010,5.4,1,0,0,0,1,1,1,0,0,0
+45434443,Action|Adventure|Comedy,The Man from U.N.C.L.E.,box office flop|cia agent|criminal organization|kgb agent|nuclear bomb,tt1638355,English,USA,2015,7.3,1,1,0,0,0,1,0,0,0,0
+42044321,Comedy|Drama|Romance,Spanglish,chef|college|housekeeper|letter|mexico,tt0371246,English,USA,2004,6.5,0,0,0,0,0,1,1,0,0,0
+73661010,Animation|Comedy|Family|Fantasy|Mystery,Monster House,babysitter|halloween|house|neighbor|suburb,tt0385880,English,USA,2006,6.6,0,0,1,0,0,1,0,1,0,1
+41523271,Comedy|Crime|Drama|Romance,Bandits,bank manager|hypochondriac|love triangle|prison|television,tt0219965,English,USA,2001,6.6,0,0,0,0,0,1,1,0,0,0
+37600435,Action|Adventure|Romance|Thriller,First Knight,battle|king|king arthur|knight|marriage,tt0113071,English,USA,1995,5.9,1,1,0,0,1,0,1,0,0,0
+39251128,Drama|History|Romance,Anna and the King,1860s|children|king|schoolteacher|siam,tt0166485,English,USA,1999,6.7,0,0,0,0,0,0,1,0,0,0
+83503161,Action|Drama|Fantasy|Romance,Immortals,burned alive|castration|olympus|torture|torture device,tt1253864,English,USA,2011,6.1,1,0,1,0,0,0,1,0,0,0
+34636443,Action|Crime|Drama|Mystery|Thriller,Hostage,california|hostage|hostage negotiator|organized crime|police,tt0340163,English,USA,2005,6.6,1,0,0,0,1,0,0,1,0,0
+22751979,Action|Adventure|Animation|Family|Sci-Fi,Titan A.E.,alien|captain|escape|pilot|scientist,tt0120913,English,USA,2000,6.6,1,1,0,1,0,0,0,0,0,1
+30013346,Action|Comedy|Crime|Thriller,Hollywood Homicide,audition|kissing while having sex|machismo|murder|sex,tt0329717,English,USA,2003,5.3,1,0,0,0,1,1,0,0,0,0
+14567883,Action|Drama|Sci-Fi,Soldier,crash survivor|planet|sergeant|soldier|survivor,tt0120157,English,UK,1998,6,1,0,0,1,0,0,0,0,0,0
+90820,Drama|Horror|Sci-Fi|Thriller,Carriers,beach|disease|latex gloves|pandemic|virus,tt0806203,English,USA,2009,6,0,0,0,1,1,0,0,0,1,0
+21009180,Action|Adventure|Drama|Thriller,Flight of the Phoenix,captain|desert|rescue|stranded|survivor,tt0377062,English,USA,2004,6.1,1,1,0,0,1,0,0,0,0,0
+94999143,Drama|Mystery|Sci-Fi|Thriller,Unbreakable,child with gun|comic book|invulnerability|superhero|train crash,tt0217869,English,USA,2000,7.2,0,0,0,1,1,0,0,1,0,0
+336029560,Action|Animation|Comedy|Family|Sci-Fi,Minions,antarctica|minion|queen|super villain|villain,tt2293640,English,USA,2015,6.4,1,0,0,1,0,1,0,0,0,1
+36381716,Action|Fantasy,Sucker Punch,alternate reality|escape|girl gang|prostitution|samurai,tt0978764,English,USA,2011,6.1,1,0,1,0,0,0,0,0,0,0
+55585389,Crime|Mystery|Thriller,Snake Eyes,assassination|boxing|casino|conspiracy|long take,tt0120832,English,USA,1998,5.9,0,0,0,0,1,0,0,1,0,0
+36976367,Drama|Mystery|Sci-Fi|Thriller,Sphere,manifestation|ocean|spacecraft|spaceship|sphere,tt0120184,English,USA,1998,6,0,0,0,1,1,0,0,1,0,0
+107225164,Action|Animation|Comedy|Family,The Angry Birds Movie,butt|downward duck|fish|kingfisher|pig,tt1985949,English,USA,2016,6.3,1,0,0,0,0,1,0,0,0,1
+70224196,Action|Adventure|Comedy|Romance|Thriller,Fool's Gold,debt|rapper|treasure|treasure hunter|yacht,tt0770752,English,USA,2008,5.6,1,1,0,0,1,1,1,0,0,0
+51814190,Comedy|Drama,Funny People,breasts|comedian|craigslist|infidelity|stand up comedian,tt1201167,English,USA,2009,6.4,0,0,0,0,0,1,0,0,0,0
+47456450,Action|Drama|Thriller,The Kingdom,al qaeda|bomb making|fbi|saudi arabia|stabbed in the crotch,tt0431197,English,USA,2007,7.1,1,0,0,0,1,0,0,0,0,0
+148213377,Action|Comedy|Sport,Talladega Nights: The Ballad of Ricky Bobby,car racing|french|friend|nascar|racing,tt0415306,English,USA,2006,6.6,1,0,0,0,0,1,0,0,0,0
+112950721,Comedy|Family|Fantasy,Dr. Dolittle 2,bear|doctor|false accusation|man with glasses|second part,tt0240462,English,USA,2001,4.6,0,0,1,0,0,1,0,0,0,0
+75600000,Biography|Drama|History|War,Braveheart,14th century|legend|revolt|scotland|tyranny,tt0112573,English,USA,1995,8.4,0,0,0,0,0,0,0,0,0,0
+62647540,Action|Drama|War,Jarhead,american abroad|gulf war|u.s. military|u.s. soldier|usmc,tt0418763,English,Germany,2005,7.1,1,0,0,0,0,0,0,0,0,0
+183132370,Adventure|Animation|Comedy,The Simpsons Movie,alaska|dome|lake|pig|the simpsons,tt0462538,English,USA,2007,7.4,0,1,0,0,0,1,0,0,0,1
+27796042,Drama|Romance,The Majestic,amnesia|california|communist|small town|writer,tt0268995,English,USA,2001,6.9,0,0,0,0,0,0,1,0,0,0
+18947630,Adventure|Drama|Family,Two Brothers,circus|death of protagonist|jungle|killing an animal|tiger,tt0338512,English,France,2004,7.1,0,1,0,0,0,0,0,0,0,0
+114195633,Drama|Mystery|Romance|Thriller,The Village,creature|pact|plot twist|village|woods,tt0368447,English,USA,2004,6.5,0,0,0,0,1,0,1,1,0,0
+144156464,Comedy|Family|Fantasy,Doctor Dolittle,box office hit|doctor|dog|first part|tiger,tt0118998,English,USA,1998,5.3,0,0,1,0,0,1,0,0,0,0
+227965690,Drama|Sci-Fi|Thriller,Signs,crop circle|faith|farm|glass of water|loss of faith,tt0286106,English,USA,2002,6.7,0,0,0,1,1,0,0,0,0,0
+436471036,Adventure|Animation|Comedy|Family|Fantasy|Romance,Shrek 2,drag queen|physical appearance|princess|queen|sequel,tt0298148,English,USA,2004,7.2,0,1,1,0,0,1,1,0,0,1
+244052771,Adventure|Animation|Comedy|Family|Sport,Cars,car|desert|route 66|tow truck|truck,tt0317219,English,USA,2006,7.2,0,1,0,0,0,1,0,0,0,1
+152149590,Comedy|Romance,Runaway Bride,bride|columnist|journalist|maryland|wedding,tt0163187,English,USA,1999,5.5,0,0,0,0,0,1,1,0,0,0
+162495848,Adventure|Animation|Comedy|Family|Fantasy,The SpongeBob Movie: Sponge Out of Water,book|magic|pirate|plankton|time machine,tt2279373,English,USA,2015,6,0,1,1,0,0,1,0,0,0,1
+136448821,Crime|Thriller,Ransom,bounty|fbi|millionaire|money|ransom,tt0117438,English,USA,1996,6.6,0,0,0,0,1,0,0,0,0,0
+120523073,Adventure|Drama|War,Inglourious Basterds,france|german|nazis|revenge|scalping,tt0361748,English,USA,2009,8.3,0,1,0,0,0,0,0,0,0,0
+119654900,Adventure|Comedy|Family|Fantasy,Hook,1990s|caught in a net|children|duel|hero,tt0102057,English,USA,1991,6.7,0,1,1,0,0,1,0,0,0,0
+72660029,Action|Adventure,Hercules,army|greek mythology|hercules|king|mercenary,tt1267297,English,USA,2014,6,1,1,0,0,0,0,0,0,0,0
+117541000,Action|Thriller,Die Hard 2,airport|fuel|plane|police|terrorist,tt0099423,English,USA,1990,7.1,1,0,0,0,1,0,0,0,0,0
+116643346,Action|Adventure|Crime|Thriller,S.W.A.T.,hostage|police|prison|swat team|training,tt0257076,English,USA,2003,6,1,1,0,0,1,0,0,0,0,0
+,Adventure|Drama|Fantasy|Mystery|Thriller,Sleepy Hollow            ,apocalypse|death|husband wife relationship|mother son relationship|murder,tt2647544,English,USA,,7.5,0,1,1,0,1,0,0,1,0,0
+100614858,Fantasy|Mystery|Romance|Sci-Fi|Thriller,Vanilla Sky,death|dream|love|lynchian|reality,tt0259711,English,USA,2001,6.9,0,0,1,1,1,0,1,1,0,0
+42272747,Drama|Fantasy|Mystery|Thriller,Lady in the Water,apartment|bedtime story|eagle|stuttering|swimming pool,tt0452637,English,USA,2006,5.6,0,0,1,0,1,0,0,1,0,0
+80281096,Action|Horror|Sci-Fi|Thriller,AVP: Alien vs. Predator,alien|antarctica|predator|pyramid|satellite,tt0370263,English,USA,2004,5.6,1,0,0,1,1,0,0,0,1,0
+219613391,Animation|Comedy|Family|Fantasy|Music,Alvin and the Chipmunks: The Squeakquel,adidas|chipmunk|hospital|school|waste container,tt1231580,English,USA,2009,4.5,0,0,1,0,0,1,0,0,0,1
+78120196,Action|Drama|History|War,We Were Soldiers,air cavalry|battle|major|soldier|vietnamese,tt0277434,English,USA,2002,7.1,1,0,0,0,0,0,0,0,0,0
+98895417,Action|Thriller,Olympus Has Fallen,political thriller|politics|president|speaker of the house|u.s. president,tt2302755,English,USA,2013,6.5,1,0,0,0,1,0,0,0,0,0
+70117571,Action|Adventure|Sci-Fi|Thriller,Star Trek: Insurrection,alien|captain|commander|conspiracy|planet,tt0120844,English,USA,1998,6.4,1,1,0,1,1,0,0,0,0,0
+83552429,Action|Sci-Fi,Battle Los Angeles,alien|extraterrestrial|invasion|marine|mission,tt1217613,English,USA,2011,5.8,1,0,0,1,0,0,0,0,0,0
+66257002,Adventure|Drama|Fantasy,Big Fish,dog saved from a fire|flashback|growing up|multiple narrators|traveling salesman,tt0319061,English,USA,2003,8,0,1,1,0,0,0,0,0,0,0
+65012000,Drama|Horror|Romance|Thriller,Wolf,blood|publisher|publishing house|werewolf|wolf,tt0111742,English,USA,1994,6.2,0,0,0,0,1,0,1,0,1,0
+79883359,Drama|War,War Horse,barbed wire|british|cavalry|horse|world war one,tt1568911,English,USA,2011,7.2,0,0,0,0,0,0,0,0,0,0
+78031620,Drama|War,The Monuments Men,art|art expert|nazi stolen art|soldier|world war two,tt2177771,English,USA,2014,6.1,0,0,0,0,0,0,0,0,0,0
+54222000,Adventure|Drama|Sci-Fi|Thriller,The Abyss,alien|estranged couple|ocean|submarine|underwater,tt0096754,English,USA,1989,7.6,0,1,0,1,1,0,0,0,0,0
+52474616,Drama,Wall Street: Money Never Sleeps,corporate greed|crisis|economy|greed|mentor,tt1027718,English,USA,2010,6.3,0,0,0,0,0,0,0,0,0,0
+55942830,Action|Drama|Fantasy|Horror|War,Dracula Untold,death of wife|dracula|tarantula|turk|vampire,tt0829150,English,USA,2014,6.3,1,0,1,0,0,0,0,0,1,0
+40932372,Action|Thriller,The Siege,abduction|martial law|military|new york city|terrorist,tt0133952,English,USA,1998,6.3,1,0,0,0,1,0,0,0,0,0
+38345403,Adventure|Family|Fantasy|Romance,Stardust,king|magic|one word title|pirate|village,tt0486655,English,UK,2007,7.7,0,1,1,0,0,0,1,0,0,0
+37901509,Adventure|Biography|Drama|History|War,Seven Years in Tibet,austria|dalai lama|himalaya|mountain|tibet,tt0120102,English,USA,1997,7,0,1,0,0,0,0,0,0,0,0
+48430355,Comedy|Drama,The Dilemma,best friend|friend|investigation|secret|two word title,tt1578275,English,USA,2011,5.3,0,0,0,0,0,1,0,0,0,0
+30157016,Action|Adventure|Comedy|Thriller,Bad Company,cia|cia agent|terrorist|twin|twin brother,tt0280486,English,USA,2002,5.6,1,1,0,0,1,1,0,0,0,0
+28031250,Action|Adventure|Horror|Sci-Fi,Doom,commando unit|extra chromosome|first person shooter|special forces|teleportation,tt0419706,English,UK,2005,5.2,1,1,0,1,0,0,0,0,1,0
+33105600,Action|Adventure|Comedy|Thriller,I Spy,boxer|espionage|spy|stealth|top secret,tt0297181,English,USA,2002,5.4,1,1,0,0,1,1,0,0,0,0
+62321039,Action|Fantasy|Horror,Underworld: Awakening,battle|cryogenics|detective|scientist|vampire,tt1496025,English,USA,2012,6.4,1,0,1,0,0,0,0,0,1,0
+38509342,Comedy|Drama|Musical|Romance,Rock of Ages,concert|love|music industry|panties|pole dancer,tt1336608,English,USA,2012,5.9,0,0,0,0,0,1,1,0,0,0
+19076815,Drama|War,Hart's War,colonel|honor|lieutenant|pilot|racism,tt0251114,English,USA,2002,6.3,0,0,0,0,0,0,0,0,0,0
+25093607,Action|Crime|Thriller,Killer Elite,australia|death|mentor|revenge|secret society,tt1448755,English,UK,2011,6.5,1,0,0,0,1,0,0,0,0,0
+19819494,Action|Crime|Drama|Thriller,Hard Rain,dam|flood|money|police|sheriff,tt0120696,English,USA,1998,5.8,1,0,0,0,1,0,0,0,0,0
+13596911,Action|Adventure|Animation|Comedy|Crime|Family|Fantasy,Osmosis Jones,blood|body|egg|virus|white blood cell,tt0181739,English,USA,2001,6.2,1,1,1,0,0,1,0,0,0,1
+8460990,Adventure|Animation|Family|Fantasy|Musical,Legends of Oz: Dorothy's Return,jester|kansas|oz|princess|tornado,tt0884726,English,USA,2013,5.6,0,1,1,0,0,0,0,0,0,1
+7097125,Action|Crime|Drama|Mystery|Thriller,Blackhat,chinese|computer|cybercrime|hacker|one word title,tt2717822,English,USA,2015,5.4,1,0,0,0,1,0,0,1,0,0
+37760080,Action|Adventure|Mystery|Sci-Fi|Thriller,Sky Captain and the World of Tomorrow,captain|pilot|reporter|robot|scientist,tt0346156,English,USA,2004,6.1,1,1,0,1,1,0,0,1,0,0
+25121291,Action|Crime|Mystery|Sci-Fi|Thriller,Escape Plan,cia agent|escape|muslim|prison|ship,tt1211956,English,USA,2013,6.7,1,0,0,1,1,0,0,1,0,0
+18821279,Action|Adventure|Fantasy,The Legend of Hercules,ancient greece|forbidden love|hercules|king|slavery,tt1043726,English,USA,2014,4.2,1,1,1,0,0,0,0,0,0,0
+118471320,Action|Drama|Thriller,The Sum of All Fears,analyst|cia|nuclear bomb|nuclear weapons|russia,tt0164184,English,USA,2002,6.4,1,0,0,0,1,0,0,0,0,0
+300523113,Adventure|Drama|Fantasy|Romance,The Twilight Saga: Eclipse,friendship|graduation|revenge|vampire|werewolf,tt1325004,English,USA,2010,4.9,0,1,1,0,0,0,1,0,0,0
+71069884,Crime|Drama|Thriller,The Score,partner|running|scepter|surveillance|thief,tt0227445,English,USA,2001,6.8,0,0,0,0,1,0,0,0,0,0
+251501645,Animation|Comedy|Family,Despicable Me,girl|minion|moon|pyramid|white picket fence,tt1323594,English,USA,2010,7.7,0,0,0,0,0,1,0,0,0,1
+35324232,Action|Comedy|Crime|Drama|Thriller,Money Train,bare breasts|breast|loan shark|subway|train,tt0113845,English,USA,1995,5.6,1,0,0,0,1,1,0,0,0,0
+81257500,Comedy,Ted 2,baby|f word|fight|lawyer|marriage,tt2637276,English,USA,2015,6.4,0,0,0,0,0,1,0,0,0,0
+617840,Adventure|Drama|History|Romance,Agora,christian|love|philosophy|prefect|slave,tt1186830,English,Spain,2009,7.2,0,1,0,0,0,0,1,0,0,0
+29655590,Action|Comedy|Fantasy|Sci-Fi,Mystery Men,bowling|rajah|sphinx|spleen|superhero,tt0132347,English,USA,1999,6,1,0,1,1,0,1,0,0,0,0
+45045037,Comedy|Romance,Hall Pass,drugged food|female frontal nudity|male frontal nudity|male nudity|marriage,tt0480687,English,USA,2011,5.9,0,0,0,0,0,1,1,0,0,0
+28965197,Biography|Drama|Thriller,The Insider,cbs|cbs news|research|tobacco|whistleblower,tt0140352,English,USA,1999,7.9,0,0,0,0,1,0,0,0,0,0
+27550735,Action|Drama|History|Thriller,The Finest Hours,1950s|coast guard|oil tanker|sinking ship|survival,tt2025690,English,USA,2016,6.8,1,0,0,0,1,0,0,0,0,0
+39380442,Action|Drama|Thriller,Body of Lies,cia|jordan|middle east|spy|terrorist,tt0758774,English,USA,2008,7.1,1,0,0,0,1,0,0,0,0,0
+72980108,Comedy,Dinner for Schmucks,dinner|diorama|idiot|irs|mouse,tt0427152,English,USA,2010,5.9,0,0,0,0,0,1,0,0,0,0
+37516013,Action|Fantasy|Horror,Abraham Lincoln: Vampire Hunter,chopping down a tree|hanging upside down|shopkeeper|vampire|vampire hunter,tt1611224,English,USA,2012,5.9,1,0,1,0,0,0,0,0,1,0
+87704396,Action|Crime|Romance|Thriller,Entrapment,art thief|insurance|mask|master thief|reference to iron maiden,tt0137494,English,USA,1999,6.2,1,0,0,0,1,0,1,0,0,0
+,Comedy,Last Man Standing            ,family relationships|husband wife relationship|live studio audience|sitcom|three word title,tt1828327,English,USA,,7.4,0,0,0,0,0,1,0,0,0,0
+83892374,Drama|Mystery|Sci-Fi|Thriller,The X Files,agent|alien|bomb|fbi|government,tt0120902,English,USA,1998,7,0,0,0,1,1,0,0,1,0,0
+5932060,Action|Adventure|Fantasy|War,The Last Legion,5th century|boy|capri|roman legion|soldier,tt0462396,English,UK,2007,5.4,1,1,1,0,0,0,0,0,0,0
+216119491,Action|Drama|War,Saving Private Ryan,army|invasion|killed in action|normandy|soldier,tt0120815,English,USA,1998,8.6,1,0,0,0,0,0,0,0,0,0
+43568507,Action|Crime|Drama|Thriller,Need for Speed,cross country|custom car|illegal street racing|police officer crushed|street racing,tt2369135,English,USA,2014,6.5,1,0,0,0,1,0,0,0,0,0
+176387405,Adventure|Animation|Comedy|Family,Ice Age,baby|ice|ice age|sleeping|sloth,tt0268380,English,USA,2002,7.6,0,1,0,0,0,1,0,0,0,1
+33685268,Drama|Horror|Sci-Fi|Thriller,Dreamcatcher,alien|friend|maine|military|woods,tt0285531,English,USA,2003,5.5,0,0,0,1,1,0,0,0,1,0
+182204440,Biography|Drama|History|War,Lincoln,cultural conflict|politics|president|slavery|u.s. president,tt0443272,English,USA,2012,7.4,0,0,0,0,0,0,0,0,0,0
+171383253,Action|Sci-Fi,The Matrix,artificial reality|computer|matrix|questioning reality|simulated reality,tt0133093,English,USA,1999,8.7,1,0,0,1,0,0,0,0,0,0
+172071312,Adventure|Drama|History,Apollo 13,cape kennedy|news footage|reference to christopher columbus|rocket|trapped in space,tt0112384,English,USA,1995,7.6,0,1,0,0,0,0,0,0,0,0
+119412921,Action|Sci-Fi,Total Recall,ambiguous ending|false memory|implanted memory|memory|space colony,tt0100802,English,USA,1990,7.5,1,0,0,1,0,0,0,0,0,0
+139225854,Comedy|Family|Fantasy,The Santa Clause 2,christmas|magic|santa claus|son|toy,tt0304669,English,USA,2002,5.5,0,0,1,0,0,1,0,0,0,0
+148775460,Drama|Musical|Romance,Les Misérables,barricade|innkeeper|parole|rebellion|student,tt1707386,English,USA,2012,7.6,0,0,0,0,0,0,1,0,0,0
+115731542,Comedy|Drama|Romance,You've Got Mail,bookstore|competing businesses|instant messaging|new york city|shop owner,tt0128853,English,USA,1998,6.5,0,0,0,0,0,1,1,0,0,0
+100468793,Comedy,Step Brothers,dream|friendship|karaoke|love|slacker,tt0838283,English,USA,2008,6.9,0,0,0,0,0,1,0,0,0,0
+93771072,Action|Adventure|Comedy|Romance|Thriller|Western,The Mask of Zorro,19th century|california|revenge|training|zorro,tt0120746,English,USA,1998,6.7,1,1,0,0,1,1,1,0,0,0
+100448498,Comedy|Drama,Due Date,actor|aspiring actor|birth|misadventure|suitcase,tt1231583,English,USA,2010,6.6,0,0,0,0,0,1,0,0,0,0
+115603980,Biography|Drama|Sport|War,Unbroken,emaciation|male nudity|plane crash|prisoner of war|torture,tt1809398,English,USA,2014,7.2,0,0,0,0,0,0,0,0,0,0
+90454043,Action|Adventure|Thriller,Space Cowboys,nasa|old age|satellite|space|space shuttle,tt0186566,English,USA,2000,6.4,1,1,0,0,1,0,0,0,0,0
+84049211,Action|Adventure|Thriller,Cliffhanger,money|mountain|rocky mountains|snow|suitcase,tt0106582,English,USA,1993,6.4,1,1,0,0,1,0,0,0,0,0
+70450000,Action|Crime|Thriller,Broken Arrow,captain|desert|major|park ranger|utah,tt0115759,English,USA,1996,6,1,0,0,0,1,0,0,0,0,0
+69688384,Comedy|Family|Fantasy,The Kid,altering history|cartoon on tv|childhood|image consultant|one two combo,tt0219854,English,USA,2000,6.1,0,0,1,0,0,1,0,0,0,0
+70236496,Drama|History|Thriller,World Trade Center,based on true story|police|rescue|rubble|trapped,tt0469641,English,USA,2006,6,0,0,0,0,1,0,0,0,0,0
+63695760,Drama,Mona Lisa Smile,art|college|school|student|wellesley college,tt0304415,English,USA,2003,6.4,0,0,0,0,0,0,0,0,0,0
+59617068,Comedy|Romance,The Dictator,dictator|hotel|oil|overalls|sunglasses,tt1645170,English,USA,2012,6.4,0,0,0,0,0,1,1,0,0,0
+85911262,Comedy|Drama|Family|Musical,Annie,billionaire|business tycoon|mayoral candidate|penthouse|reference to star trek,tt1823664,English,USA,2014,5.2,0,0,0,0,0,1,0,0,0,0
+53846915,Comedy|Crime|Drama|Romance,Focus,con artist|con man|deception|rivalry|seduction,tt2381941,English,USA,2015,6.6,0,0,0,0,0,1,1,0,0,0
+54758461,Action|Comedy|Romance,This Means War,best friend|cia|cia agent|dating|undercover,tt1596350,English,USA,2012,6.3,1,0,0,0,0,1,1,0,0,0
+52397389,Action|Adventure|Fantasy|Horror|Sci-Fi|Thriller,Blade: Trinity,blade|blood|dracula|vampire hunter|vampire slayer,tt0359013,English,USA,2004,5.9,1,1,1,1,1,0,0,0,1,0
+,Action|Drama|War,Red Dawn,guerrilla|high school|invasion|soviet|wolverine,tt0087985,English,USA,1984,6.4,1,0,0,0,0,0,0,0,0,0
+38966057,Comedy|Drama,Primary Colors,campaigning|candidate|election|governor|president,tt0119942,English,France,1998,6.7,0,0,0,0,0,1,0,0,0,0
+42345531,Action|Horror|Sci-Fi|Thriller,Resident Evil: Retribution,corporation|fight|rescue|umbrella|zombie,tt1855325,English,Germany,2012,5.4,1,0,0,1,1,0,0,0,1,0
+36064910,Action|Sci-Fi|Thriller,Death Race,armored car|car|murder|prison|warden,tt0452608,English,USA,2008,6.4,1,0,0,1,1,0,0,0,0,0
+32598931,Action|Drama|Thriller,Proof of Life,jungle|pipeline|prisoner|ransom|south america,tt0228750,English,USA,2000,6.2,1,0,0,0,1,0,0,0,0,0
+28045540,Action|Adventure|Comedy|Family|Fantasy|Sci-Fi,Zathura: A Space Adventure,2000s|coke|meeting future self|reference to spongebob squarepants|sony,tt0406375,English,USA,2005,6.1,1,1,1,1,0,1,0,0,0,0
+37023395,Drama,Fight Club,anti establishment|dark humor|fighting|multiple personality disorder|surprise ending,tt0137523,English,USA,1999,8.8,0,0,0,0,0,0,0,0,0,0
+43532294,Drama|Sport,We Are Marshall,coach|football|football team|marshall university|university,tt0758794,English,USA,2006,7.1,0,0,0,0,0,0,0,0,0,0
+,Crime|Drama|Mystery,The Missing            ,france|journalist|limp|police detective|reporter,tt3877200,English,UK,,8.1,0,0,0,0,0,0,0,1,0,0
+17218080,Action|Adventure|Comedy,Hudson Hawk,blackmail|burglar|critically bashed|leonardo da vinci|prison,tt0102070,English,USA,1991,5.7,1,1,0,0,0,1,0,0,0,0
+10014234,Comedy|Crime,Lucky Numbers,celebrity|lottery|murder|snowmobile|weatherman,tt0219952,English,France,2000,5,0,0,0,0,0,1,0,0,0,0
+19059018,Action|Fantasy|Sci-Fi|Thriller,"I, Frankenstein",army|creature|demon|frankenstein|gargoyle,tt1418377,English,Australia,2014,5.1,1,0,1,1,1,0,0,0,0,0
+1987287,Crime|Drama,Oliver Twist,boy|character name in title|orphan|pickpocket|workhouse,tt0380599,English,UK,2005,6.9,0,0,0,0,0,0,0,0,0,0
+24407944,Action|Crime|Fantasy|Thriller,Elektra,assassin|battle|heroine|martial arts|spin off,tt0357277,English,Canada,2005,4.8,1,0,1,0,1,0,0,0,0,0
+13750556,Action|Crime|Thriller,Sin City: A Dame to Kill For,box office flop|female frontal nudity|female rear nudity|jackpot|rescue,tt0458481,English,USA,2014,6.5,1,0,0,0,1,0,0,0,0,0
+31054924,Drama|Mystery|Romance,Random Hearts,death|plane crash|police|police sergeant|politician,tt0156934,English,USA,1999,5.1,0,0,0,0,0,0,1,1,0,0
+43247140,Adventure|Biography|Drama|History|Sport|Thriller,Everest,blizzard|mount everest|mountain|mountain climbing|snow,tt2719848,English,UK,2015,7.1,0,1,0,0,1,0,0,0,0,0
+2208939,Crime|Drama|Fantasy,Perfume: The Story of a Murderer,18th century|perfume|scent|sense of smell|smell,tt0396171,English,Germany,2006,7.5,0,0,1,0,0,0,0,0,0,0
+213079163,Action|Comedy|Crime,Austin Powers in Goldmember,fem bot|prison|seductive fembot|spy|time travel,tt0295178,English,USA,2002,6.2,1,0,0,0,0,1,0,0,0,0
+19548064,Action|Animation|Comedy|Family|Sci-Fi,Astro Boy,betrayal|futuristic|gladiator|robot|scientist,tt0375568,English,Hong Kong,2009,6.3,1,0,0,1,0,1,0,0,0,1
+356784000,Adventure|Sci-Fi|Thriller,Jurassic Park,dinosaur|jurassic park|survival|theme park|tyrannosaurus rex,tt0107290,English,USA,1993,8.1,0,1,0,1,1,0,0,0,0,0
+25052000,Adventure|Biography|Crime|Drama|Western,Wyatt Earp,historically inaccurate|name calling|penis slur|vomiting|wyatt earp,tt0111756,English,USA,1994,6.6,0,1,0,0,0,0,0,0,0,0
+122012710,Action|Crime|Drama|Thriller,Clear and Present Danger,cia|colombia|colombian drug cartel|drugs|president,tt0109444,English,USA,1994,6.9,1,0,0,0,1,0,0,0,0,0
+72413,Action|Adventure|Drama|History,Dragon Blade,child fugitive|final battle|martial art|silk road|sword,tt3672840,Mandarin,China,2015,6.1,1,1,0,0,0,0,0,0,0,0
+77086030,Action|War,U-571,battle|historically inaccurate|submarine movie|u boat|world war two,tt0141926,English,France,2000,6.6,1,0,0,0,0,0,0,0,0,0
+65000000,Comedy|Drama|Romance,The American President,lobbyist|president|senator|state dinner|widower,tt0112346,English,USA,1995,6.8,0,0,0,0,0,1,1,0,0,0
+15738632,Action|Comedy|Crime|Thriller,3000 Miles to Graceland,casino|elvis impersonator|gun|heist|rascal,tt0233142,English,USA,2001,5.9,1,0,0,0,1,1,0,0,0,0
+54116191,Crime|Drama|Mystery|Thriller|Western,The Hateful Eight,blizzard|blood vomiting|bounty hunter|murder|shot in the crotch,tt3460252,English,USA,2015,7.9,0,0,0,0,1,0,0,1,0,0
+118153533,Comedy|Sport,Blades of Glory,competition|fight|ice|jock strap|nintendo game boy advance,tt0445934,English,USA,2007,6.3,0,0,0,0,0,1,0,0,0,0
+108012170,Adventure|Animation|Comedy|Family|Fantasy,Hop,drummer|easter|easter bunny|piaggio vespa gtv 250|slacker,tt1411704,English,USA,2011,5.5,0,1,1,0,0,1,0,0,0,1
+210592590,Action|Drama|Fantasy|War,300,battle|epic|greece|spartan|warrior,tt0416449,English,USA,2006,7.7,1,0,1,0,0,0,0,0,0,0
+143151473,Comedy|Drama|Family,Marley & Me,box office hit|dog|dog movie|florida|pet name in title,tt0822832,English,USA,2008,7.1,0,0,0,0,0,1,0,0,0,0
+136801374,Crime|Drama|Fantasy|Mystery,The Green Mile,1930s|death row inmate|healing|prison guard|southern u.s.,tt0120689,English,USA,1999,8.5,0,0,1,0,0,0,0,1,0,0
+168213584,Action|Adventure|Comedy,Wild Hogs,biker gang|friend|motorcycle|new mexico|road trip,tt0486946,English,USA,2007,5.9,1,1,0,0,0,1,0,0,0,0
+135381507,Adventure|Animation|Comedy|Family|Sci-Fi,Chicken Little,alien invasion|chicken|fish|friend|panic,tt0371606,English,USA,2005,5.8,0,1,0,1,0,1,0,0,0,1
+167735396,Crime|Drama|Mystery|Thriller,Gone Girl,based on novel|disappearance|missing person|missing wife|murder suspect,tt2267998,English,USA,2014,8.1,0,0,0,0,1,0,0,1,0,0
+121468960,Action|Mystery|Thriller,The Bourne Identity,amnesia|assassin|money|political thriller|three word title,tt0258463,English,USA,2002,7.9,1,0,0,0,1,0,0,1,0,0
+106635996,Action|Adventure|Thriller,GoldenEye,agent|cossack|official james bond series|russia|russian,tt0113189,English,UK,1995,7.2,1,1,0,0,1,0,0,0,0,0
+102678089,Drama|Mystery|Thriller,The General's Daughter,army cid|cover up|military|murder|woman in military,tt0144214,English,USA,1999,6.3,0,0,0,0,1,0,0,1,0,0
+125603360,Comedy|Drama|Sci-Fi,The Truman Show,controlled environment|fictional reality show|hidden camera|innocence lost|simulated reality,tt0120382,English,USA,1998,8.1,0,0,0,1,0,1,0,0,0,0
+101217900,Adventure|Animation|Biography|Drama|Family|Fantasy|Musical,The Prince of Egypt,ancient egypt|hebrew|nudity|pharaoh|title directed by female,tt0120794,English,USA,1998,7,0,1,1,0,0,0,0,0,0,1
+104148781,Comedy|Family,Daddy Day Care,bloopers during credits|breakfast cereal|department store ride|face painting|sponge bob square pants slippers,tt0317303,English,USA,2003,5.5,0,0,0,0,0,1,0,0,0,0
+75573300,Action|Comedy|Crime|Drama|Thriller,2 Guns,close up of breasts|female nudity|fugitive|money|undercover,tt1272878,English,USA,2013,6.7,1,0,0,0,1,1,0,0,0,0
+93375151,Action|Comedy|Family|Fantasy,Cats & Dogs,cartoon on tv|cat|dog|scientist|secret agent,tt0239395,English,USA,2001,5.2,1,0,1,0,0,1,0,0,0,0
+106126012,Action|Crime|Thriller,The Italian Job,gold|heist|revenge|traffic jam|venice italy,tt0317740,English,USA,2003,7,1,0,0,0,1,0,0,0,0,0
+93307796,Comedy|Romance,Two Weeks Notice,developer|divorce|lawyer|love|new york city,tt0313737,English,USA,2002,6.1,0,0,0,0,0,1,1,0,0,0
+90646554,Adventure|Animation|Comedy|Family,Antz,ant|friend|princess|soldier|worker,tt0120587,English,USA,1998,6.6,0,1,0,0,0,1,0,0,0,1
+109176215,Comedy,Couples Retreat,couple|island|marriage|tropical|voyeurism,tt1078940,English,USA,2009,5.5,0,0,0,0,0,1,0,0,0,0
+82670733,Action|Drama|Sport,Days of Thunder,driver|hot shot|racing|stock car driver|team,tt0099371,English,USA,1990,5.9,1,0,0,0,0,0,0,0,0,0
+82569532,Adventure|Comedy|Family,Cheaper by the Dozen 2,children|competition|rival|second part|vacation,tt0452598,English,USA,2005,5.4,0,1,0,0,0,1,0,0,0,0
+81687587,Action|Sci-Fi|Thriller,The Scorch Trials,desert|disease|escape|resistance|virus,tt4046784,English,USA,2015,6.4,1,0,0,1,1,0,0,0,0,0
+80574010,Drama|Romance,Eat Pray Love,divorce|emotional balance|female protagonist|indonesia|inner peace,tt0879870,English,USA,2010,5.7,0,0,0,0,0,0,1,0,0,0
+75764085,Comedy|Drama|Fantasy|Romance,The Family Man,bowling|christmas|parallel universe|salesman|unfaithfulness,tt0218967,English,USA,2000,6.7,0,0,1,0,0,1,1,0,0,0
+90356857,Action|Comedy|Crime|Thriller,RED,cia|female assassin|interrogation|office cubicle|spy,tt1245526,English,USA,2010,7.1,1,0,0,0,1,1,0,0,0,0
+75530832,Drama|Sport,Any Given Sunday,breasts|coach|football|in medias res|vomiting,tt0146838,English,USA,1999,6.8,0,0,0,0,0,0,0,0,0,0
+75370763,Drama|Romance|Western,The Horse Whisperer,grace|groom|horse|montana|western u.s.,tt0119314,English,USA,1998,6.5,0,0,0,0,0,0,1,0,0,0
+100003492,Crime|Drama|Thriller,Collateral,city by night|contract killer|driving at night|los angeles california|taxi,tt0369339,English,USA,2004,7.6,0,0,0,0,1,0,0,0,0,0
+90341670,Action|Adventure|Fantasy|Thriller,The Scorpion King,desert|king|showdown|sorceress|warrior,tt0277296,English,USA,2002,5.5,1,1,1,0,1,0,0,0,0,0
+74540762,Action|Drama|Thriller,Ladder 49,death of husband|fire|firefighter|funeral|main character dies,tt0349710,English,USA,2004,6.5,1,0,0,0,1,0,0,0,0,0
+80033643,Action|Crime|Mystery|Thriller,Jack Reacher,coma|mysterious villain|police chase|shooting range|sniper,tt0790724,English,USA,2012,7,1,0,0,0,1,0,0,1,0,0
+73648142,Action|Sci-Fi|Thriller,Deep Blue Sea,alzheimer's disease|experiment|human versus shark|research|underwater headquarters,tt0149261,English,USA,1999,5.8,1,0,0,1,1,0,0,0,0,0
+71844424,Documentary|Music,This Is It,2000s|box office hit|comeback|rehearsal|year 2009,tt1477715,English,USA,2009,7.3,0,0,0,0,0,0,0,0,0,0
+75638743,Drama|Thriller,Contagion,contagion|cure|infection|panic|virus,tt1598778,English,USA,2011,6.6,0,0,0,0,1,0,0,0,0,0
+75280058,Animation|Family|Fantasy,Coraline,dream|new home|parallel worlds|scissors|secret door,tt0327597,English,USA,2009,7.7,0,0,1,0,0,0,0,0,0,1
+64505912,Sci-Fi|Thriller,The Happening,bee|nature|park|school|teacher,tt0949731,English,USA,2008,5,0,0,0,1,1,0,0,0,0,0
+77862546,Action|Crime|Drama|Thriller,Man on Fire,bodyguard|journalist|kidnapping|mexico|police corruption,tt0328107,English,USA,2004,7.7,1,0,0,0,1,0,0,0,0,0
+88200225,Comedy|Crime,Starsky & Hutch,cocaine|cop|criminal|partner|police,tt0335438,English,USA,2004,6.1,0,0,0,0,0,1,0,0,0,0
+60573641,Comedy|Family,Jingle All the Way,action figure|christmas|hero|karate|toy,tt0116705,English,USA,1996,5.4,0,0,0,0,0,1,0,0,0,0
+59035104,Action|Fantasy|Horror|Sci-Fi,Hellboy,assassin|demon|hero|nazi|superhero,tt0167190,English,USA,2004,6.8,1,0,1,1,0,0,0,0,1,0
+56702901,Drama,A Civil Action,1980s|law firm|lawsuit|lawyer|toxic waste,tt0120633,English,USA,1998,6.5,0,0,0,0,0,0,0,0,0,0
+55994557,Adventure|Animation|Comedy|Family|Fantasy,ParaNorman,curse|ghost|outcast|witch|zombie,tt1623288,English,USA,2012,7,0,1,1,0,0,1,0,0,0,1
+54910560,Action|Adventure|Crime|Thriller,The Jackal,assassin|fbi|ira|jackal|russian,tt0119395,English,USA,1997,6.3,1,1,0,0,1,0,0,0,0,0
+53789313,Action|Mystery|Sci-Fi|Thriller,Paycheck,anti hero|babe scientist|engineer|memory|money,tt0338337,English,USA,2003,6.3,1,0,0,1,1,0,0,1,0,0
+51045801,Drama|Romance,Up Close & Personal,journalism|news anchor|newscast|newscaster|tv journalism,tt0118055,English,USA,1996,6.1,0,0,0,0,0,0,1,0,0,0
+50818750,Adventure|Animation|Comedy|Family|Fantasy,The Tale of Despereaux,book|darkness|dungeon|princess|rat,tt0420238,English,UK,2008,6.1,0,1,1,0,0,1,0,0,0,1
+,Comedy|Romance,Rules of Engagement            ,fiance|fiancee|magazine editor|naivety|womanizer,tt0790772,English,USA,,7.3,0,0,0,0,0,1,1,0,0,0
+50189179,Action|Comedy|Sci-Fi,The Tuxedo,chauffeur|hospital|secret agent|spying|tuxedo,tt0290095,English,USA,2002,5.3,1,0,0,1,0,1,0,0,0,0
+50024083,Action|Thriller,Under Siege 2: Dark Territory,colorado|niece|satellite|terrorist|train,tt0114781,English,USA,1995,5.4,1,0,0,0,1,0,0,0,0,0
+50549107,Action|Drama|Thriller,Jack Ryan: Shadow Recruit,covert analyst|marine|russian|spy|stock market,tt1205537,English,USA,2014,6.2,1,0,0,0,1,0,0,0,0,0
+56443482,Biography|Comedy|Drama,Joy,based on real person|female inventor|mop|sales pitch|woman holding a shotgun,tt2446980,English,USA,2015,6.6,0,0,0,0,0,1,0,0,0,0
+62401264,Action|Crime|Drama|Thriller,London Has Fallen,british|funeral|good versus evil|mole|sequel,tt3300542,English,UK,2016,5.9,1,0,0,0,1,0,0,0,0,0
+47748610,Action|Horror|Sci-Fi,Alien: Resurrection,alien|blood|breeding|clone|scientist,tt0118583,English,USA,1997,6.3,1,0,0,1,0,0,0,0,1,0
+46975183,Action|Crime|Drama|Mystery|Thriller,Shooter,colonel|ethiopia|marksman|on the run|rangefinder,tt0822854,English,USA,2007,7.2,1,0,0,0,1,0,0,1,0,0
+50807639,Adventure|Animation|Comedy|Family|Fantasy,The Boxtrolls,chase|puppet animation|red hat|stop motion animation|troll,tt0787474,English,USA,2014,6.8,0,1,1,0,0,1,0,0,0,1
+46611204,Comedy|Drama|Fantasy|Romance,Practical Magic,curse|death|island|love|magic,tt0120791,English,USA,1998,6.1,0,0,1,0,0,1,1,0,0,0
+257756197,Action|Adventure|Animation|Comedy|Family|Fantasy,The Lego Movie,based on toy|dual personality|evil businessman|good cop bad cop|lego,tt1490017,English,Australia,2014,7.8,1,1,1,0,0,1,0,0,0,1
+48472213,Action|Comedy|Crime,Miss Congeniality 2: Armed and Fabulous,bodyguard|fbi|fbi agent|female protagonist|undercover,tt0385307,English,USA,2005,5,1,0,0,0,0,1,0,0,0,0
+43060566,Action|Adventure|Fantasy|Sci-Fi|Thriller,Reign of Fire,castle|dragon|fire breathing dragon|militia|survival,tt0253556,English,USA,2002,6.2,1,1,1,1,1,0,0,0,0,0
+45996718,Action|Crime|Drama|Thriller,Gangster Squad,good versus evil|machine gun|mobster|police vigilantism|year 1949,tt1321870,English,USA,2013,6.7,1,0,0,0,1,0,0,0,0,0
+37479778,Biography|Drama|History|Sport,Invictus,apartheid|nation|nelson mandela|president|rugby,tt1057500,English,USA,2009,7.4,0,0,0,0,0,0,0,0,0,0
+36965395,Crime|Drama|Mystery|Thriller,State of Play,congressman|conspiracy|newspaper|political conspiracy|subway,tt0473705,English,USA,2009,7.1,0,0,0,0,1,0,0,1,0,0
+40559930,Comedy|Crime|Romance|Thriller,Duplicity,ceo|dubai|product|rivalry|spy,tt1135487,English,USA,2009,6.2,0,0,0,0,1,1,1,0,0,0
+36279230,Action|Crime|Thriller,The Sentinel,first lady|framed|investigation|president|secret service,tt0443632,English,USA,2006,6.1,1,0,0,0,1,0,0,0,0,0
+42194060,Adventure|Animation|Comedy|Family|Sci-Fi,Planet 51,alien|alien planet|astronaut|planet|teenager,tt0762125,English,Spain,2009,6.1,0,1,0,1,0,1,0,0,0,1
+43119879,Action|Adventure|Sci-Fi|Thriller,Star Trek: Nemesis,earth|federation|romulan|slave|space,tt0253754,English,USA,2002,6.4,1,1,0,1,1,0,0,0,0,0
+35096190,Comedy|Crime|Romance,Intolerable Cruelty,attorney|divorce|marriage|real estate|screwball comedy,tt0138524,English,USA,2003,6.3,0,0,0,0,0,1,1,0,0,0
+35754555,Drama|Sport,Trouble with the Curve,aging|baseball|baseball scout|north carolina|pitcher,tt2083383,English,USA,2012,6.8,0,0,0,0,0,0,0,0,0,0
+43290977,Crime|Drama|Mystery|Thriller,Edge of Darkness,activist|detective|father daughter relationship|investigation|vigilantism,tt1226273,English,UK,2010,6.6,0,0,0,0,1,0,0,1,0,0
+33927476,Horror|Mystery|Sci-Fi|Thriller,The Relic,fire|helicopter|museum|police sergeant|relic,tt0120004,English,UK,1997,5.7,0,0,0,1,1,0,0,1,1,0
+32122249,Comedy|Crime,Analyze That,blonde|mafia|mental illness|prison|second part,tt0289848,English,USA,2002,5.9,0,0,0,0,0,1,0,0,0,0
+40076438,Action|Crime|Drama|Mystery|Thriller,Righteous Kill,blood splatter|execution|new york city|nypd|serial killer,tt1034331,English,USA,2008,6,1,0,0,0,1,0,0,1,0,0
+32940507,Action|Crime|Drama|Thriller,Mercury Rising,autistic child|boy|child in danger|fbi|nsa,tt0120749,English,USA,1998,6.1,1,0,0,0,1,0,0,0,0,0
+31670931,Biography|Drama|Music,The Soloist,columnist|journalist|los angeles times|musician|wearing a traffic cone as a hat,tt0821642,English,UK,2009,6.7,0,0,0,0,0,0,0,0,0,0
+30695227,Drama|Fantasy|Sport,The Legend of Bagger Vance,caddy|game|golf|golf course|golfer,tt0146984,English,USA,2000,6.7,0,0,1,0,0,0,0,0,0,0
+32522352,Adventure|Comedy|Drama|Music,Almost Famous,band|magazine|rolling stone magazine|smoking marijuana|tour,tt0181875,English,USA,2000,7.9,0,1,0,0,0,1,0,0,0,0
+28424210,Animation|Comedy|Family|Fantasy,Garfield 2,cat|england|lti txii|peugeot 206|rover 3 5 litre.coupe p5b,tt0455499,English,UK,2006,5,0,0,1,0,0,1,0,0,0,1
+26082914,Action|Adventure|Crime|Thriller,xXx: State of the Union,coup d'etat|mutiny|president|u.s. navy|washington d.c.,tt0329774,English,USA,2005,4.3,1,1,0,0,1,0,0,0,0,0
+29136626,Action|Fantasy|Horror|Sci-Fi|Thriller,Priest,church|priest|sheriff|vampire|warrior,tt0822847,English,USA,2011,5.7,1,0,1,1,1,0,0,0,1,0
+26288320,Adventure|Animation|Comedy|Drama|Family|Fantasy|Romance,Sinbad: Legend of the Seven Seas,book|framed|goddess|prince|sinbad,tt0165982,English,USA,2003,6.7,0,1,1,0,0,1,1,0,0,1
+26616590,Horror|Sci-Fi|Thriller,Event Horizon,solar system|space|spaceship|starship|year 2047,tt0119081,English,UK,1997,6.7,0,0,0,1,1,0,0,0,1,0
+623279547,Action|Adventure|Sci-Fi,The Avengers,alien invasion|assassin|battle|iron man|soldier,tt0848228,English,USA,2012,8.1,1,1,0,1,0,0,0,0,0,0
+30063805,Drama|Fantasy|Mystery|Romance|Thriller,Dragonfly,death|doctor|grave|patient|venezuela,tt0259288,English,USA,2002,6.1,0,0,1,0,1,0,1,1,0,0
+22518325,Crime|Drama|Mystery|Thriller,The Black Dahlia,black dahlia|boxer|corpse|death|partner,tt0387877,English,Germany,2006,5.6,0,0,0,0,1,0,0,1,0,0
+13082288,Action|Adventure|Drama|History|Romance|War,Flyboys,american|france|military|pilot|training,tt0454824,English,UK,2006,6.6,1,1,0,0,0,0,1,0,0,0
+18208078,Action|Drama|Thriller,The Last Castle,colonel|general|military|prison|three star general,tt0272020,English,USA,2001,6.9,1,0,0,0,1,0,0,0,0,0
+22451,Drama|Fantasy|Mystery|Romance,Winter's Tale,black and white photograph|drawing with blood|falling through ice|playing piano|red haired woman,tt1837709,English,USA,2014,6.2,0,0,1,0,0,0,1,1,0,0
+31165421,Fantasy|Horror|Mystery|Romance,The Mortal Instruments: City of Bones,battle|demon|magic|secret|warrior,tt1538403,English,USA,2013,6,0,0,1,0,0,0,1,1,1,0
+25472967,Drama|Horror|Thriller,Dark Water,apartment|hello kitty|school|teacher|water,tt0382628,English,USA,2005,5.6,0,0,0,0,1,0,0,0,1,0
+22362500,Comedy|Drama,Edtv,female removes her clothes|one word title|producer|television|video store,tt0131369,English,USA,1999,6.1,0,0,0,0,0,1,0,0,0,0
+17281832,Adventure|Family|Fantasy,Inkheart,book|escape|girl|overalls|villain,tt0494238,English,Germany,2008,6.1,0,1,1,0,0,0,0,0,0,0
+7605668,Action|Comedy|Mystery|Romance,Mortdecai,art dealer|fake painting|macguffin|moustache|stolen painting,tt3045616,English,UK,2015,5.5,1,0,0,0,0,1,1,1,0,0
+4426297,Adventure|Drama|Romance|War,Beyond Borders,africa|american|border|doctor|well,tt0294357,English,USA,2003,6.5,0,1,0,0,0,0,1,0,0,0
+10166502,Action|Drama|War,The Great Raid,american|lieutenant colonel|mission|rescue|soldier,tt0326905,Filipino,USA,2005,6.7,1,0,0,0,0,0,0,0,0,0
+363024263,Action|Adventure|Comedy|Romance|Sci-Fi,Deadpool,based on comic book|breaking the fourth wall|mercenary|mutant|self healing,tt1431045,English,USA,2016,8.1,1,1,0,1,0,1,1,0,0,0
+350123553,Action|Biography|Drama|History|Thriller|War,American Sniper,assassin|death of child|iraq|sniper|sniper rifle,tt2179136,English,USA,2014,7.3,1,0,0,0,1,0,0,0,0,0
+80021740,Adventure|Comedy|Family|Fantasy|Horror,Goosebumps,based on book|blob|ferris wheel|manuscript|monster,tt1051904,English,USA,2015,6.4,0,1,1,0,0,1,0,0,1,0
+,Comedy|Family|Fantasy,"Sabrina, the Teenage Witch            ",female protagonist|hereditary gift of witchcraft|magic|supernatural|witch,tt0115341,English,USA,,6.6,0,0,1,0,0,1,0,0,0,0
+48291624,Comedy|Fantasy|Romance,Just Like Heaven,apartment|architect|coma|doctor|spirit,tt0425123,English,USA,2005,6.7,0,0,1,0,0,1,1,0,0,0
+53715611,Action|Adventure|Thriller|War,Rambo III,afghanistan|colonel|rambo|rescue|soviet,tt0095956,English,USA,1988,5.7,1,1,0,0,1,0,0,0,0,0
+31199215,Comedy|Drama|Romance|Sport,Leatherheads,college football|fight|football|hero|surrender,tt0379865,English,USA,2008,6,0,0,0,0,0,1,1,0,0,0
+44665963,Comedy,The Internship,actor's picture shown in credits|animated credits|google|internship|still images in end credits,tt2234155,English,USA,2013,6.3,0,0,0,0,0,1,0,0,0,0
+60128566,Action|Adventure|Horror|Sci-Fi,Resident Evil: Afterlife,alaska|female gunfighter|mutation|ship|siege,tt1220634,English,Germany,2010,5.9,1,1,0,1,0,0,0,0,1,0
+49875589,Action|Adventure|Drama|History|War,Red Tails,african american|battle|italy|tuskegee airmen|world war two,tt0485985,English,USA,2012,5.9,1,1,0,0,0,0,0,0,0,0
+60984028,Drama|Mystery|Thriller,The Devil's Advocate,deal with the devil|lawyer|money|reality|supernatural power,tt0118971,English,USA,1997,7.5,0,0,0,0,1,0,0,1,0,0
+51317350,Action|Adventure|Fantasy,DragonHeart,dragon|england|human dragon relationship|king|knight,tt0116136,English,USA,1996,6.4,1,1,1,0,0,0,0,0,0,0
+28328132,Action|Comedy|Crime|Drama,After the Sunset,diamond|fbi|fbi agent|island|thief,tt0367479,English,USA,2004,6.3,1,0,0,0,0,1,0,0,0,0
+51774002,Action|Fantasy|Thriller,Ghost Rider: Spirit of Vengeance,deal with the devil|devil|eastern europe|ghost rider|monk,tt1071875,English,USA,2011,4.3,1,0,1,0,1,0,0,0,0,0
+25528495,Drama|Music|Romance|War,Captain Corelli's Mandolin,captain|greek|island|italian|love,tt0238112,English,UK,2001,5.9,0,0,0,0,0,0,1,0,0,0
+,Comedy|Romance,Anger Management            ,anger management|argument|irony|sarcasm|therapist,tt1986770,English,USA,,6.7,0,0,0,0,0,1,1,0,0,0
+113006880,Action|Comedy|Drama|Family|Thriller,The Pacifier,bodyguard|death of husband|male nanny|nanny|wrestling match,tt0395699,English,Canada,2005,5.5,1,0,0,0,1,1,0,0,0,0
+45860039,Action|Crime,Walking Tall,casino|football|sheriff|special forces|violence,tt0351977,English,USA,2004,6.2,1,0,0,0,0,0,0,0,0,0
+329691196,Comedy|Drama,Forrest Gump,amputee|love|vietnam|vietnam war|war hero,tt0109830,English,USA,1994,8.8,0,0,0,0,0,1,0,0,0,0
+217326336,Animation|Comedy|Family|Fantasy|Music,Alvin and the Chipmunks,based on cartoon|chipmunk|concert|fart joke|talking animal,tt0952640,English,USA,2007,5.2,0,0,1,0,0,1,0,0,0,1
+166225040,Comedy,Meet the Parents,cat|cia|jewish|male nurse|nurse,tt0212338,English,USA,2000,7,0,0,0,0,0,1,0,0,0,0
+141600000,Adventure|Animation|Drama|Family|History|Musical|Romance,Pocahontas,actor playing multiple roles|love|one word title|unsubtitled foreign language|virginia,tt0114148,English,USA,1995,6.6,0,1,0,0,0,0,1,0,0,1
+134218018,Action|Adventure|Drama|Romance|Sci-Fi,Superman,1970s|clark kent|planet|superhero|year 1978,tt0078346,English,USA,1978,7.3,1,1,0,1,0,0,1,0,0,0
+128769345,Comedy|Romance|Sci-Fi,The Nutty Professor,face slap|formula|overweight|professor|teacher,tt0117218,English,USA,1996,5.6,0,0,0,1,0,1,1,0,0,0
+177575142,Comedy|Romance,Hitch,advice|friendship|gossip|newspaper|quitting a job,tt0386588,English,USA,2005,6.6,0,0,0,0,0,1,1,0,0,0
+105263257,Action|Adventure|Comedy|Family|Romance,George of the Jungle,animal companion|heiress|hero|jungle|male objectification,tt0119190,English,USA,1997,5.4,1,1,0,0,0,1,1,0,0,0
+104354205,Comedy|Romance,American Wedding,bachelor party|blow job|breasts|friend|wedding,tt0328828,English,USA,2003,6.3,0,0,0,0,0,1,1,0,0,0
+107100855,Biography|Drama|Thriller,Captain Phillips,hijacking|hostage|leader|ship|somalia,tt1535109,English,USA,2013,7.9,0,0,0,0,1,0,0,0,0,0
+98711404,Comedy|Crime|Romance|Thriller,Date Night,city|new york city|night|reservation|restaurant,tt1279935,English,USA,2010,6.3,0,0,0,0,1,1,1,0,0,0
+100328194,Comedy|Family|Fantasy,Casper,casper|friendly ghost|ghost|maine|mansion,tt0112642,English,USA,1995,6,0,0,1,0,0,1,0,0,0,0
+101530738,Action|Crime|Thriller,The Equalizer,assassin|ex soldier|gangster|hanged man|mysterious past,tt0455944,English,USA,2014,7.2,1,0,0,0,1,0,0,0,0,0
+93815117,Comedy|Drama|Romance,Maid in Manhattan,hotel|maid|new york city|place name in title|the bronx,tt0252076,English,USA,2002,5.1,0,0,0,0,0,1,1,0,0,0
+91400000,Action|Drama|Thriller|War,Crimson Tide,alabama|mutiny|order|radio|submarine,tt0112740,English,USA,1995,7.3,1,0,0,0,1,0,0,0,0,0
+162586036,Biography|Drama,The Pursuit of Happyness,bus|intern|internship|salesman|stockbroker,tt0454921,English,USA,2006,8,0,0,0,0,0,0,0,0,0,0
+89706988,Drama|Mystery|Thriller,Flightplan,captain|flight|flight attendant|plane|search,tt0408790,English,USA,2005,6.2,0,0,0,0,1,0,0,1,0,0
+78745923,Drama|Fantasy|Romance,City of Angels,angel|doctor|fall|heart surgeon|hospital,tt0120632,English,Germany,1998,6.7,0,0,1,0,0,0,1,0,0,0
+70098138,Action,Kill Bill: Vol. 1,bride|coma|japan|revenge|sword,tt0266697,English,USA,2003,8.1,1,0,0,0,0,0,0,0,0,0
+66365290,Comedy,Bowfinger,film within a film|filmmaking|guerrilla filmmaking|making of a movie|scientology parody,tt0131325,English,USA,1999,6.4,0,0,0,0,0,1,0,0,0,0
+,Action|Adventure|Drama|Sci-Fi,Stargate SG-1            ,2000s|21st century|alternate history|message from outer space|military,tt0118480,English,USA,,8.4,1,1,0,1,0,0,0,0,0,0
+66207920,Action|Crime|Drama|Thriller,Kill Bill: Vol. 2,assassin|assassination|bride|death|vengeance,tt0378194,English,USA,2004,8,1,0,0,0,1,0,0,0,0,0
+63408614,Action|Comedy|Crime|Thriller,Tango & Cash,1980s|80s action|escape|plea bargain|prison,tt0098439,English,USA,1989,6.3,1,0,0,0,1,1,0,0,0,0
+58422650,Comedy|Fantasy|Horror,Death Becomes Her,plastic surgeon|rejuvenation|revenge|rival|rivalry,tt0104070,English,USA,1992,6.4,0,0,1,0,0,1,0,0,1,0
+56932305,Action|Adventure|Comedy|Western,Shanghai Noon,19th century|chinese|princess|rescue|travel,tt0184894,English,USA,2000,6.6,1,1,0,0,0,1,0,0,0,0
+68750000,Action|Adventure|Thriller,Executive Decision,bomb|hostage|military|plane|terrorist,tt0116253,English,USA,1996,6.4,1,1,0,0,1,0,0,0,0,0
+68218041,Comedy|Family|Fantasy,Mr. Popper's Penguins,father|penguin|snowglobe|son|winter,tt1396218,English,USA,2011,6,0,0,1,0,0,1,0,0,0,0
+25040293,Action|Adventure|Fantasy,The Forbidden Kingdom,monkey king|staff|teenager|urination|warrior,tt0865556,English,USA,2008,6.6,1,1,1,0,0,0,0,0,0,0
+55747724,Adventure|Animation|Comedy|Family,Free Birds,chipmunk|hunting dog|sabotage|thanksgiving|turkey the bird,tt1621039,English,USA,2013,5.9,0,1,0,0,0,1,0,0,0,1
+55473600,Action|Horror|Sci-Fi,Alien 3,alien|crash|planet|prison|survivor,tt0103644,English,USA,1992,6.4,1,0,0,1,0,0,0,0,1,0
+49994804,Biography|Drama|History|Musical,Evita,actress|argentina|military|politics|singer,tt0116250,English,USA,1996,6.3,0,0,0,0,0,0,0,0,0,0
+41609593,Action|Adventure|Crime|Thriller,Ronin,case|ex kgb|ronin|russian|suitcase,tt0122690,English,UK,1998,7.3,1,1,0,0,1,0,0,0,0,0
+38553833,Adventure|Drama|Horror|Thriller,The Ghost and the Darkness,bridge|engineer|hunter|lion|railway,tt0116409,English,USA,1996,6.8,0,1,0,0,1,0,0,0,1,0
+76137505,Animation|Comedy|Family|Fantasy,Paddington,bear|ear wax cleaning|fake newsreel|paddington station london|taxidermist,tt1109624,English,UK,2014,7.2,0,0,1,0,0,1,0,0,0,1
+34350553,Action|Comedy|Sci-Fi,The Watch,alien|escape|manager|neighborhood watch|ohio,tt1298649,English,USA,2012,5.7,1,0,0,1,0,1,0,0,0,0
+34238611,Action|Crime|Drama|Thriller,The Hunted,capture|combat|fbi|hunter|special forces,tt0269347,English,USA,2003,6,1,0,0,0,1,0,0,0,0,0
+34098563,Drama|Thriller,Instinct,africa|anthropologist|murder|poacher|psychiatrist,tt0128278,English,USA,1999,6.5,0,0,0,0,1,0,0,0,0,0
+33828318,Comedy,Stuck on You,actor|conjoined twins|cook|internet|short order cook,tt0338466,English,USA,2003,5.8,0,0,0,0,0,1,0,0,0,0
+33472850,Comedy|Sport,Semi-Pro,flint michigan|merger|michigan|nba|team,tt0839980,English,USA,2008,5.8,0,0,0,0,0,1,0,0,0,0
+31051126,Adventure|Animation|Comedy|Family,The Pirates! Band of Misfits,charles darwin|cutlass|pirate|queen victoria|scientist,tt1430626,English,UK,2012,6.7,0,1,0,0,0,1,0,0,0,1
+35707327,Crime|Drama|Mystery|Thriller,Changeling,execution by hanging|los angeles police department|miscarriage of justice|missing child|wrongful conviction,tt0824747,English,USA,2008,7.8,0,0,0,0,1,0,0,1,0,0
+20550712,Action|Drama|Sci-Fi|Thriller,Chain Reaction,cold fusion|die hard scenario|man with glasses|on the run|outrunning explosion,tt0115857,English,USA,1996,5.6,1,0,0,1,1,0,0,0,0,0
+18573791,Action|Drama|Sport|Thriller,The Fan,baseball|fan|obsession|salesman|san francisco giants,tt0116277,English,USA,1996,5.8,1,0,0,0,1,0,0,0,0,0
+51225796,Drama|Musical|Romance|Thriller,The Phantom of the Opera,based on stage musical based on novel|disfigurement|mask|opera|singer,tt0293508,English,UK,2004,7.4,0,0,0,0,1,0,1,0,0,0
+16264475,Biography|Drama|History|War,Elizabeth: The Golden Age,court|intrigue|queen|spain|virgin,tt0414055,English,UK,2007,6.9,0,0,0,0,0,0,0,0,0,0
+12870569,Drama|History|War,Gods and Generals,confederacy|hero|prequel|stonewall jackson|war hero,tt0279111,English,USA,2003,6.3,0,0,0,0,0,0,0,0,0,0
+16088610,Comedy|Drama|Family|Fantasy,Imagine That,blanket|competition|family relationships|feather|sleepover,tt0780567,English,USA,2009,5.6,0,0,1,0,0,1,0,0,0,0
+51178893,Adventure|Comedy|Crime|Family|Musical,Muppets Most Wanted,europe|frog|gulag|prison break|puppet,tt2281587,English,USA,2014,6.4,0,1,0,0,0,1,0,0,0,0
+39440655,Drama|Music|Musical|Romance,Burlesque,burlesque|dancer|iowa|small town girl|stage,tt1126591,English,USA,2010,6.4,0,0,0,0,0,0,1,0,0,0
+6167817,Drama|Mystery|Romance|War,A Very Long Engagement,court martial|death|girl|no man's land|soldier,tt0344510,French,France,2004,7.7,0,0,0,0,0,0,1,1,0,0
+,Crime|Drama|Romance,Lolita,lolita|nymphet|older man young girl relationship|professor|writer,tt0056193,English,UK,1962,7.7,0,0,0,0,0,0,1,0,0,0
+,Crime|Horror|Mystery|Thriller,Eye See You,drill in the eye|eye gouging|hanged woman|murder|peep hole,tt0160184,English,USA,2002,5.3,0,0,0,0,1,0,0,1,1,0
+81645152,Action|Horror|Sci-Fi|Thriller,Blade II,blade the character|cult film|mutation|vampire|warrior,tt0187738,English,USA,2002,6.7,1,0,0,1,1,0,0,0,1,0
+69951824,Drama|Romance,Seven Pounds,boyfriend girlfriend relationship|heart|main character dies|organ donor|redemption,tt0814314,English,USA,2008,7.7,0,0,0,0,0,0,1,0,0,0
+9483821,Action|Thriller,Bullet to the Head,bar|bullet|corruption|detective|lawyer,tt1308729,English,USA,2012,5.7,1,0,0,0,1,0,0,0,0,0
+66676062,Crime|Drama,The Godfather: Part III,1970s|family relationships|mob hit|opera|repeating history,tt0099674,English,USA,1990,7.6,0,0,0,0,0,0,0,0,0,0
+26838389,Comedy|Drama|Romance,Elizabethtown,flight|flight attendant|kentucky|shoes|travel,tt0368709,English,USA,2005,6.4,0,0,0,0,0,1,1,0,0,0
+75604320,Comedy|Romance,"You, Me and Dupree",best friend|foot fetish|houseguest|newlywed|wedding,tt0463034,English,USA,2006,5.6,0,0,0,0,0,1,1,0,0,0
+108200000,Action|Adventure|Romance|Sci-Fi,Superman II,alien invasion|based on comic book|flying superhero|phantom zone|revenge,tt0081573,English,USA,1980,6.8,1,1,0,1,0,0,1,0,0,0
+7221458,Drama|Thriller,All the King's Men,governor|journalist|louisiana|mistress|politician,tt0405676,English,Germany,2006,6.2,0,0,0,0,1,0,0,0,0,0
+70327868,Action|Crime|Thriller,Shaft,blaxploitation|detective|drugs|shaft|trial,tt0162650,English,Germany,2000,5.9,1,0,0,0,1,0,0,0,0,0
+58297830,Adventure|Animation|Drama|Family|Fantasy|Musical|Mystery|Romance,Anastasia,amnesia|reference to anastasia romanov|romanov|russia|russian revolution,tt0118617,English,USA,1997,7.1,0,1,1,0,0,0,1,1,0,1
+57386369,Drama|Musical|Romance,Moulin Rouge!,death of main character|eiffel tower paris|jealousy|tragedy|two suitors,tt0203009,English,USA,2001,7.6,0,0,0,0,0,0,1,0,0,0
+45207112,Crime|Mystery|Thriller,Domestic Disturbance,amateur detective|boat builder|boy|stepfather|witness,tt0249478,English,USA,2001,5.5,0,0,0,0,1,0,0,1,0,0
+62563543,Biography|Crime|Drama,Black Mass,based on true story|boston massachusetts|fbi agent|gangster|true crime,tt1355683,English,USA,2015,7,0,0,0,0,0,0,0,0,0,0
+33574332,Drama|History|War,Flags of Our Fathers,imperial japan|japan|japanese army|japanese soldier|world war two,tt0418689,English,USA,2006,7.1,0,0,0,0,0,0,0,0,0,0
+73343413,Crime|Drama|Thriller,Law Abiding Citizen,attorney|deal|district attorney|investigation|justice,tt1197624,English,USA,2009,7.4,0,0,0,0,1,0,0,0,0,0
+25031037,Action|Horror|Thriller,Grindhouse,anthropophagus|blood and gore|double feature|real twins playing twins|zombie,tt0462322,English,USA,2007,7.6,1,0,0,0,1,0,0,0,1,0
+22843047,Drama|History|Horror,Beloved,farm|freedom|ohio|slavery|spirit,tt0120603,English,USA,1998,5.9,0,0,0,0,0,0,0,0,1,0
+5755286,Drama|Romance|Sport,Lucky You,losing|poker|poker player|reference to frederic chopin|reference to johannes brahms,tt0338216,English,USA,2007,5.9,0,0,0,0,0,0,1,0,0,0
+164435221,Biography|Crime|Drama,Catch Me If You Can,attorney|cat and mouse|fbi|pan am|pilot,tt0264464,English,USA,2002,8,0,0,0,0,0,0,0,0,0,0
+95720716,Drama|History|Thriller,Zero Dark Thirty,al qaeda|cia|interrogation|lie|navy seal,tt1790885,English,USA,2012,7.4,0,0,0,0,1,0,0,0,0,0
+118683135,Comedy|Drama|Romance,The Break-Up,art|break up|football video game|kitchen|talking to one's self in a mirror,tt0452594,English,USA,2006,5.8,0,0,0,0,0,1,1,0,0,0
+143704210,Comedy|Family|Musical|Romance,Mamma Mia!,bride|greece|island|mediterranean|wedding,tt0795421,English,USA,2008,6.3,0,0,0,0,0,1,1,0,0,0
+110476776,Comedy|Romance,Valentine's Day,flower|indian restaurant|tv station|valentine|valentine's day,tt0817230,English,USA,2010,5.7,0,0,0,0,0,1,1,0,0,0
+80270227,Action|Adventure|Comedy,The Dukes of Hazzard,1969 dodge charger|bikini|farm|misogynist|tow truck,tt0377818,English,USA,2005,5.1,1,1,0,0,0,1,0,0,0,0
+36385763,Drama|War,The Thin Red Line,battle|hill|jungle|multiple perspectives|tropical island,tt0120863,English,USA,1998,7.6,0,0,0,0,0,0,0,0,0,0
+34580635,Biography|Comedy|Drama,Man on the Moon,andy kaufman|comedian|eccentric|wrestler|wrestling,tt0125664,English,UK,1999,7.4,0,0,0,0,0,1,0,0,0,0
+42438300,Biography|Crime|Drama,Casino,car bomb|card cheat|cash|casino|gambling syndicate,tt0112641,English,USA,1995,8.2,0,0,0,0,0,0,0,0,0,0
+23324666,Action|Thriller,From Paris with Love,ambassador|cia|dinner|spy|terrorist,tt1179034,English,France,2010,6.5,1,0,0,0,1,0,0,0,0,0
+23020488,Action|Comedy|Fantasy,Bulletproof Monk,monastery|monk|scroll|tibetan|tibetan monk,tt0245803,English,USA,2003,5.5,1,0,1,0,0,1,0,0,0,0
+90567722,Comedy,"Me, Myself & Irene",dissociative identity disorder|limousine|multiple personality|police|rhode island,tt0183505,English,USA,2000,6.5,0,0,0,0,0,1,0,0,0,0
+72601713,Animation|Comedy|Family,Barnyard,cow|farmer|howl|howling at the moon|vegetarian,tt0414853,English,Germany,2006,5.6,0,0,0,0,0,1,0,0,0,1
+296623634,Adventure|Drama|Fantasy|Romance,The Twilight Saga: New Moon,forks washington|protecting a woman|title same as book|vampire|werewolf,tt1259571,English,USA,2009,4.6,0,1,1,0,0,0,1,0,0,0
+267652016,Adventure|Animation|Comedy|Family|Fantasy,Shrek,donkey|fairy tale|ogre|princess|swamp,tt0126029,English,USA,2001,7.9,0,1,1,0,0,1,0,0,0,1
+165500000,Action|Adventure|Drama|Romance,Robin Hood: Prince of Thieves,balladeer|crusades|england|king|modern minstrel,tt0102798,English,USA,1991,6.9,1,1,0,0,0,0,1,0,0,0
+153620822,Comedy|Drama|Romance|Sport,Jerry Maguire,agent|career|client|fiance|sports agent,tt0116695,English,USA,1996,7.3,0,0,0,0,0,1,1,0,0,0
+218628680,Comedy|Fantasy,Ted,2010s|car accident|sex scene|teddy bear|testicle,tt1637725,English,USA,2012,7,0,0,1,0,0,1,0,0,0,0
+147637474,Comedy|Drama|Romance,As Good as It Gets,dog|friendship|neighbor|unlikely friendship|writer,tt0119822,English,USA,1997,7.7,0,0,0,0,0,1,1,0,0,0
+135014968,Biography|Comedy|Drama|Romance,Patch Adams,doctor|hospital|mental institution|nurse|student,tt0129290,English,USA,1998,6.7,0,0,0,0,0,1,1,0,0,0
+126203320,Comedy|Romance,Mr. Deeds,abbreviation in title|reporter|small town|sudden wealth|unknowing heir,tt0280590,English,USA,2002,5.8,0,0,0,0,0,1,1,0,0,0
+126975169,Mystery|Sci-Fi|Thriller,Super 8,deputy|group of friends|time|train|train crash,tt1650062,English,USA,2011,7.1,0,0,0,1,1,0,0,1,0,0
+125548685,Biography|Drama,Erin Brockovich,contamination|corporate crime|environmental issue|female protagonist|working single mother,tt0195685,English,USA,2000,7.3,0,0,0,0,0,0,0,0,0,0
+105807520,Comedy|Romance,How to Lose a Guy in 10 Days,advertising executive|diamond|magazine|party|wager,tt0251127,English,USA,2003,6.4,0,0,0,0,0,1,1,0,0,0
+191616238,Action|Comedy|Crime,22 Jump Street,college|drugs|hidden camera|tattoo|undercover,tt2294449,English,USA,2014,7.1,1,0,0,0,0,1,0,0,0,0
+105264608,Drama|Fantasy|Horror,Interview with the Vampire: The Vampire Chronicles,betrayal|dangerous friend|gothic|monster as victim|vampire,tt0110148,English,USA,1994,7.6,0,0,1,0,0,0,0,0,1,0
+97680195,Comedy|Romance,Yes Man,best friend|dvd|girlfriend|loan|self help,tt1068680,English,USA,2008,6.8,0,0,0,0,0,1,1,0,0,0
+126088877,Action|Comedy|Crime,Central Intelligence,accountant|blooper|espionage|facebook|high school reunion,tt1489889,English,USA,2016,6.6,1,0,0,0,0,1,0,0,0,0
+127997349,Adventure|Comedy|Drama|Fantasy|Musical,Into the Woods,based on stage musical|cinderella|little red riding hood|singing|witch,tt2180411,English,USA,2014,6,0,1,1,0,0,1,0,0,0,0
+88504640,Crime|Drama|Mystery|Thriller,Inside Man,bank|detective|negotiation|police|robber,tt0454848,English,USA,2006,7.6,0,0,0,0,1,0,0,1,0,0
+81517441,Action|Crime|Drama|Thriller,Payback,anti hero|criminal|greed|prostitute|tough guy,tt0120784,English,USA,1999,7.1,1,0,0,0,1,0,0,0,0,0
+81022333,Action|Adventure|Mystery|Sci-Fi,Congo,captain|congo|expedition|laser|lost city,tt0112715,English,USA,1995,5,1,1,0,1,0,0,0,1,0,0
+75621915,Comedy|Drama|Family,We Bought a Zoo,blocked road|father son relationship|love at first sight|teenage boy|zookeeper,tt1389137,English,USA,2011,7.1,0,0,0,0,0,1,0,0,0,0
+79948113,Drama|Mystery|Sci-Fi|Thriller,Knowing,disaster|end of the world|number|student|time capsule,tt0448011,English,USA,2009,6.2,0,0,0,1,1,0,0,1,0,0
+88658172,Comedy|Romance,Failure to Launch,friend|intervention|moving|secret|slacker,tt0427229,English,USA,2006,5.6,0,0,0,0,0,1,1,0,0,0
+75888270,Horror|Mystery,The Ring Two,cartoon on tv|foreign language adaptation|second part|videotape|writer,tt0377109,English,USA,2005,5.4,0,0,0,0,0,0,0,1,1,0
+75367693,Animation|Comedy|Family|Fantasy,Garfield,cat|dog|first part|lasagna|veterinarian,tt0356634,English,USA,2004,5,0,0,1,0,0,1,0,0,0,1
+73701902,Comedy|Family,Christmas with the Kranks,act of kindness|christmas|christmas eve|neighbor|vacation,tt0388419,English,USA,2004,5.2,0,0,0,0,0,1,0,0,0,0
+75605492,Biography|Drama|Sport,Moneyball,baseball|meeting|statistics|strategy|voice over,tt1210166,English,USA,2011,7.6,0,0,0,0,0,0,0,0,0,0
+67823573,Action|Drama|Thriller,Outbreak,disease|epidemic|monkey|quarantine|virus,tt0114069,English,USA,1995,6.6,1,0,0,0,1,0,0,0,0,0
+91439400,Action|Mystery|Thriller,Non-Stop,air marshal|death|passenger|terrorist|transatlantic flight,tt2024469,English,UK,2014,7,1,0,0,0,1,0,0,1,0,0
+67128202,Action|Adventure|Family|Fantasy|Sci-Fi|Thriller,Race to Witch Mountain,alien|military|mountain|spacecraft|ufo,tt1075417,English,USA,2009,5.7,1,1,1,1,1,0,0,0,0,0
+70496802,Action|Drama|Thriller,V for Vendetta,dystopia|freedom|government|revolution|terrorist,tt0434409,English,USA,2005,8.2,1,0,0,0,1,0,0,0,0,0
+60470220,Action|Adventure|Comedy,Shanghai Knights,1880s|arrow|imperial seal|murder|revenge,tt0300471,English,USA,2003,6.2,1,1,0,0,0,1,0,0,0,0
+,Crime|Drama,Unforgotten            ,,tt4192812,English,UK,,7.9,0,0,0,0,0,0,0,0,0,0
+58336565,Adventure|Animation|Comedy|Family,Curious George,hat|monkey|museum|shrine|yellow,tt0381971,English,USA,2006,6.6,0,1,0,0,0,1,0,0,0,1
+54997476,Crime|Drama|Mystery|Thriller,Don't Say a Word,mental institution|post traumatic stress|psychiatrist|vomiting|voyeur,tt0260866,English,USA,2001,6.3,0,0,0,0,1,0,0,1,0,0
+55682070,Action|Fantasy|Horror,Hansel & Gretel: Witch Hunters,bounty hunter|brother sister team|death of loved one|hansel and gretel|supernatural power,tt1428538,English,Germany,2013,6.1,1,0,1,0,0,0,0,0,1,0
+52752475,Drama|Thriller,Unfaithful,erotic thriller|infidelity|marital infidelity|unfaithfulness|wife's lover murdered by husband,tt0250797,English,USA,2002,6.7,0,0,0,0,1,0,0,0,0,0
+55092830,Action|Adventure|Sci-Fi|Thriller,I Am Number Four,based on young adult novel|good versus evil|guardian|human alien|ohio,tt1464540,English,USA,2011,6.1,1,1,0,1,1,0,0,0,0,0
+50815288,Drama|Thriller,Syriana,cia|hezbollah|lebanon|oil|prince,tt0365737,English,USA,2005,7,0,0,0,0,1,0,0,0,0,0
+52822418,Action|Drama|Thriller|War,13 Hours,based on true story|cia agent|libya|mercenary|u.s. ambassador,tt4172430,English,USA,2016,7.4,1,0,0,0,1,0,0,0,0,0
+50150619,Adventure|Animation|Comedy|Family|Fantasy|Romance,The Book of Life,afterlife|bullfight|bullfighting|love triangle|mexico,tt2262227,English,USA,2014,7.3,0,1,1,0,0,1,1,0,0,1
+48745150,Crime|Thriller,Firewall,architect|bank|cayman islands|meeting|murder,tt0408345,English,USA,2006,5.8,0,0,0,0,1,0,0,0,0,0
+50007168,Action|Crime|Drama|Thriller,Absolute Power,death|death of wife|murder|thief|violence,tt0118548,English,USA,1997,6.7,1,0,0,0,1,0,0,0,0,0
+48154732,Action|Drama|War,G.I. Jane,feminism|hit in the crotch|kicked in the crotch|kicked in the testicles|navy,tt0119173,English,USA,1997,5.8,1,0,0,0,0,0,0,0,0,0
+48265581,Drama|Mystery|Thriller,The Game,birthday|falling through a glass roof|game|hitchcockian|suicide,tt0119174,English,USA,1997,7.8,0,0,0,0,1,0,0,1,0,0
+46982632,Adventure|Horror|Mystery,Silent Hill,gothic|police|police officer|silent hill|sleepwalking,tt0384537,English,Canada,2006,6.6,0,1,0,0,0,0,0,1,1,0
+44737059,Comedy|Sport,The Replacements,coach|football player|misfits|strike|sumo wrestler,tt0191397,English,USA,2000,6.5,0,0,0,0,0,1,0,0,0,0
+44484065,Action|Crime|Drama|Mystery|Thriller,The Negotiator,hostage|innocence|murder|negotiator|police,tt0120768,English,Germany,1998,7.3,1,0,0,0,1,0,0,1,0,0
+47553512,Action|Thriller,Into the Storm,danger|graduation|storm|teenage boy|tornado,tt2106361,English,USA,2014,5.8,1,0,0,0,1,0,0,0,0,0
+42610000,Action|Comedy|Crime|Thriller,Beverly Hills Cop III,california|counterfeit|counterfeit money|money|theme park,tt0109254,English,USA,1994,5.5,1,0,0,0,1,1,0,0,0,0
+41482207,Comedy|Fantasy|Horror,Gremlins 2: The New Batch,gremlin|horror host|hulk hogan|monster|skyscraper,tt0099700,English,USA,1990,6.3,0,0,1,0,0,1,0,0,1,0
+47105085,Crime|Drama,The Judge,courtroom|dysfunctional family|indiana|lawyer|trial,tt1872194,English,USA,2014,7.4,0,0,0,0,0,0,0,0,0,0
+41256277,Action|Thriller,The Peacemaker,nuclear explosion|nuclear weapon|russia|train|train crash,tt0119874,English,USA,1997,5.9,1,0,0,0,1,0,0,0,0,0
+50740078,Action|Horror|Sci-Fi|Thriller,Resident Evil: Apocalypse,cover up|monster|strong female character|strong female lead|zombie apocalypse,tt0318627,English,Germany,2004,6.2,1,0,0,1,1,0,0,0,1,0
+40203020,Comedy|Drama|Romance,Bridget Jones: The Edge of Reason,american actress playing british character|intern|prison|six word title|thailand,tt0317198,English,UK,2004,5.9,0,0,0,0,0,1,1,0,0,0
+40905277,Crime|Drama|Romance|Thriller,Out of Time,cancer|florida|insurance|life insurance policy|small town,tt0313443,English,USA,2003,6.5,0,0,0,0,1,0,1,0,0,0
+39778599,Adventure|Drama|Thriller,The Beach,love|map|paradise|thailand|travel,tt0163978,English,USA,2000,6.6,0,1,0,0,1,0,0,0,0,0
+37486138,Comedy|Drama|Romance,Raising Helen,fashion show|female protagonist|love|pastor|queens new york city,tt0350028,English,USA,2004,6,0,0,0,0,0,1,1,0,0,0
+38105077,Action|Crime|Thriller,Ninja Assassin,critically bashed|kung fu|martial artist|martial arts|ninja,tt1186367,English,USA,2009,6.4,1,0,0,0,1,0,0,0,0,0
+35168395,Drama|Romance|Sport,For Love of the Game,baseball|baseball movie|detroit tigers|perfect game|pitcher,tt0126916,English,USA,1999,6.5,0,0,0,0,0,0,1,0,0,0
+,Crime|Drama|Mystery,A Touch of Frost            ,cult tv|death|detective inspector|four word title|internal affairs,tt0108967,English,UK,,7.8,0,0,0,0,0,0,0,1,0,0
+32741596,Drama|Fantasy,Hereafter,death|france|near death experience|tsunami|twin brother,tt1212419,English,USA,2010,6.5,0,0,1,0,0,0,0,0,0,0
+31874869,Crime|Mystery|Thriller,Murder by Numbers,disposing of a dead body|high school student|murder|sociopath|teenage boy,tt0264935,English,USA,2002,6.1,0,0,0,0,1,0,0,1,0,0
+30306268,Action|Crime|Thriller,Assassins,assassin|floppy disk|modem|rival|russian,tt0112401,English,France,1995,6.3,1,0,0,0,1,0,0,0,0,0
+27667947,Crime|Drama|Thriller,Hannibal Rising,aunt|cannibalism|faked death|medical student|revenge,tt0367959,English,UK,2007,6.2,0,0,0,0,1,0,0,0,0,0
+27067160,Comedy|Drama|Romance,The Story of Us,four word title|husband wife relationship|male rear nudity|marriage|summer camp,tt0160916,English,USA,1999,5.9,0,0,0,0,0,1,1,0,0,0
+26616999,Action|Adventure|Romance|Sci-Fi|Thriller,The Host,alien|alien creature|body snatching|desert|parasite,tt1517260,English,USA,2013,5.9,1,1,0,1,1,0,1,0,0,0
+26536120,Action|Crime|Drama|Mystery|Thriller,Basic,2000s|army|military crime|necklace yanked off|panama,tt0264395,English,Germany,2003,6.5,1,0,0,0,1,0,0,1,0,0
+26199517,Action|Crime|Drama|Mystery|Thriller,Blood Work,boat|heart transplant|murder|serial killer|sister,tt0309377,English,USA,2002,6.4,1,0,0,0,1,0,0,1,0,0
+25450527,Action|Crime|Drama|Mystery|Thriller,The International,bank|chase|district attorney|interpol|murder,tt0963178,English,USA,2009,6.5,1,0,0,0,1,0,0,1,0,0
+25407250,Action|Adventure|Sci-Fi|Thriller,Escape from L.A.,escape|island|los angeles california|machismo|president's daughter,tt0116225,English,USA,1996,5.7,1,1,0,1,1,0,0,0,0,0
+,Drama|Mystery|Thriller,Twisted            ,,tt2355844,English,USA,,7.5,0,0,0,0,1,0,0,1,0,0
+23159305,Action|Adventure|Animation|Comedy|Drama|Family|Sci-Fi,The Iron Giant,boy|friend|government agent|maine|robot,tt0129167,English,USA,1999,8,1,1,0,1,0,1,0,0,0,1
+24006726,Adventure|Comedy|Drama,The Life Aquatic with Steve Zissou,expedition|oceanographer|sea|shark|team,tt0362270,English,USA,2004,7.3,0,1,0,0,0,1,0,0,0,0
+20389967,Action|Biography|Drama|History|War,Free State of Jones,american civil war|civil war|u.s. civil war,tt1124037,English,USA,2016,6.7,1,0,0,0,0,0,0,0,0,0
+19593740,Crime|Drama|Thriller,The Life of David Gale,activist|death|death row|murder|texas,tt0289992,English,USA,2003,7.5,0,0,0,0,1,0,0,0,0,0
+19118247,Action|Comedy,Man of the House,cheerleader|cheerleading movie|neo noir|neo western|texas ranger,tt0331933,English,USA,2005,5.4,1,0,0,0,0,1,0,0,0,0
+26442251,Action|Crime|Drama|Thriller,Run All Night,death|drug dealer|limousine|limousine driver|one night,tt2199571,English,USA,2015,6.6,1,0,0,0,1,0,0,0,0,0
+18472363,Action|Adventure|Crime|Thriller,Into the Blue,bahamas|blood splatter|cocaine|hairy chest|shark,tt0378109,English,USA,2005,5.8,1,1,0,0,1,0,0,0,0,0
+21557240,Adventure|Comedy|Fantasy,Your Highness,knight|prince|quest|rescue|thong bikini,tt1240982,English,USA,2011,5.6,0,1,1,0,0,1,0,0,0,0
+21283440,Drama|Mystery|Thriller,Dream House,closet|father daughter relationship|psychiatric hospital|real life sisters playing sisters|train,tt1462041,English,USA,2011,6,0,0,0,0,1,0,0,1,0,0
+10556196,Crime|Drama|Thriller,Mad City,hostage|museum|natural history museum|news reporter|reporter,tt0119592,English,USA,1997,6.2,0,0,0,0,1,0,0,0,0,0
+16671505,Adventure|Comedy|Crime|Drama|Family,Baby's Day Out,baby|baby boy|kidnapping|kidnapping a child|taxi,tt0109190,English,USA,1994,5.9,0,1,0,0,0,1,0,0,0,0
+10400000,Drama|Romance,The Scarlet Letter,17th century|adultery|letter|pubic hair|swimming,tt0114345,English,USA,1995,5.1,0,0,0,0,0,0,1,0,0,0
+9528092,Biography|Drama|Thriller,Fair Game,bush administration|cia|interview|iraq|new york times,tt0977855,English,USA,2010,6.8,0,0,0,0,1,0,0,0,0,0
+,Action|Drama|Sci-Fi,Defiance            ,alien|alien invasion|planet invasion|post apocalypse|year 2046,tt2189221,English,USA,,7,1,0,0,1,0,0,0,0,0,0
+20488579,Action|Sci-Fi|Thriller,Gamer,battle|convict|death|mind control|role playing,tt1034032,English,USA,2009,5.8,1,0,0,1,1,0,0,0,0,0
+19445217,Drama|Fantasy|Romance,Beautiful Creatures,dream|escape|magic|magic spell|small town,tt1559547,English,USA,2013,6.2,0,0,1,0,0,0,1,0,0,0
+8355815,Comedy|Crime|Drama|Thriller,Death to Smoochy,children|children's tv show|money|revenge|scandal,tt0266452,English,UK,2002,6.4,0,0,0,0,1,1,0,0,0,0
+6291602,Comedy|Sci-Fi,What Planet Are You From?,alien|baby|banker|pregnancy|question in title,tt0181151,English,USA,2000,5.6,0,0,0,1,0,1,0,0,0,0
+43905746,Action|Sci-Fi|Thriller,The One,fight|multiverse|police|police officer|prison,tt0267804,English,USA,2001,5.9,1,0,0,1,1,0,0,0,0,0
+,Drama|Romance|Sci-Fi,Outlander            ,based on novel|clan|scotland|scottish highlands|year 1743,tt3006802,English,USA,,8.5,0,0,0,1,0,0,1,0,0,0
+21413502,Action|Adventure|Comedy|Crime|Music|Mystery,The Adventures of Ford Fairlane,detective|groupie|murder|music industry|rock n roll,tt0098987,English,USA,1990,6.3,1,1,0,0,0,1,0,1,0,0
+7994115,Comedy|Drama|Music,Pirate Radio,inspired by radio program|inspired by true events|pirate broadcasting|pirate radio|pirate radio station,tt1131729,English,UK,2009,7.4,0,0,0,0,0,1,0,0,0,0
+124107476,Crime|Drama|Thriller,Traffic,cocaine|drug smuggling|interlinked stories|judge|mexico,tt0181865,English,USA,2000,7.6,0,0,0,0,1,0,0,0,0,0
+197171806,Action|Adventure|Fantasy,Indiana Jones and the Last Crusade,castle|diary|holy grail|map|nazi,tt0097576,English,USA,1989,8.3,1,1,1,0,0,0,0,0,0,0
+12802907,Drama|Romance,Anna Karenina,dance|infidelity|marriage|russia|russian,tt1781769,English,UK,2012,6.6,0,0,0,0,0,0,1,0,0,0
+31569268,Action|Crime|Drama|Sci-Fi|Thriller,Chappie,artificial intelligence|consciousness|future|mind uploading|robot,tt1823672,English,USA,2015,6.9,1,0,0,1,1,0,0,0,0,0
+66488090,Crime|Drama|Mystery|Thriller,The Bone Collector,new york city|police|quadriplegic|serial killer|suicide,tt0145681,English,USA,1999,6.7,0,0,0,0,1,0,0,1,0,0
+95308367,Crime|Drama|Thriller,Panic Room,brownstone|burglar|money|panic|panic room,tt0258000,English,USA,2002,6.8,0,0,0,0,1,0,0,0,0,0
+60652036,Action|Adventure|Comedy|Drama|War,Three Kings,gold|gulf war|iraq|kuwait|map,tt0120188,English,USA,1999,7.1,1,1,0,0,0,1,0,0,0,0
+56607223,Adventure|Comedy,Rat Race,casino|locker|money|museum|race,tt0250687,English,Canada,2001,6.4,0,1,0,0,0,1,0,0,0,0
+50173190,Drama|Mystery|Sci-Fi,K-PAX,extraterrestrial|hospital|patient|planet|science,tt0272152,English,USA,2001,7.4,0,0,0,1,0,0,0,1,0,0
+47095453,Comedy|Fantasy|Romance,Kate & Leopold,bridge|brooklyn bridge|falling down an elevator shaft|time travel|time travel romance,tt0035423,English,USA,2001,6.4,0,0,1,0,0,1,1,0,0,0
+37879996,Comedy|Fantasy|Romance,Bedazzled,contract|devil|dream|soul|wish,tt0230030,English,USA,2000,6,0,0,1,0,0,1,1,0,0,0
+53574088,Adventure|Crime|Drama|Western,3:10 to Yuma,outlaw|rancher|small western town|stagecoach|train,tt0381849,English,USA,2007,7.8,0,1,0,0,0,0,0,0,0,0
+89253340,Action|Thriller,Taken 3,betrayal|death|final showdown|murder|on the run,tt2446042,English,France,2014,6,1,0,0,0,1,0,0,0,0,0
+37339525,Crime|Drama|Romance|Thriller,Out of Sight,heist|neo noir|one last job|opposites attract|u.s. marshal,tt0120780,English,USA,1998,7,0,0,0,0,1,0,1,0,0,0
+528972,Drama|Romance|War,Earth,friend|hindu|india|muslim|sikh,tt0150433,Hindi,India,1998,7.8,0,0,0,0,0,0,1,0,0,0
+69304264,Crime|Romance|Thriller,The Thomas Crown Affair,art|insurance investigator|martinique|painting|trust,tt0155267,English,USA,1999,6.8,0,0,0,0,1,0,1,0,0,0
+29781453,Biography|Comedy|Drama,Riding in Cars with Boys,boy|college|heroin|working class|writer,tt0200027,English,USA,2001,6.4,0,0,0,0,0,1,0,0,0,0
+,Action|Adventure|Drama,First Blood,1980s|colonel|deputy|rambo|sheriff,tt0083944,English,USA,1982,7.7,1,1,0,0,0,0,0,0,0,0
+,Drama|Mystery|Sci-Fi,Solaris,hallucination|ocean|psychologist|scientist|space station,tt0069293,Russian,Soviet Union,1972,8.1,0,0,0,1,0,0,0,1,0,0
+5600000,Drama|Horror|Romance|Thriller,Mary Reilly,19th century|butler|housemaid|laboratory|servant,tt0117002,English,USA,1996,5.8,0,0,0,0,1,0,1,0,1,0
+93607673,Comedy|Romance,America's Sweethearts,actor|love|movie star|press|publicist,tt0265029,English,USA,2001,5.7,0,0,0,0,0,1,1,0,0,0
+67263182,Drama|Mystery|Thriller,Insomnia,detective|insomnia|murder|partner|police,tt0278504,English,USA,2002,7.2,0,0,0,0,1,0,0,1,0,0
+92001027,Action|Adventure|Drama|Sci-Fi|Thriller,Star Trek: First Contact,21st century|borg|borg sphere|captain|sphere,tt0117731,English,USA,1996,7.6,1,1,0,1,1,0,0,0,0,0
+58918501,Action|Drama|Mystery|Thriller|War,Courage Under Fire,bravery|honor|medal of honor|military life|unreliable flashback,tt0115956,English,USA,1996,6.6,1,0,0,0,1,0,0,1,0,0
+181395380,Comedy|Fantasy|Romance,Liar Liar,birthday|birthday wish|father disappoints child|lie|workaholic,tt0119528,English,USA,1997,6.8,0,0,1,0,0,1,1,0,0,0
+14946229,Biography|Crime|Drama|Thriller,The Infiltrator,,tt1355631,English,UK,2016,7.3,0,0,0,0,1,0,0,0,0,0
+139852971,Action|Crime|Thriller,Taken 2,albanian|revenge|revenge motive|teenage daughter|vacation,tt1397280,English,France,2012,6.3,1,0,0,0,1,0,0,0,0,0
+110000082,Comedy,Scary Movie 3,crop circle|farm|orchestral music score|reference to michael jackson|videotape,tt0306047,English,USA,2003,5.5,0,0,0,0,0,1,0,0,0,0
+106807667,Action|Comedy|Crime|Romance,Miss Congeniality,beauty pageant|fbi|female agent|pageant|undercover,tt0212346,English,USA,2000,6.2,1,0,0,0,0,1,1,0,0,0
+101702060,Action|Adventure|Family|Fantasy|Sci-Fi,Journey to the Center of the Earth,cave|lost world|missing brother|mountain|venus flytrap,tt0373051,English,USA,2008,5.8,1,1,1,1,0,0,0,0,0,0
+95149435,Comedy|Family|Romance,The Princess Diaries 2: Royal Engagement,coronation|horse|princess|queen|side saddle,tt0368933,English,USA,2004,5.7,0,0,0,0,0,1,1,0,0,0
+100768056,Crime|Drama|Mystery|Thriller,The Pelican Brief,college professor|fbi|president|professor|supreme court,tt0107798,English,USA,1993,6.5,0,0,0,0,1,0,0,1,0,0
+92115211,Crime|Drama|Mystery|Thriller,The Client,boy|brother|lawyer|mafia|senator,tt0109446,English,USA,1994,6.7,0,0,0,0,1,0,0,1,0,0
+93452056,Adventure|Comedy|Drama,The Bucket List,billionaire|friend|hospital|list|mechanic,tt0825232,English,USA,2007,7.4,0,1,0,0,0,1,0,0,0,0
+83287363,Action|Thriller,Patriot Games,analyst|cia|ira|terrorist|terrorist attack,tt0105112,English,USA,1992,6.9,1,0,0,0,1,0,0,0,0,0
+82931301,Comedy|Romance,Monster-in-Law,breakdown|fight|mother in law|scheme|wedding,tt0369735,English,Germany,2005,5.5,0,0,0,0,0,1,1,0,0,0
+76261036,Crime|Drama|Thriller,Training Day,lapd|narc|narcotics|title spoken by character|training,tt0139654,English,USA,2001,7.7,0,0,0,0,1,0,0,0,0,0
+71423726,Adventure|Comedy|Sci-Fi,Galaxy Quest,alien|alien race|convention|fan|general,tt0177789,English,USA,1999,7.3,0,1,0,1,0,1,0,0,0,0
+88625922,Adventure|Comedy|Family|Musical,The Muppets,bel air california|book|friends who live together|the muppets|tribute band,tt1204342,English,USA,2011,7.1,0,1,0,0,0,1,0,0,0,0
+70001065,Action|Horror,Blade,1990s|blade|blood|vampire|vampire hunter,tt0120611,English,USA,1998,7.1,1,0,0,0,0,0,0,0,1,0
+67253092,Drama|Sport,Coach Carter,basketball|basketball coach|coach|contract|high school,tt0393162,English,USA,2005,7.2,0,0,0,0,0,0,0,0,0,0
+66790248,Drama|Thriller,Changing Lanes,car accident|feud|lawyer|revenge|road rage,tt0264472,English,USA,2002,6.5,0,0,0,0,1,0,0,0,0,0
+65557989,Action|Adventure|Horror|Thriller,Anaconda,amazon|anaconda|boat|jungle|snake,tt0118615,English,USA,1997,4.6,1,1,0,0,1,0,0,0,1,0
+59365105,Comedy|Drama|Romance,Love Actually,aging rocker|christmas|love at first sight|minister|prime minister,tt0314331,English,UK,2003,7.7,0,0,0,0,0,1,1,0,0,0
+162792677,Adventure|Animation|Comedy|Family|Fantasy,A Bug's Life,ant|circus|grasshopper|misunderstanding|overhearing,tt0120623,English,USA,1998,7.2,0,1,1,0,0,1,0,0,0,1
+31598308,Horror|Mystery|Thriller,From Hell,freemason|jack the ripper|opium|prostitute|victorian era,tt0120681,English,USA,2001,6.8,0,0,0,0,1,0,0,1,1,0
+57362581,Action|Crime|Drama|Romance|Thriller,The Specialist,bomb|cia|explosive|explosives expert|miami florida,tt0111255,English,Peru,1994,5.4,1,0,0,0,1,0,1,0,0,0
+53854588,Comedy|Drama|Romance|Sport,Tin Cup,driving range|golf|golfer|tournament|winnebago,tt0117918,English,USA,1996,6.3,0,0,0,0,0,1,1,0,0,0
