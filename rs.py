@@ -4,16 +4,17 @@ import random
 import tensorflow as tf
 import numpy as np
 from pathlib import Path
-from string import ascii_lowercase
+from string import ascii_lowercase,digits
 import sys
 
 
 def find_com_words (name, words):
     count = 0
+    blacklist = ['the','of','at','and','in','on'] + list(ascii_lowercase) + list(digits)
     for word in words:
         lower_word = word.lower()
-        if (lower_word not in ['the','of','at','a','Z','and','in','on']):
-            if(name.find(word)!=-1) :
+        if (lower_word not in blacklist):
+            if(name.find(word) != -1) :
                 count = count + 1
     #print(count)
     if(count >= 2):
@@ -33,12 +34,12 @@ if( len(sys.argv) == 1 ):
 else:
     input_movies = sys.argv[1:]
 
-movies = np.array(input_movies,dtype=int)
+input_movies = np.array(input_movies,dtype=int)
 
 data = pd.read_csv('data/genres.csv')
 genre_oh = np.array(data) # oh -> one hot encoding of particular genres
 
-x = genre_oh[movies,:]
+x = genre_oh[input_movies,:]
 print(x)
 m , n = x.shape
 
@@ -86,31 +87,26 @@ movie_genres = movie_data['genres']
 
 # Append sequels and prequels for use later if needed
 name_class = []
-for test in movie_names[movies]:
+for test in movie_names[input_movies]:
     words = test.split()
     #print(words)
     i = 0
     for name in movie_names:
         if(find_com_words(name,words)):
             print(name,i)
-            if(i not in movies):
+            if(i not in input_movies):
                 name_class.append(i)
         i = i + 1
 
 name_class = np.array(name_class)
 
 # Delete input movies from prediction
-to_delete = []
-for i in range(len(order)) :
-    if(order[i] in movies):
-        to_delete.append(i)
-to_delete = np.array(to_delete)
-order_f= np.delete(order,to_delete)
-order_f = np.flip(order_f)
+for i in input_movies:
+    index = np.argwhere(order == i)
+    order = np.delete(order,index) 
 
-# for i in [0,1,2,3,4]:
-#     ind = np.where(order_f == i)
-#     print(ind)
+# Arrange in desc since we need movie index with highest score
+order_final = np.flip(order)
 
 # Make a dir for output if not there alerady
 Path("output/").mkdir(parents=True, exist_ok=True)
@@ -120,4 +116,4 @@ print(name_class)
 # names.json -> movies with similar names(sequels)
 # predicted_movies -> Top 20 predicted movies
 movie_data.iloc[name_class].to_json('output/names.json','records')
-movie_data.iloc[order_f[0:20]].to_json('output/predicted_movies.json','records')
+movie_data.iloc[order_final[0:20]].to_json('output/predicted_movies.json','records')
